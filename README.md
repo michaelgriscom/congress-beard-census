@@ -3,7 +3,7 @@
 Blind-coded facial hair of every U.S. member of Congress, governor and Union
 Army general with a portrait on Wikimedia Commons, 1789–2026, plus the analysis
 behind the blog post "How surprising is it that every bearded president was born
-in Ohio?"
+in Ohio?" on [michaelgris.com](https://michaelgris.com).
 
 | Group                      | Men coded | Coverage                                                       |
 | -------------------------- | --------- | -------------------------------------------------------------- |
