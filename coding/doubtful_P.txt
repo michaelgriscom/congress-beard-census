@@ -1,0 +1,59 @@
+000-4 C full-body shot, face small
+000-19 C sideburns moderately long, borderline S
+001-1 C engraving, long hair at sides, possible faint neck shading
+001-7 C scene at podium, face small
+001-22 C child portrait (possibly girl), unclear subject
+001-23 S long side whiskers to jaw, borderline
+002-1 B engraving, upper lip appears shaved but could be light mustache (F)
+003-5 F short trimmed beard along jaw + mustache; could be G
+003-14 M engraving, appears grey mustache, could be shading (C)
+004-17 C seated at desk in office scene, face small
+005-4 S dark side whiskers down to jaw on one side, borderline C
+005-23 S painting, sideburns to about mouth level, borderline C
+006-18 C crowd photo, several faces; coded central figure
+007-2 C faded painting, low contrast
+008-3 F mustache + short chin beard wrapping jaw; could be G
+008-4 M caricature drawing
+008-9 M faint thin mustache, could be shadow (C)
+008-14 S sideburns to about mouth level, borderline C
+009-9 S painting, sideburns to about mouth level, borderline C
+009-13 C face small
+009-18 C face small
+010-0 C full-body side view hanging map, face small
+010-7 C face tiny
+010-16 S engraving, sideburns toward jaw, borderline C
+010-18 C painting, sideburns to about mid-cheek, borderline S
+010-23 C profile view under cap
+011-3 C bronze bust sculpture, not a photo
+011-13 B upper lip appears shaved under beard; could be F
+011-23 M short grey mustache with stubble
+012-19 S side whiskers to jaw; may continue under chin (B)
+012-20 C dark profile engraving, low contrast
+013-5 S naive painting, dark sideburn to jaw on one side, borderline C
+013-21 C profile silhouette-style engraving
+014-20 C woodcut, dark sideburn near ear, borderline S
+015-11 S engraving, sideburns to about mouth level, borderline C
+016-1 S profile painting, sideburn to jaw
+016-3 C profile engraving in roundel
+016-23 S naive painting, dark hair framing face to jaw, borderline C
+017-12 B white chin curtain, upper lip appears shaved; could be F
+017-18 S faded painting, whiskers to jaw, borderline C
+017-23 S large side whiskers, chin shaved; unclear if they meet under jaw (B)
+018-22 C 1970s long sideburns just below ear, borderline S
+019-20 C over-cropped, only lower half of face visible
+019-23 S painting, sideburns to about mouth level, borderline C
+020-0 C small seated figure, face small
+020-1 C face tiny
+020-3 C possible very faint thin mustache
+020-6 C profile wax/relief portrait
+020-17 X banquet scene with several people; crop missed single face
+020-18 M grey mustache likely, could be shadow (C)
+021-0 C cell image tiny, face small
+021-10 C possible faint thin mustache (M), low resolution
+021-15 B white beard under chin, upper lip appears shaved; could be F
+022-5 C line sketch, possible whisker fringe along jaw
+022-19 S painting, white whiskers down cheek to jaw
+022-20 C faded dark painting
+023-0 C sketch, sideburn to about mid-cheek, borderline S
+023-2 C grey hair near ear may extend down cheek, borderline S
+024-11 C faded drawing, side hair possibly whiskers to jaw, borderline S

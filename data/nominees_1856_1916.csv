@@ -1,0 +1,33 @@
+year,party,name,birth_state,facial_hair,won,union_general,notes
+1856,Republican,John C. Frémont,GA,full_beard,no,yes,Union major general (1861-1864)
+1856,Democratic,James Buchanan,PA,clean,yes,no,
+1860,Republican,Abraham Lincoln,KY,clean,yes,no,Clean-shaven during the 1860 campaign; chin beard by inauguration
+1860,Democratic,Stephen A. Douglas,VT,clean,no,no,
+1864,Republican,Abraham Lincoln,KY,chin_beard,yes,no,
+1864,Democratic,George B. McClellan,PA,mustache,no,yes,Mustache plus a small tuft under the lip
+1868,Republican,Ulysses S. Grant,OH,full_beard,yes,yes,
+1868,Democratic,Horatio Seymour,NY,neck_beard,no,no,Fringe of chin/neck whiskers; no mustache
+1872,Republican,Ulysses S. Grant,OH,full_beard,yes,yes,
+1872,Liberal Republican / Democratic,Horace Greeley,NH,neck_beard,no,no,Fringe of chin/neck whiskers; no mustache
+1876,Republican,Rutherford B. Hayes,OH,full_beard,yes,yes,
+1876,Democratic,Samuel J. Tilden,NY,clean,no,no,
+1880,Republican,James A. Garfield,OH,full_beard,yes,yes,
+1880,Democratic,Winfield Scott Hancock,PA,mustache,no,yes,Mustache plus a small tuft under the lip
+1884,Republican,James G. Blaine,PA,full_beard,no,no,
+1884,Democratic,Grover Cleveland,NJ,mustache,yes,no,
+1888,Republican,Benjamin Harrison,OH,full_beard,yes,yes,
+1888,Democratic,Grover Cleveland,NJ,mustache,no,no,
+1892,Republican,Benjamin Harrison,OH,full_beard,no,yes,
+1892,Democratic,Grover Cleveland,NJ,mustache,yes,no,
+1896,Republican,William McKinley,OH,clean,yes,no,
+1896,Democratic,William Jennings Bryan,IL,clean,no,no,
+1900,Republican,William McKinley,OH,clean,yes,no,
+1900,Democratic,William Jennings Bryan,IL,clean,no,no,
+1904,Republican,Theodore Roosevelt,NY,mustache,yes,no,
+1904,Democratic,Alton B. Parker,NY,mustache,no,no,
+1908,Republican,William Howard Taft,OH,mustache,yes,no,
+1908,Democratic,William Jennings Bryan,IL,clean,no,no,
+1912,Republican,William Howard Taft,OH,mustache,no,no,
+1912,Democratic,Woodrow Wilson,VA,clean,yes,no,
+1916,Republican,Charles Evans Hughes,NY,full_beard,no,no,Last major-party nominee with a beard
+1916,Democratic,Woodrow Wilson,VA,clean,yes,no,
