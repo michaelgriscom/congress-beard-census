@@ -43,8 +43,9 @@ for the Ohio presidents.
   - `wikidata`: Wikidata ID. The portrait is that item's P18 image, listed in
     `coding/images.json`.
   - `name`, `gender` (`M`/`F`), `birth_year`.
-  - `congress_terms`, `governor_terms`: semicolon-separated
-    `start-end:state:party`.
+  - `congress_terms`: semicolon-separated `start-end:state:party:chamber`
+    (`house` or `senate`).
+  - `governor_terms`: semicolon-separated `start-end:state:party`.
   - `facial_hair`: `full_beard`, `goatee_mustache`, `beard_no_mustache` (chin
     beard or chin curtain with a shaved upper lip), `sideburns` (whiskers not
     joined across the chin), `mustache`, `clean`, `woman` or `unusable`.
@@ -98,6 +99,7 @@ panel of people.
 
 ```bash
 node analysis/analyze.mjs   # every number in the post, from data/ (no dependencies)
+node charts/cohort-data.mjs # the data embedded in charts/beard-cohort-chart.html
 ```
 
 Rebuilding the census from scratch needs Python 3 with `pyyaml`, `pillow` and

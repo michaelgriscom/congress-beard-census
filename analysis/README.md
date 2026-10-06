@@ -168,12 +168,14 @@ isn't on the full-rank list.
 P(at least 3 presidents from 1849–1929 have full beards and all were born in
 the same state). Only Ohio had 3 or more presidents in that span, so "any
 state" and "Ohio" are the same here. Each president's beard probability comes
-from the census (section 11 of the script).
+from the census (section 11 of the script). The first two rows are section
+12: each state's share of white native-born Americans in the 1870 census,
+raised to the fourth power and summed over states.
 
 | Model                                                         | Odds        |
 | ------------------------------------------------------------- | ----------- |
-| Ohio's population, all four Ohio-born (1870 nativity, whites) | 1 in 13,000 |
-| ...any one state                                              | 1 in 1,400  |
+| Ohio's population, all four Ohio-born (1870 nativity, whites) | 1 in 13,320 |
+| ...any one state                                              | 1 in 1,376  |
 | Actual presidents taken as given, flat beard rate             | 1 in 98     |
 | Beard rate by inauguration year                               | 1 in 45     |
 | Beard rate by year and generation (men born within 5 years)   | 1 in 18     |
@@ -184,6 +186,22 @@ The leftover luck is mostly that Chester Arthur (44%) and Grover Cleveland
 takes something as given; the numbers measure how much of the coincidence is
 left to explain, not the odds that history went this way. With four
 presidents, read them as orders of magnitude.
+
+## Spare facts
+
+From section 13 of the script:
+
+- **The beard drought**: from 1944 to 1958 not one man in Congress had a full
+  beard, the only such years in the census.
+- **The comeback is bipartisan**: 7% of Republicans and 8% of Democrats in
+  Congress had full beards in 2023–2026.
+- **State delegations, 1873–1885**: most bearded were California (57%),
+  Alabama (56%) and Michigan (50%); least were Wisconsin (19%), Texas (23%)
+  and Kentucky (24%).
+- **Office barely mattered** (1871–1889): senators 33%, representatives 36%,
+  governors 38%.
+- **The South was as bearded as the North** (1871–1889): 37% of Southern
+  members vs 35% of others, so beards weren't a Union or Republican signal.
 
 ## Published U.S. data
 
