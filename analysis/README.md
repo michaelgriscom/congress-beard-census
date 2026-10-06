@@ -187,6 +187,51 @@ takes something as given; the numbers measure how much of the coincidence is
 left to explain, not the odds that history went this way. With four
 presidents, read them as orders of magnitude.
 
+## Follow-up analyses
+
+`analysis/followups/analyses.py` (output in `analysis/followups/results.txt`),
+using birthplaces, birth years and military service from Wikidata
+(`data/wikidata_people.json`, built by `analysis/followups/fetch_wikidata.py`).
+
+**1. Ohio exported politicians.** Of members of Congress serving 1861–1901
+with a known U.S. birth state, 1,369 represented a state other than the one
+they were born in. Ohio was the third-largest source, after New York (245) and
+Pennsylvania (139). 136 Ohio-born members served other states, nearly as many
+as the 140 who served Ohio itself. They went mostly west: Iowa (62), Indiana
+(47), Illinois (32) and Kansas (30). Ohio-born men made up 27% of Iowa's
+members, 24% of Kansas's and 19% of Indiana's (Benjamin Harrison's state), but
+only 7% of Illinois's (Grant's).
+
+**2. The generals' beards aren't just age.** Generals were born a little later
+than same-era congressmen (median 1823 vs 1819), and full beards peaked with
+men born in the 1820s, so some of the 49% vs 27% gap could be generational.
+Comparing within birth decades:
+
+| Born in | Union generals | Congressmen (1857–1873) |
+| ------- | -------------- | ----------------------- |
+| 1800s   | 47% of 43      | 12% of 186              |
+| 1810s   | 54% of 151     | 22% of 473              |
+| 1820s   | 61% of 234     | 45% of 449              |
+| 1830s   | 31% of 123     | 39% of 175              |
+
+Matched on birth year, generals had full beards 50% of the time against 35%
+for congressmen born in the same years. The age-adjusted odds ratio is 2.1
+(Mantel–Haenszel, p ≈ 2 × 10⁻¹³), down from 2.6 unadjusted. So age explains a
+little of the gap, not most of it. One exception: generals born in the 1830s,
+mostly young volunteer officers, were *less* bearded than congressmen their
+age.
+
+**3. Ordinary veterans: same direction, much weaker.** Among men serving in
+Congress 1865–1895 (born 1815–1845), Union veterans had full beards 45% of the
+time, Confederate veterans 41%, and men with no recorded service 38%. Within
+birth cohorts the veterans' odds were about 1.3 times higher on both sides
+(North 1.28, p = 0.22; North excluding generals 1.27, p = 0.35; South 1.35,
+p = 0.20), but none of these is statistically significant. Wikidata's service
+records are incomplete (only 155 Union veterans are recorded among these
+members), so many veterans sit in the "no recorded service" group and dilute
+any difference. Read together: war service may have nudged men toward beards
+on both sides, but the strong effect belongs to the generals.
+
 ## Spare facts
 
 From section 13 of the script:
