@@ -1,0 +1,58 @@
+======================================================================
+1. Members of Congress serving 1861-1901, by birth state vs state served
+   members with a single known U.S. birth state: 2948
+   members serving a state other than their birth state: 1369
+   top exporters (born there, served elsewhere / served at home):
+     NY: 245 served elsewhere (18% of all such members), 260 at home
+     PA: 139 served elsewhere (10% of all such members), 177 at home
+     OH: 136 served elsewhere (10% of all such members), 140 at home
+     VT: 80 served elsewhere (6% of all such members), 21 at home
+     MA: 73 served elsewhere (5% of all such members), 75 at home
+     KY: 68 served elsewhere (5% of all such members), 86 at home
+     VA: 67 served elsewhere (5% of all such members), 75 at home
+     TN: 53 served elsewhere (4% of all such members), 52 at home
+   where Ohio-born members served instead: IA 62, IN 47, IL 32, KS 30, MO 14, MN 14, WI 9, WV 7, NE 7, CA 6
+     share of IN's members born in Ohio: 21/113 (19%)
+     share of IL's members born in Ohio: 10/149 (7%)
+     share of IA's members born in Ohio: 22/81 (27%)
+     share of KS's members born in Ohio: 13/54 (24%)
+     share of MI's members born in Ohio: 3/96 (3%)
+     share of NE's members born in Ohio: 4/38 (11%)
+     share of MN's members born in Ohio: 5/37 (14%)
+     share of WI's members born in Ohio: 4/67 (6%)
+     share of MO's members born in Ohio: 10/113 (9%)
+     share of CA's members born in Ohio: 4/67 (6%)
+======================================================================
+2. Union generals vs congressmen born in the same years (Congress 1857-1873)
+   generals with a birth year: 573; congressmen controls: 1370
+   birth decade   generals          congressmen
+   1790s          4/10 (40%)        1/46 (2%)
+   1800s          20/43 (47%)       22/186 (12%)
+   1810s          81/151 (54%)      105/473 (22%)
+   1820s          143/234 (61%)     202/449 (45%)
+   1830s          38/123 (31%)      69/175 (39%)
+   1840s          0/7 (0%)          6/29 (21%)
+   generals' full-beard rate 50%; congressmen of the same birth years (+-3) 35%
+   age-adjusted (Mantel-Haenszel by birth decade): odds ratio 2.11, p = 1.9e-13
+   median birth year: generals 1823, controls 1819
+======================================================================
+3. Civil War service and beards, men serving in Congress 1865-1895, born 1815-1845
+   Union veterans         70/155 (45%)
+   Confederate veterans   73/180 (41%)
+   No recorded service    595/1562 (38%)
+   Northern members, Union veterans vs no recorded service:
+     born 1815-1824: 13/33 (39%)     vs 138/373 (37%)
+     born 1825-1834: 32/57 (56%)     vs 212/466 (45%)
+     born 1835-1844: 15/43 (35%)     vs 151/463 (33%)
+   North: age-adjusted odds ratio 1.28, p = 0.221
+   ... excluding generals (are veterans bearded beyond the generals?):
+     born 1815-1824: 5/11 (45%)      vs 138/373 (37%)
+     born 1825-1834: 21/36 (58%)     vs 212/466 (45%)
+     born 1835-1844: 12/39 (31%)     vs 151/463 (33%)
+   North, non-generals: age-adjusted odds ratio 1.27, p = 0.352
+   Southern members, Confederate veterans vs no recorded service:
+     born 1815-1824: 8/18 (44%)      vs 21/58 (36%)
+     born 1825-1834: 36/71 (51%)     vs 34/77 (44%)
+     born 1835-1844: 25/65 (38%)     vs 26/84 (31%)
+   South: age-adjusted odds ratio 1.35, p = 0.204
+   Note: 'no recorded service' means Wikidata lists none, not that the man never served.

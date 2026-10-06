@@ -43,8 +43,9 @@ for the Ohio presidents.
   - `wikidata`: Wikidata ID. The portrait is that item's P18 image, listed in
     `coding/images.json`.
   - `name`, `gender` (`M`/`F`), `birth_year`.
-  - `congress_terms`, `governor_terms`: semicolon-separated
-    `start-end:state:party`.
+  - `congress_terms`: semicolon-separated `start-end:state:party:chamber`
+    (`house` or `senate`).
+  - `governor_terms`: semicolon-separated `start-end:state:party`.
   - `facial_hair`: `full_beard`, `goatee_mustache`, `beard_no_mustache` (chin
     beard or chin curtain with a shaved upper lip), `sideburns` (whiskers not
     joined across the chin), `mustache`, `clean`, `woman` or `unusable`.
@@ -59,6 +60,9 @@ for the Ohio presidents.
 - **`state_population_1790_1920.csv`**: total and white population by state.
 - **`robinson_facial_hair_1842_1972.csv`**: British men's facial hair by year,
   digitized from Robinson (1975). Traced from a chart, so about ±3 points.
+- **`wikidata_people.json`**: birth year, birth state(s), military branch and
+  Civil War service from Wikidata for every coded person and Union general,
+  keyed by Wikidata ID (used by `analysis/followups/`).
 - **`congress_facial_hair_sample.csv`**: the 789-row pilot sample that came
   before the census.
 
@@ -98,6 +102,8 @@ panel of people.
 
 ```bash
 node analysis/analyze.mjs   # every number in the post, from data/ (no dependencies)
+node charts/cohort-data.mjs # the data embedded in charts/beard-cohort-chart.html
+python3 analysis/followups/analyses.py  # Ohio exports, generals by age, veterans
 ```
 
 Rebuilding the census from scratch needs Python 3 with `pyyaml`, `pillow` and

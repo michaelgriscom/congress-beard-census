@@ -535,9 +535,9 @@ section("11. Portrait census (men in Congress) and the odds for presidents");
 const terms = s =>
   s
     ? s.split(";").map(t => {
-        const [span, state] = t.split(":");
+        const [span, state, party, chamber] = t.split(":");
         const [start, end] = span.split("-").map(Number);
-        return { start, end, state };
+        return { start, end, state, party, chamber };
       })
     : [];
 const members = readCsv("facial_hair_census.csv")
@@ -634,18 +634,22 @@ const byGeneration = p => {
   );
   return [k + 0.5, n + 1];
 };
-const boost = p => {
-  const o = (p / (1 - p)) * generalOddsRatio;
+// Age-adjusted generals odds ratio (Mantel-Haenszel by birth decade), from
+// analysis/followups/analyses.py. The generation model already adjusts each
+// president for age, so this is the ratio the post uses.
+const AGE_ADJUSTED_GENERAL_ODDS_RATIO = 2.11;
+const boost = (p, ratio = generalOddsRatio) => {
+  const o = (p / (1 - p)) * ratio;
   return o / (1 + o);
 };
-const model = (rate, generals) =>
+const model = (rate, generals, ratio) =>
   beardEra.map(p => {
     const [k, n] = rate(p);
     const base = k / n;
     return {
       name: p.name,
       state: p.birth_state,
-      p: generals && p.union_general === "yes" ? boost(base) : base,
+      p: generals && p.union_general === "yes" ? boost(base, ratio) : base,
     };
   });
 const flat = model(byYear, false);
@@ -654,7 +658,11 @@ const models = [
   ["Actual presidents, flat beard rate", flat.map(p => ({ ...p, p: meanP }))],
   ["Fashion by year", flat],
   ["Fashion by year + generation", model(byGeneration, false)],
-  ["... + Union generals", model(byGeneration, true)],
+  ["... + Union generals (raw odds ratio)", model(byGeneration, true)],
+  [
+    "... + Union generals (age-adjusted, post)",
+    model(byGeneration, true, AGE_ADJUSTED_GENERAL_ODDS_RATIO),
+  ],
 ];
 console.log(
   `\nP(>= 3 full-bearded presidents 1849-1929, all born in one state):`
@@ -662,7 +670,96 @@ console.log(
 for (const [label, ps] of models) {
   const expected = ps.reduce((a, p) => a + p.p, 0);
   console.log(
-    `  ${label.padEnd(36)} ${oneIn(sameStateOdds(ps)).padStart(10)}  ` +
+    `  ${label.padEnd(44)} ${oneIn(sameStateOdds(ps)).padStart(10)}  ` +
       `(expected full beards ${expected.toFixed(1)})`
   );
 }
+
+// ---------- 12. The post's population step (1870, white Americans) ----------
+
+section("12. The post's birth lottery: 1870 census, white native-born Americans");
+// The post uses one census and white Americans only: each state's share of
+// white people born in the U.S. (the printed 1870 total, 28,095,665).
+const WHITE_NATIVE_1870 = 28095665;
+const whiteShares = readCsv("born_in_state_1870_1880.csv")
+  .map(r => ({
+    place: r.birthplace,
+    p: Number(r.born_1870_white) / WHITE_NATIVE_1870,
+  }))
+  .sort((a, b) => b.p - a.p);
+const ohioWhite = whiteShares.find(r => r.place === "Ohio").p;
+const sumP4 = whiteShares.reduce((acc, r) => acc + r.p ** 4, 0);
+console.log(
+  `Ohio: ${pct(ohioWhite)} of white native-born; all four Ohio-born = ${oneIn(ohioWhite ** 4)}`
+);
+console.log(
+  `All four born in the same state (sum of p^4) = ${sumP4.toFixed(10)} = ${oneIn(sumP4)}`
+);
+console.log(
+  "Largest terms: " +
+    whiteShares
+      .slice(0, 4)
+      .map(r => `${r.place} ${pct(r.p ** 4 / sumP4, 0)}`)
+      .join(", ")
+);
+
+// ---------- 13. Spare facts from the census ----------
+
+section("13. Spare facts from the census");
+const fullIn = year => fullShare(serving(year, year));
+const drought = [];
+for (let year = 1900; year <= 2026; year++)
+  if (fullIn(year)[0] === 0) drought.push(year);
+console.log(
+  `Years with no full beard in Congress: ${drought[0]}-${drought.at(-1)} (${drought.length} years)`
+);
+
+const servingAs = (from, to, test) =>
+  members.filter(m =>
+    m.congress.some(t => t.start <= to && t.end >= from && test(t))
+  );
+for (const party of ["Republican", "Democrat"])
+  console.log(
+    `2023-2026 ${party}s with full beards: ${fmt(fullShare(servingAs(2023, 2026, t => t.party === party)))}`
+  );
+
+const delegations = Object.entries(
+  Object.groupBy(
+    members.flatMap(m =>
+      [
+        ...new Set(
+          m.congress
+            .filter(t => t.start <= 1885 && t.end >= 1873)
+            .map(t => t.state)
+        ),
+      ].map(state => ({ state, m }))
+    ),
+    r => r.state
+  )
+)
+  .map(([state, rows]) => [state, fullShare(rows.map(r => r.m))])
+  .filter(([, [, n]]) => n >= 25)
+  .sort((a, b) => b[1][0] / b[1][1] - a[1][0] / a[1][1]);
+const showDelegations = rows =>
+  rows.map(([s, [k, n]]) => `${s} ${pct(k / n, 0)}`).join(", ");
+console.log(
+  `Most bearded delegations 1873-1885: ${showDelegations(delegations.slice(0, 3))}; ` +
+    `least: ${showDelegations(delegations.slice(-3))}`
+);
+
+const governors = readCsv("facial_hair_census.csv").filter(
+  r =>
+    r.gender === "M" &&
+    !["unusable", "woman"].includes(r.facial_hair) &&
+    terms(r.governor_terms).some(t => t.start <= 1889 && t.end >= 1871)
+);
+console.log(
+  `1871-1889: senators ${fmt(fullShare(servingAs(1871, 1889, t => t.chamber === "senate")))}, ` +
+    `representatives ${fmt(fullShare(servingAs(1871, 1889, t => t.chamber === "house")))}, ` +
+    `governors ${fmt(fullShare(governors))}`
+);
+const SOUTH = ["VA", "NC", "SC", "GA", "FL", "AL", "MS", "LA", "TX", "AR", "TN"];
+console.log(
+  `1871-1889: Southern members ${fmt(fullShare(servingAs(1871, 1889, t => SOUTH.includes(t.state))))}, ` +
+    `others ${fmt(fullShare(servingAs(1871, 1889, t => !SOUTH.includes(t.state))))}`
+);
