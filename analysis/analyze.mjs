@@ -634,18 +634,22 @@ const byGeneration = p => {
   );
   return [k + 0.5, n + 1];
 };
-const boost = p => {
-  const o = (p / (1 - p)) * generalOddsRatio;
+// Age-adjusted generals odds ratio (Mantel-Haenszel by birth decade), from
+// analysis/followups/analyses.py. The generation model already adjusts each
+// president for age, so this is the ratio the post uses.
+const AGE_ADJUSTED_GENERAL_ODDS_RATIO = 2.11;
+const boost = (p, ratio = generalOddsRatio) => {
+  const o = (p / (1 - p)) * ratio;
   return o / (1 + o);
 };
-const model = (rate, generals) =>
+const model = (rate, generals, ratio) =>
   beardEra.map(p => {
     const [k, n] = rate(p);
     const base = k / n;
     return {
       name: p.name,
       state: p.birth_state,
-      p: generals && p.union_general === "yes" ? boost(base) : base,
+      p: generals && p.union_general === "yes" ? boost(base, ratio) : base,
     };
   });
 const flat = model(byYear, false);
@@ -654,7 +658,11 @@ const models = [
   ["Actual presidents, flat beard rate", flat.map(p => ({ ...p, p: meanP }))],
   ["Fashion by year", flat],
   ["Fashion by year + generation", model(byGeneration, false)],
-  ["... + Union generals", model(byGeneration, true)],
+  ["... + Union generals (raw odds ratio)", model(byGeneration, true)],
+  [
+    "... + Union generals (age-adjusted, post)",
+    model(byGeneration, true, AGE_ADJUSTED_GENERAL_ODDS_RATIO),
+  ],
 ];
 console.log(
   `\nP(>= 3 full-bearded presidents 1849-1929, all born in one state):`
@@ -662,7 +670,7 @@ console.log(
 for (const [label, ps] of models) {
   const expected = ps.reduce((a, p) => a + p.p, 0);
   console.log(
-    `  ${label.padEnd(36)} ${oneIn(sameStateOdds(ps)).padStart(10)}  ` +
+    `  ${label.padEnd(44)} ${oneIn(sameStateOdds(ps)).padStart(10)}  ` +
       `(expected full beards ${expected.toFixed(1)})`
   );
 }

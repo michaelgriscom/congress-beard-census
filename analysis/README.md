@@ -179,9 +179,11 @@ raised to the fourth power and summed over states.
 | Actual presidents taken as given, flat beard rate             | 1 in 98     |
 | Beard rate by inauguration year                               | 1 in 45     |
 | Beard rate by year and generation (men born within 5 years)   | 1 in 18     |
-| ...and Union generals get the generals' odds ratio (2.6)      | 1 in 9      |
+| ...and Union generals get the age-adjusted odds ratio (2.1)   | 1 in 10     |
 
-The leftover luck is mostly that Chester Arthur (44%) and Grover Cleveland
+Using the raw generals odds ratio (2.6) instead gives 1 in 9, but the
+generation step already adjusts for age, so the age-adjusted ratio is the
+consistent choice. The leftover luck is mostly that Chester Arthur (44%) and Grover Cleveland
 (42%), contemporaries of the bearded four, didn't grow full beards. Each step
 takes something as given; the numbers measure how much of the coincidence is
 left to explain, not the odds that history went this way. With four
