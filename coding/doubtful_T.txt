@@ -1,0 +1,68 @@
+000-15 S sideburns to jaw level, engraving; borderline S/C
+000-09 C profile, dark sideburn, possibly S
+001-09 S engraving, whiskers along jaw edge; could be B if joined under chin
+003-00 C two faces in crop; main (larger) face clean-shaven
+003-03 C wears cap with glasses; could be a woman (W)
+003-11 G mustache plus small chin tuft; could be M
+003-12 S sideburns to ~mouth level; borderline S/C
+003-19 S painting, long sideburns to jaw
+003-14 C face small
+004-02 C washed out, man in hat; second mustached man in background
+004-03 C face small and washed out at podium
+005-11 C face tiny, profile engraving in plate
+005-21 S sideburns to jaw; borderline S/C
+005-17 S long sideburns framing face
+006-03 W faded image of person in bonnet; could be a man (C)
+006-10 G mustache + pointed chin beard; could be F if it runs along jaw
+006-18 X photo of a house, no face
+007-03 S profile engraving, sideburn to jaw; borderline S/C
+007-22 S sideburns to ~mouth level; borderline S/C
+007-21 B long chin/neck beard, shaved upper lip
+008-03 S sideburns to jaw level; borderline S/C
+008-11 C grainy, upper lip shadow possibly a mustache
+008-09 B chin beard, upper lip appears shaved
+009-17 X photo of a memorial plaque, no face
+010-09 G mustache + chin beard, dark photo; could be F
+010-10 B profile, white chin beard, upper lip appears shaved
+010-22 B side whiskers + fringe under chin, shaved lip; could be S
+010-08 C face partly shaded by hat
+011-23 S faded engraving, sideburns to jaw on one side; borderline S/C
+012-22 C face tiny
+012-04 F face small but full beard clear
+013-23 C face tiny
+013-11 C face small
+014-17 F short gray beard + mustache, face small
+014-18 C painting, sideburn possibly to mid-cheek (S?)
+015-07 F faded, short white beard + mustache; could be G
+015-04 C face cropped/half visible, newspaper print
+015-23 M face small, profile
+016-07 S large cheek whiskers, chin/lip shaved; could be B if joined under jaw
+016-10 B beard along jaw/chin, upper lip looks shaved; could be F
+016-12 C black silhouette profile only, smooth chin outline (X?)
+016-23 C faded sketch
+017-12 B engraving, whisker fringe along jaw/under chin, shaved lip
+017-19 C tiny; a child in a painting (possibly a girl, W)
+017-18 M profile, mustache with possible sideburn
+018-00 M blurry; possible thin mustache, could be C
+018-04 S long hair/sideburns to jaw; borderline S/C
+018-09 S cheek whiskers to jaw
+018-11 C face tiny
+018-20 C painting, side hair/sideburn possibly to jaw (S?)
+019-06 G face small; white mustache + chin beard, could be F
+019-15 X group scene, several men, no single subject
+019-21 M faint thin gray mustache; could be C
+019-23 S painting, dark sideburns to jaw; borderline S/C
+019-14 C main subject center, other faces in background
+020-05 S painting, curly sideburns to ~mouth level; borderline S/C
+020-22 C face small
+021-18 C blurry profile, stubble-like texture on cheek/jaw/chin; could be short beard (B/F)
+021-04 M small mustache, grainy
+021-03 C face small
+022-02 M looking down, gray mustache visible
+022-06 C low-quality halftone engraving
+022-16 C face small
+023-06 X full-length figure by airplane, face tiny under hat; crop missed
+023-02 C face tiny
+023-22 F short beard along jaw + mustache; could be G
+024-20 B whisker fringe along jaw/under chin, shaved lip; could be S
+024-06 C face small in seated painting

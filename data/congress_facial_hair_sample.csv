@@ -1,0 +1,790 @@
+snapshot_year,sample,bioguide,wikidata,name,chamber,state,party,facial_hair,commons_file
+1836,random,M000898,Q774713,Gabriel Moore,sen,AL,Jackson,clean,Gabrielmoore.jpg
+1836,random,K000217,Q298985,William King,sen,AL,Democrat,clean,WilliamRufusKing.jpg
+1836,random,S000256,Q459260,Ambrose Sevier,rep,AR,Jacksonian,clean,AR Sevier Ambrose.jpg
+1836,random,T000319,Q881600,Isaac Toucey,rep,CT,Jackson,clean,TouceyIsaac.jpg
+1836,random,T000327,Q1508471,George Towns,rep,GA,Jackson,clean,GeorgeWashTowns.jpg
+1836,random,H000744,Q1627666,Hopkins Holsey,rep,GA,Jackson,sideburns,Hon. Hopkins Holsey%2C Ga - NARA - 527613 (cropped).jpg
+1836,random,K000207,Q1701385,John King,sen,GA,Democrat,full_beard,John Pendleton King.jpg
+1836,random,D000156,Q5618144,William Dawson,rep,GA,Whig,clean,William Crosby Dawson.jpg
+1836,random,S000130,Q885830,William Schley,rep,GA,Jacksonian,not_downloaded,William Schley 2.jpg
+1836,random,R000174,Q734771,John Reynolds,rep,IL,Jackson,clean,John Reynolds (1788-1865)%2C Governor of Illinois.jpg
+1836,random,E000283,Q734659,William Ewing,sen,IL,Jackson,clean,Governor Ewing Portrait.jpg
+1836,random,C000230,Q4505126,Zadok Casey,rep,IL,Jackson,clean,ZadokCasey.jpg
+1836,random,C000482,Q319630,Henry Clay,sen,KY,Whig,clean,Henry Clay.JPG
+1836,random,C000043,Q1664334,John Calhoon,rep,KY,Whig,clean,John Calhoon.jpg
+1836,random,F000379,Q1615286,Richard French,rep,KY,Jackson,clean,Rep. Richard French.jpg
+1836,random,B000830,Q599050,George Briggs,rep,MA,Whig,clean,George Nixon Briggs-Southworth and Hawes.jpg
+1836,random,A000041,Q11816,John Adams,rep,MA,Anti Masonic,clean,John Q. Adams-edit.jpg
+1836,random,P000312,Q2344588,Stephen Phillips,rep,MA,Whig,clean,Stephen Clarendon Phillips.png
+1836,random,H000835,Q593370,Benjamin Howard,rep,MD,Jackson,clean,Benjamin Chew Howard 1791-1872.jpg
+1836,random,M000516,Q1673420,Isaac McKim,rep,MD,Jackson,clean,IsaacMcKim.jpg
+1836,random,K000125,Q774959,Joseph Kent,sen,MD,Whig,clean,Joseph Kent of Maryland.jpg
+1836,random,E000241,Q377441,George Evans,rep,ME,Whig,clean,George Evans2.jpg
+1836,random,D000022,Q5616448,Judah Dana,sen,ME,Jackson,clean,Senator Judah Dana.jpg
+1836,random,L000338,Q1822096,Lewis Linn,sen,MO,Jackson,sideburns,Lewis Fields Linn.jpg
+1836,random,G000149,Q2218447,Samuel Gholson,rep,MS,Jackson,beard_no_mustache,Samuel J. Gholson.jpg
+1836,random,G000355,Q1680469,James Graham,rep,NC,Whig,clean,JamesGrahamNC.jpg
+1836,random,M000489,Q1358019,James McKay,rep,NC,Jackson,clean,JamesIverMcKay.jpg
+1836,random,W000527,Q1822173,Lewis Williams,rep,NC,Whig,clean,Lewis Williams.jpg
+1836,random,H000593,Q883848,Isaac Hill,sen,NH,Jackson,clean,IsaacHill.jpg
+1836,random,D000309,Q436282,Philemon Dickerson,rep,NJ,Jackson,clean,Philemon Dickerson (New Jersey governor and judge).jpg
+1836,random,C000349,Q2578259,William Chetwood,rep,NJ,Whig,clean,William Chetwood (1770-1857) circa 1850.jpg
+1836,random,W000125,Q612451,Aaron Ward,rep,NY,Jackson,clean,Aaron Ward (Ossining).jpg
+1836,random,W000146,Q3915859,Daniel Wardwell,rep,NY,Jackson,beard_no_mustache,Daniel Wardwell (New York Congressman).jpg
+1836,random,H000180,Q5559590,Gideon Hard,rep,NY,Whig,clean,Gideon Hard.jpg
+1836,random,L000193,Q336848,Gideon Lee,rep,NY,Jackson,clean,Gideon Lee.jpg
+1836,random,T000435,Q3701309,Joel Turrill,rep,NY,Jackson,clean,Joel Turrill.jpg
+1836,random,M000509,Q336929,John McKeon,rep,NY,Jackson,clean,John McKeon (New York).jpg
+1836,random,F000411,Q7186008,Philo Fuller,rep,NY,Whig,clean,Philo C. Fuller.png
+1836,random,G000200,Q2688816,Ransom Gillet,rep,NY,Jackson,clean,Ransom H. Gillet.jpg
+1836,random,B000281,Q2688849,Samuel Beardsley,rep,NY,Jackson,clean,Samuel Beardsley.jpg
+1836,random,W000431,Q5361825,Elisha Whittlesey,rep,OH,Whig,clean,Elisha Whittlesey.png
+1836,random,M000225,Q7410384,Samson Mason,rep,OH,Whig,full_beard,Samson Mason.jpg
+1836,random,C000791,Q879077,Thomas Corwin,rep,OH,Whig,clean,Thomas Corwin%2Cbetween 1844 and 1860.jpg
+1836,random,M000106,Q6206677,Job Mann,rep,PA,Jackson,clean,JobMann.jpg
+1836,random,H000486,Q6283888,Joseph Henderson,rep,PA,Jackson,clean,Joseph Henderson PA.jpg
+1836,random,I000019,Q4904809,Joseph Ingersoll,rep,PA,Whig,clean,Portrait of Joseph R. Ingersoll by Samuel Bell Waugh.jpg
+1836,random,S000746,Q883991,William Sprague,rep,RI,Anti Masonic,clean,William Sprague 1799 1856.jpg
+1836,random,H000128,Q731148,James Hammond,rep,SC,Nullifier,clean,JHHammond.jpg
+1836,random,P000519,Q1589403,William Preston,sen,SC,Nullifier,clean,William C. Preston - Brady-Handy.jpg
+1836,random,J000122,Q928265,Cave Johnson,rep,TN,Jackson,clean,Cave Johnson.jpg
+1836,random,G000509,Q1375704,Felix Grundy,sen,TN,Democrat,clean,Grundy-felix-by-wb-cooper.jpg
+1836,random,S000789,Q1680606,James Standifer,rep,TN,Whig,clean,JamesStandifer.jpg
+1836,random,D000504,Q1507242,George Dromgoole,rep,VA,Jackson,clean,George Coke Dromgoole Portrait.jpg
+1836,random,H000774,Q1508539,George Hopkins,rep,VA,Jackson,clean,George Washington Hopkins.png
+1836,random,G000067,Q1680437,James Garland,rep,VA,Jackson,full_beard,Hon. James Garland%2C Judge Corporation Court of the City of Lynchburg (cropped).jpg
+1836,random,J000155,Q691229,Joseph Johnson,rep,VA,Jackson,clean,Joseph Johnson.png
+1836,random,M000352,Q82439,William McComas,rep,VA,Whig,clean,William McComas.jpg
+1836,random,S001116,Q817701,Benjamin Swift,sen,VT,Whig,clean,BSwift.jpg
+1836,random,A000123,Q1604686,Heman Allen,rep,VT,Whig,clean,Heman Allen of Milton (Vermont Congressman).jpg
+1836,random,S000475,Q881941,William Slade,rep,VT,Anti Masonic,beard_no_mustache,William Slade.jpg
+1846,random,D000052,Q1286905,Edmund Dargan,rep,AL,Democrat,clean,Edmund S Dargan.jpg
+1846,random,Y000003,Q645216,William Yancey,rep,AL,Democrat,clean,WilliamLowndesYancey.jpg
+1846,random,S000256,Q459260,Ambrose Sevier,sen,AR,Democrat,clean,AR Sevier Ambrose.jpg
+1846,random,H000889,Q787804,Samuel Hubbard,rep,CT,Whig,clean,SDHubbard.jpg
+1846,random,B000413,Q1376165,John Berrien,sen,GA,Whig,clean,John Macpherson Berrien%2C portrait by John Maier.png
+1846,random,L000511,Q1700430,John Lumpkin,rep,GA,Democrat,clean,John Henry Lumpkin (cropped).jpg
+1846,random,T000313,Q1970615,Robert Toombs,rep,GA,Whig,beard_no_mustache,CSA SecState Toombs (cropped).jpg
+1846,random,F000101,Q4360971,Orlando Ficklin,rep,IL,Democrat,clean,Orlando B. Ficklin (Illinois Congressman).jpg
+1846,random,B000793,Q443088,Sidney Breese,sen,IL,Democrat,full_beard,SBreese.jpg
+1846,random,S000519,Q1026525,Caleb Smith,rep,IN,Whig,clean,Hon. Caleb B. Smith%2C Ind - NARA - 526254.jpg
+1846,random,C000250,Q1066341,Charles Cathcart,rep,IN,Democrat,beard_no_mustache,Charles W. Cathcart.jpg
+1846,random,H000167,Q826796,Edward Hannegan,sen,IN,Democrat,clean,EdwardHannegan.jpg
+1846,random,H000499,Q1412525,Thomas Henley,rep,IN,Democrat,clean,53444864824ea13e original.jpg
+1846,random,T000190,Q2580772,William Thomasson,rep,KY,Whig,clean,William Poindexter Thomasson (cropped).jpg
+1846,random,B000183,Q2622146,Alexander Barrow,sen,LA,Whig,clean,Alexander Barrow.jpg
+1846,random,S000487,Q3182472,John Slidell,rep,LA,Democrat,clean,John Slidell LA 1859.jpg
+1846,random,A000041,Q11816,John Adams,rep,MA,Whig,clean,John Q. Adams-edit.jpg
+1846,random,L000307,Q683620,Thomas Ligon,rep,MD,Democrat,sideburns,Thomas ligon maryland.jpg
+1846,random,S000085,Q1143439,Cullen Sawtelle,rep,ME,Democrat,sideburns,Cullen Sawtelle (US Congressman from Maine).jpg
+1846,random,E000241,Q377441,George Evans,sen,ME,Whig,clean,George Evans2.jpg
+1846,random,S000255,Q1542694,Luther Severance,rep,ME,Whig,clean,Luther Severance.jpg
+1846,random,B000701,Q1679976,James Bowlin,rep,MO,Democrat,clean,JamesBowlin.jpg
+1846,random,B000398,Q1317969,Thomas Benton,sen,MO,Democrat,clean,Senator Thomas Hart Benton at National Portrait Gallery IMG 4408.JPG
+1846,random,T000203,Q928119,Jacob Thompson,rep,MS,Democrat,clean,Jacob Thompson - Brady-Handy.jpg
+1846,random,D000113,Q162269,Jefferson Davis,rep,MS,Democrat,clean,President-Jefferson-Davis.jpg
+1846,random,S000715,Q1169404,Jesse Speight,sen,MS,Democrat,clean,JSpeight2.jpg
+1846,random,A000048,Q545567,Stephen Adams,rep,MS,Democrat,clean,Stephen Adams.jpg
+1846,random,D000385,Q1673430,Alfred Dockery,rep,NC,Whig,clean,Alfred Dockery.jpg
+1846,random,B000456,Q720065,Asa Biggs,rep,NC,Democrat,clean,Asa Biggs%2C Senator from North Carolina%2C Thirty-fifth Congress%2C half-length portrait%2C 1859.jpg
+1846,random,D000381,Q373382,James Dobbin,rep,NC,Democrat,clean,James Cochran Dobbin%2C attributed to John Cranch%2C c. 1845%2C oil on canvas%2C from the National Portrait Gallery - NPG-9300792A.jpg
+1846,random,M000489,Q1358019,James McKay,rep,NC,Democrat,clean,JamesIverMcKay.jpg
+1846,random,H000411,Q5794515,William Haywood,sen,NC,Democrat,clean,NC-Congress-WilliamHenryHaywoodJr.jpg
+1846,random,J000094,Q817890,Benning Jenness,sen,NH,Democrat,clean,BWJenness.jpg
+1846,random,S001131,Q1240668,George Sykes,rep,NJ,Democrat,clean,GeorgeSykesNJ.jpg
+1846,random,S000512,Q4711229,Albert Smith,rep,NY,Whig,sideburns,Albert Smith (Milwaukee).jpg
+1846,random,W000692,Q2514280,Bradford Wood,rep,NY,Democrat,sideburns,Bradford Ripley Wood.jpg
+1846,random,H000968,Q7105236,Orville Hungerford,rep,NY,Democrat,clean,Orville Hungerford Engraving (cropped).jpg
+1846,random,G000315,Q2121169,Samuel Gordon,rep,NY,Democrat,clean,Samuel Gordon (1802-1873).jpg
+1846,random,J000089,Q7807307,Timothy Jenkins,rep,NY,Democrat,beard_no_mustache,Timothy Jenkins.jpg
+1846,random,H000812,Q8013247,William Hough,rep,NY,Democrat,clean,WilliamJHough.jpg
+1846,random,M000032,Q613020,William Maclay,rep,NY,Democrat,mustache,William Brown Maclay.jpg
+1846,random,S000813,Q729627,David Starkweather,rep,OH,Democrat,not_downloaded,David A. Starkweather.jpg
+1846,random,P000082,Q6076934,Isaac Parrish,rep,OH,Democrat,clean,Isaac Parrish NLM.jpg
+1846,random,S000118,Q3434877,Robert Schenck,rep,OH,Whig,full_beard,Robert C. Schenck.jpg
+1846,random,R000026,Q748989,Alexander Ramsey,rep,PA,Whig,clean,Alexander Ramsey - Brady-Handy.jpg
+1846,random,S000899,Q507687,Andrew Stewart,rep,PA,Whig,sideburns,Andrew Stewart (1791-1872%2C Pennsylvania Congressman).jpg
+1846,random,I000015,Q4200751,Charles Ingersoll,rep,PA,Democrat,clean,CharlesJaredIngersoll.jpg
+1846,random,F000305,Q5720406,Henry Foster,rep,PA,Democrat,full_beard,HDFoster.jpg
+1846,random,I000019,Q4904809,Joseph Ingersoll,rep,PA,Whig,clean,Portrait of Joseph R. Ingersoll by Samuel Bell Waugh.jpg
+1846,random,B000861,Q2149145,Richard Brodhead,rep,PA,Democrat,clean,Richard Brodhead (US Senator from Pennsylvania).jpg
+1846,random,C000068,Q1348975,Simon Cameron,sen,PA,Democrat,clean,Smn Cameron-SecofWar (3x4a).jpg
+1846,random,G000424,Q2622636,Albert Greene,sen,RI,Whig,clean,ACGreene.jpg
+1846,random,W000732,Q1706395,Joseph Woodward,rep,SC,Democrat,clean,Joseph Woodward.jpg
+1846,random,S000802,Q1260074,Frederick Stanton,rep,TN,Democrat,full_beard,Stanton.jpg
+1846,random,J000222,Q733128,George Jones,rep,TN,Democrat,beard_no_mustache,Hon. Jones - NARA - 528402 (3x4a).jpg
+1846,random,R000518,Q2290948,Thomas Rusk,sen,TX,Democrat,clean,ThomasJeffersonRusk.jpg
+1846,random,P000216,Q431685,Isaac Pennybacker,sen,VA,Democrat,clean,Isaac S. Pennybacker.jpg
+1846,random,H000988,Q1355895,Robert Hunter,rep,VA,Democrat,clean,R.M.T. Hunter CSA LOC cwpb.05605 (3x4a).jpg
+1846,random,B000948,Q2578945,William Brown,rep,VA,Democrat,clean,WilliamGayBrownSr.jpg
+1846,random,F000248,Q1424080,Solomon Foot,rep,VT,Whig,clean,Solomon Foot 1859.jpg
+1856,ohio,H000207,Q4662074,Aaron Harlan,rep,OH,Ind. Republican-Democrat,beard_no_mustache,Aaron Harlan-ppmsca.26738.jpg
+1856,ohio,L000236,Q4888550,Benjamin Leiter,rep,OH,Ind. Republican-Democrat,clean,Benjamin F. Leiter-ppmsca.26749.jpg
+1856,ohio,S000801,Q817693,Benjamin Stanton,rep,OH,Ind. Republican-Democrat,clean,Benjamin Stanton-ppmsca.26739.jpg
+1856,ohio,W000005,Q817729,Benjamin Wade,sen,OH,Ind. Republican-Democrat,clean,Benjamin F Wade - Brady-Handy.jpg
+1856,ohio,A000078,Q5079320,Charles Albright,rep,OH,Ind. Republican-Democrat,clean,Charles J. Albright (Guernsey County).jpg
+1856,ohio,W000199,Q5167783,Cooper Watson,rep,OH,Ind. Republican-Democrat,clean,Cooper K. Watson - bench and bar.jpg
+1856,ohio,W000006,Q1290133,Edward Wade,rep,OH,Ind. Republican-Democrat,full_beard,Edward Wade%2C Ohio.jpg
+1856,ohio,P000560,Q1471201,George Pugh,sen,OH,Democrat,full_beard,Original Caption - Hon. Stephen R. Mallory%2C Florida. Corrected Caption - Hon. George E. Pugh%2C Ohio - NARA - 528727.jpg
+1856,ohio,B000471,Q1699336,John Bingham,rep,OH,Ind. Republican-Democrat,beard_no_mustache,BinghamFacingForward (2).jpg
+1856,ohio,H000272,Q1701703,John Harrison,rep,OH,Ind. Republican-Democrat,clean,JSHarrison.jpg
+1856,ohio,S000346,Q445392,John Sherman,rep,OH,Ind. Republican-Democrat,full_beard,John-Sherman.jpg
+1856,ohio,E000177,Q6272228,Jonas Emrie,rep,OH,Ind. Republican-Democrat,clean,Jonas R. Emrie.jpg
+1856,ohio,G000167,Q119323,Joshua Giddings,rep,OH,Ind. Republican-Democrat,clean,Joshua Reed Giddings - Brady-Handy.jpg
+1856,ohio,C000096,Q1822088,Lewis Campbell,rep,OH,Ind. Republican-Democrat,mustache,Lewis D Campbell (cropped).jpg
+1856,ohio,N000093,Q6791552,Matthias Nichols,rep,OH,Ind. Republican-Democrat,sideburns,Matthias H. Nichols-ppmsca.26735.jpg
+1856,ohio,M000911,Q7105961,Oscar Moore,rep,OH,Ind. Republican-Democrat,full_beard,Oscar F. Moore from findagrave.jpg
+1856,ohio,B000560,Q7183012,Philemon Bliss,rep,OH,Ind. Republican-Democrat,beard_no_mustache,Philemon Bliss-ppmsca.26745.jpg
+1856,ohio,M001042,Q2150237,Richard Mott,rep,OH,Ind. Republican-Democrat,full_beard,Richard Mott.jpg
+1856,ohio,G000027,Q7411452,Samuel Galloway,rep,OH,Ind. Republican-Democrat,clean,Samuel Galloway 002.png
+1856,ohio,D000161,Q281129,Timothy Day,rep,OH,Ind. Republican-Democrat,not_downloaded,Timothy C. Day by Find a Grave.jpg
+1856,ohio,H000800,Q7910930,Valentine Horton,rep,OH,Ind. Republican-Democrat,clean,Valentine B. Horton-ppmsca.26742.jpg
+1856,random,C000480,Q928988,Clement Clay,sen,AL,Democrat,goatee_mustache,Clement C Clay.png
+1856,random,S000637,Q629554,William Smith,rep,AL,American,full_beard,William Russell Smith - Südstaatenpolitiker.jpg
+1856,random,C000554,Q2581277,Williamson Cobb,rep,AL,Democrat,clean,Williamson Robert Winfield Cobb.png
+1856,random,C000429,Q534881,Ezra Clark,rep,CT,American,beard_no_mustache,EzraClarkJr.jpg
+1856,random,M000266,Q770512,Augustus Maxwell,rep,FL,Democrat,beard_no_mustache,AugustusMaxwell.jpg
+1856,random,Y000061,Q2045896,David Yulee,sen,FL,Democrat,clean,David Levy Yulee - Brady-Handy.jpg
+1856,random,M000084,Q594906,Stephen Mallory,sen,FL,Democrat,beard_no_mustache,Portrait of Stephen Russell Mallory.jpg
+1856,random,W000152,Q1620137,Hiram Warner,rep,GA,Democrat,clean,Hiram B. Warner - Brady-Handy.jpg
+1856,random,C000892,Q1904150,Martin Crawford,rep,GA,Democrat,beard_no_mustache,Martin J. Crawford.jpg
+1856,random,J000221,Q438644,George Jones,sen,IA,Democrat,not_downloaded,Gwjones.jpg
+1856,random,T000392,Q3269456,Lyman Trumbull,sen,IL,Republican,clean,Lyman Trumbull - Brady-Handy.jpg
+1856,random,H000730,Q1176021,David Holloway,rep,IN,Ind. Republican-Democrat,clean,David P. Holloway.jpg
+1856,random,E000125,Q1701110,John Elliott,rep,KY,Democrat,clean,John M. Elliott (Kentucky Congressman).jpg
+1856,random,U000016,Q368932,Warner Underwood,rep,KY,American,beard_no_mustache,Warner L. Underwood%2C Representative from Kentucky cropped.jpg
+1856,random,S000042,Q1551051,John Sandidge,rep,LA,Democrat,goatee_mustache,JohnMSandidge.jpg
+1856,random,B001112,Q569962,Anson Burlingame,rep,MA,American,full_beard,Burlingame.gif
+1856,random,C000270,Q1027643,Calvin Chaffee,rep,MA,American,beard_no_mustache,Calvin C. Chaffee.jpg
+1856,random,B001040,Q212349,James Buffinton,rep,MA,American,full_beard,JBuffington.jpg
+1856,random,C000659,Q1528216,Linus Comins,rep,MA,American,beard_no_mustache,LinusBComins.jpg
+1856,random,B000116,Q714106,Nathaniel Banks,rep,MA,American,mustache,Nathaniel Prentice Banks.jpg
+1856,random,D000141,Q1602135,Timothy Davis,rep,MA,American,sideburns,TimothyDavis.jpg
+1856,random,D000019,Q674939,William Damrell,rep,MA,American,clean,WilliamSDamrell.jpg
+1856,random,H000244,Q1027513,James Harris,rep,MD,American,clean,JamesMorrisonHarris.jpg
+1856,random,B000696,Q2386079,Thomas Bowie,rep,MD,Democrat,goatee_mustache,ThomasFielderBowie.jpg
+1856,random,W000173,Q433008,Israel Washburn,rep,ME,Ind. Republican-Democrat,clean,Israel Washburn%2C Jr. - Brady-Handy.jpg
+1856,random,W000698,Q1590217,John Wood,rep,ME,Ind. Republican-Democrat,clean,John M. Wood (Maine congressman).jpg
+1856,random,W000041,Q1602499,Henry Waldron,rep,MI,Ind. Republican-Democrat,full_beard,Henry Waldron - Brady-Handy.jpg
+1856,random,C000233,Q503119,Lewis Cass,sen,MI,Democrat,clean,Lewis Cass%2C 14th United States Secretary of War.jpg
+1856,random,R000198,Q473066,Henry Rice,rep,MN,Democrat,clean,Henry Mower Rice by Mathew Brady circa 1863.jpg
+1856,random,G000146,Q1607232,Henry Geyer,sen,MO,Ind. Republican-Democrat,clean,HSGeyer.jpg
+1856,random,B000900,Q880583,Albert Brown,sen,MS,Democrat,clean,Hon. Brown - NARA - 528693.jpg
+1856,random,B000147,Q712059,William Barksdale,rep,MS,Democrat,beard_no_mustache,William Barksdale.jpg
+1856,random,P000030,Q2159017,Robert Paine,rep,NC,American,unusable,Declaration of Independence (1819)%2C by John Trumbull.jpg
+1856,random,R000499,Q2426966,Thomas Ruffin,rep,NC,Democrat,beard_no_mustache,Thomas Ruffin - Brady-Handy.jpg
+1856,random,B000337,Q1627208,James Bell,sen,NH,Republican,clean,JasBell.jpg
+1856,random,H000034,Q716927,John Hale,sen,NH,Republican,clean,Hale%2C Hon. John P.%2C M.C. N.H.jpg
+1856,random,M001105,Q459314,Ambrose Murray,rep,NY,Ind. Republican-Democrat,beard_no_mustache,Ambrose S. Murray.jpg
+1856,random,M000948,Q5346231,Edwin Morgan,rep,NY,Ind. Republican-Democrat,clean,Edwin Barber Morgan 2.jpg
+1856,random,P000198,Q404649,Guy Pelton,rep,NY,Ind. Republican-Democrat,mustache,Guy Ray Pelton.jpg
+1856,random,B000376,Q5718044,Henry Bennett,rep,NY,Ind. Republican-Democrat,clean,Henry Bennett 2.jpg
+1856,random,P000064,Q6245905,John Parker,rep,NY,Ind. Republican-Democrat,full_beard,John Mason Parker.jpg
+1856,random,W000514,Q13219191,John Williams,rep,NY,Democrat,sideburns,JohnWilliamsNY.jpg
+1856,random,S000261,Q297308,William Seward,sen,NY,Republican,clean,William Seward%2C Secretary of State%2C bw photo portrait circa 1860-1865.jpg
+1856,random,W000005,Q817729,Benjamin Wade,sen,OH,Ind. Republican-Democrat,clean,Benjamin F Wade - Brady-Handy.jpg
+1856,random,W000006,Q1290133,Edward Wade,rep,OH,Ind. Republican-Democrat,full_beard,Edward Wade%2C Ohio.jpg
+1856,random,G000027,Q7411452,Samuel Galloway,rep,OH,Ind. Republican-Democrat,clean,Samuel Galloway 002.png
+1856,random,J000234,Q6176514,Jehu Jones,rep,PA,Democrat,not_downloaded,JehuGlancyJones.jpg
+1856,random,K000340,Q6226023,John Kunkel,rep,PA,Ind. Republican-Democrat,beard_no_mustache,JohnChristianKunkel.jpg
+1856,random,P000576,Q7410768,Samuel Purviance,rep,PA,Ind. Republican-Democrat,clean,SamuelAndersonPurviance.jpg
+1856,random,A000141,Q438336,Philip Allen,sen,RI,Democrat,clean,Philip Allen (politician).jpg
+1856,random,M000595,Q1250738,John McQueen,rep,SC,Democrat,clean,JohnMcQueen.jpg
+1856,random,E000227,Q1335544,Emerson Etheridge,rep,TN,American,full_beard,Emerson Etheridge - Brady-Handy.jpg
+1856,random,Z000012,Q1403915,Felix Zollicoffer,rep,TN,American,full_beard,Felix Zollicoffer-1.jpg
+1856,random,B000340,Q1349142,John Bell,sen,TN,American,clean,John Bell.jpg
+1856,random,E000251,Q1817145,Lemuel Evans,rep,TX,American,clean,Lemuel D. Evans (Texas judge and Congressman).jpg
+1856,random,B000412,Q446929,John Bernhisel,rep,UT,Whig,clean,John Milton Bernhisel.jpg
+1856,random,C000231,Q1699568,John Caskie,rep,VA,Democrat,full_beard,JohnCaskie.jpg
+1856,random,S000002,Q448196,Alvah Sabin,rep,VT,Ind. Republican-Democrat,beard_no_mustache,Alvah Sabin.jpg
+1856,random,H000673,Q1508364,George Hodges,rep,VT,Republican,clean,George Tisdale Hodges.jpg
+1856,random,M000613,Q1334282,James Meacham,rep,VT,Ind. Republican-Democrat,clean,James Meacham.jpg
+1866,ohio,E000090,Q817460,Benjamin Eggleston,rep,OH,Republican,not_downloaded,Eggleston by Find a Grave.jpg
+1866,ohio,W000005,Q817729,Benjamin Wade,sen,OH,Republican,clean,Benjamin F Wade - Brady-Handy.jpg
+1866,ohio,D000214,Q326150,Columbus Delano,rep,OH,Republican,beard_no_mustache,Columbus Delano%2C Hon. of Ohio. Delegate to Republican National Convention at Chicago in 1860 (1).jpg
+1866,ohio,E000036,Q5382327,Ephraim Eckley,rep,OH,Republican,full_beard,Ephraim Eckley cwpbh.00209.jpg
+1866,ohio,L000156,Q11464885,Francis Le Blond,rep,OH,Democrat,beard_no_mustache,Hon. Francis C. Le Blond%2C Ohio - NARA - 525478 (1).jpg
+1866,ohio,B001059,Q5750034,Hezekiah Bundy,rep,OH,Republican,full_beard,Hezekiah S. Bundy 1874.jpg
+1866,ohio,A000314,Q1680840,James Ashley,rep,OH,Republican,clean,James Mitchell Ashley - Brady-Handy (1).jpg
+1866,ohio,G000063,Q34597,James Garfield,rep,OH,Republican,full_beard,James Abram Garfield%2C photo portrait seated.jpg
+1866,ohio,H000893,Q12060587,James Hubbell,rep,OH,Republican,clean,James Randolph Hubbell from findagrave.jpg
+1866,ohio,B000471,Q1699336,John Bingham,rep,OH,Republican,beard_no_mustache,BinghamFacingForward (2).jpg
+1866,ohio,S000346,Q445392,John Sherman,sen,OH,Republican,full_beard,John-Sherman.jpg
+1866,ohio,W000270,Q1905224,Martin Welker,rep,OH,Republican,full_beard,MartinWelker.jpg
+1866,ohio,B001022,Q7287971,Ralph Buckland,rep,OH,Republican,clean,Ralph Pomeroy Buckland.jpg
+1866,ohio,C000468,Q7300432,Reader Clarke,rep,OH,Republican,full_beard,Reader W. Clarke cropped.jpg
+1866,ohio,S000118,Q3434877,Robert Schenck,rep,OH,Republican,full_beard,Robert C. Schenck.jpg
+1866,ohio,S000697,Q7378082,Rufus Spalding,rep,OH,Republican,clean,Hon. Rufus Paine Spaulding%2C Ohio - NARA - 530279 (1).jpg
+1866,ohio,H000393,Q35686,Rutherford Hayes,rep,OH,Republican,full_beard,President Rutherford Hayes 1870 - 1880 Restored.jpg
+1866,ohio,S000325,Q7412606,Samuel Shellabarger,rep,OH,Republican,beard_no_mustache,Samuel Shellabarger cph.3a00889.jpg
+1866,ohio,P000376,Q7811600,Tobias Plants,rep,OH,Republican,full_beard,Tobias A. Plants Brady Handy.00255.jpg
+1866,ohio,F000118,Q8008234,William Finck,rep,OH,Democrat,clean,Hon. William E. Fink - NARA - 530363 (1).jpg
+1866,ohio,L000140,Q10913034,William Lawrence,rep,OH,Republican,goatee_mustache,William Lawrence Ohio - Brady-Handy.jpg
+1866,random,M000600,Q1239748,Donald McRuer,rep,CA,Republican,full_beard,DonaldCMcRuer.jpg
+1866,random,D000227,Q1606562,Henry Deming,rep,CT,Republican,mustache,MayorHenryCDeming (1).jpg
+1866,random,H000885,Q1700425,John Hubbard,rep,CT,Republican,full_beard,JohnHenryHubbard.jpg
+1866,random,N000099,Q1699073,John Nicholson,rep,DE,Democrat,full_beard,John A. Nicholson.jpeg
+1866,random,S000074,Q2576646,Willard Saulsbury,sen,DE,Democrat,clean,Willard Saulsbury%2C Sr. - Brady-Handy.jpg
+1866,random,B001108,Q2543402,Walter Burleigh,rep,DK,Republican,full_beard,Walter A. Burleigh (Dakota Territory Congressman) (1).jpg
+1866,random,G000475,Q885608,James Grimes,sen,IA,Republican,clean,Hon. James W. Grimes%2C Iowa - NARA - 528410 (cropped) (1).jpg
+1866,random,A000160,Q5552354,William Allison,rep,IA,Republican,full_beard,ALLISON%2C William Boyd B & W (Biographical Dictionary of America%2C vol. 1).png
+1866,random,H000188,Q4668116,Abner Harding,rep,IL,Republican,mustache,AbnerCHarding.jpg
+1866,random,K000347,Q4757410,Andrew Kuykendall,rep,IL,Republican,beard_no_mustache,Andrew Jackson Kuykendall (1815–1891).png
+1866,random,I000017,Q5331912,Ebon Ingersoll,rep,IL,Republican,not_downloaded,EbonCIngersoll.jpg
+1866,random,T000392,Q3269456,Lyman Trumbull,sen,IL,Republican,clean,Lyman Trumbull - Brady-Handy.jpg
+1866,random,Y000012,Q880987,Richard Yates,sen,IL,Republican,clean,Richard Yates Governor LOC.jpg
+1866,random,M000160,Q7412550,Samuel Marshall,rep,IL,Democrat,full_beard,Hon. Samuel S. Marshall%2C Ill - NARA - 527219 (1).jpg
+1866,random,M001047,Q7412844,Samuel Moulton,rep,IL,Republican,full_beard,Samuel Wheeler Moulton (1).jpg
+1866,random,D000524,Q1278634,Ebenezer Dumont,rep,IN,Republican,full_beard,Ebenezerdumontindiana.jpg
+1866,random,C000626,Q310852,Schuyler Colfax,rep,IN,Republican,full_beard,Schuyler Colfax%2C photo portrait seated%2C c1855-1865.jpg
+1866,random,R000445,Q376775,Edmund Ross,sen,KS,Republican,clean,Edmund G. Ross - Brady-Handy (2).jpg
+1866,random,P000423,Q6053012,Samuel Pomeroy,sen,KS,Republican,full_beard,Samuel C. Pomeroy - Brady-Handy.jpg
+1866,random,C000470,Q1401622,Sidney Clarke,rep,KS,Republican,clean,Hon. Sidney Clarke%2C Capt. of Kansas Volunteers - NARA - 525590.jpg
+1866,random,H000187,Q302082,Aaron Harding,rep,KY,Democrat,not_downloaded,AaronHarding.jpg
+1866,random,T000375,Q1532014,Lawrence Trimble,rep,KY,Democrat,goatee_mustache,LawrenceSTrimble (1).jpg
+1866,random,R000468,Q1535819,Lovell Rousseau,rep,KY,Unconditional Unionist,sideburns,Maj. Gen. Lovell Harrison Rousseau LOC cwpb.07108 (1).jpg
+1866,random,G000274,Q1163029,Daniel Gooch,rep,MA,Republican,beard_no_mustache,DanielWGooch.jpg
+1866,random,A000155,Q1699195,John Alley,rep,MA,Republican,full_beard,JohnBAlley (1).jpg
+1866,random,B000116,Q714106,Nathaniel Banks,rep,MA,Republican,mustache,Nathaniel Prentice Banks.jpg
+1866,random,M000395,Q336712,Hiram McCullough,rep,MD,Democrat,clean,Hiram McCollough - photo portrait seated.jpg
+1866,random,C000904,Q1298209,John Creswell,sen,MD,Unconditional Unionist,full_beard,John Angel James Creswell%2C sitting.jpg
+1866,random,T000174,Q724953,John Thomas,rep,MD,Unconditional Unionist,beard_no_mustache,JohnLewisThomas.jpg
+1866,random,L000531,Q1700900,John Lynch,rep,ME,Republican,full_beard,JLynch.jpg
+1866,random,P000226,Q94025,Sidney Perham,rep,ME,Republican,full_beard,SPerham.jpg
+1866,random,U000027,Q1066281,Charles Upson,rep,MI,Republican,full_beard,Hon. Charles Upson%2C Mich - NARA - 527337.jpg
+1866,random,B000275,Q1406612,Fernando Beaman,rep,MI,Republican,full_beard,Fernando C. Beaman - Brady-Handy.jpg
+1866,random,W000629,Q1374474,William Windom,rep,MN,Republican,clean,William Windom%2C Brady-Handy photo portrait%2C ca1870-1880.jpg
+1866,random,B000905,Q376825,Benjamin Brown,sen,MO,Republican,full_beard,BGratzBrown.png
+1866,random,K000081,Q1701496,John Kelso,rep,MO,Ind. Republican,mustache,John R. Kelso (Missouri Congressman) (3x4a).jpg
+1866,random,M000551,Q2218662,Samuel McLean,rep,MT,Democrat,full_beard,Samuel McLean Montana.jpg
+1866,random,F000234,Q681470,George Fogg,sen,NH,Republican,full_beard,GeorgeFogg.jpg
+1866,random,M000165,Q960133,Gilman Marston,rep,NH,Republican,clean,Gilman Marston - Brady-Handy.jpg
+1866,random,W000133,Q5645239,Hamilton Ward,rep,NY,Republican,full_beard,Hamilton Ward Sr. (2).jpg
+1866,random,V000010,Q5729449,Henry Van Aernam,rep,NY,Republican,beard_no_mustache,Henry Van Aernam (1).jpg
+1866,random,K000152,Q6236918,John Ketcham,rep,NY,Republican,mustache,John Henry Ketcham.jpg
+1866,random,C000681,Q5611358,Roscoe Conkling,rep,NY,Republican,full_beard,Roscoe Conkling by John F. Jarvis after Mathew B. Brady%2C c. 1876 after c. 1868 negative%2C albumen silver print%2C from the National Portrait Gallery - NPG-NPG 79 213Conkling-000001 (1).jpg
+1866,random,B000406,Q247930,Teunis Bergen,rep,NY,Democrat,full_beard,Teunis G Bergen.jpeg
+1866,random,D000139,Q7794539,Thomas Davis,rep,NY,Republican,beard_no_mustache,Hon. Thomas T. Davis%2C New York - NARA - 525221 (1).jpg
+1866,random,A000314,Q1680840,James Ashley,rep,OH,Republican,clean,James Mitchell Ashley - Brady-Handy (1).jpg
+1866,random,W000270,Q1905224,Martin Welker,rep,OH,Republican,full_beard,MartinWelker.jpg
+1866,random,B001022,Q7287971,Ralph Buckland,rep,OH,Republican,clean,Ralph Pomeroy Buckland.jpg
+1866,random,B001019,Q1065830,Charles Buckalew,sen,PA,Democrat,beard_no_mustache,Hon. Charles R. Buckalew%2C Pa - NARA - 527154 (3x4a).jpg
+1866,random,D000235,Q5076826,Charles Denison,rep,PA,Democrat,clean,CharlesDenison.jpg
+1866,random,M000726,Q5539526,George Miller,rep,PA,Republican,clean,George Funston Miller - Brady-Handy.jpg
+1866,random,W000613,Q7609223,Stephen Wilson,rep,PA,Republican,full_beard,Hon. Stephen F. Wilson%2C Pa - NARA - 527631.jpg
+1866,random,S000887,Q1353767,Thaddeus Stevens,rep,PA,Republican,clean,Thaddeus Stevens - Brady-Handy (3).jpg
+1866,random,M000646,Q7880929,Ulysses Mercur,rep,PA,Republican,full_beard,Ulysses Mercur - Brady-Handy.jpg
+1866,random,E000056,Q1507329,George Edmunds,sen,VT,Republican,full_beard,George F. Edmunds - Brady-Handy.jpg
+1866,random,M000969,Q1045864,Justin Morrill,rep,VT,Republican,beard_no_mustache,Justin Smith Morrill - Brady-Handy.jpg
+1866,random,F000248,Q1424080,Solomon Foot,sen,VT,Republican,clean,Solomon Foot 1859.jpg
+1866,random,S000091,Q2085930,Philetus Sawyer,rep,WI,Republican,beard_no_mustache,Philetus Sawyer - Brady-Handy (3x4a).jpg
+1866,random,H000879,Q1070701,Chester Hubbard,rep,WV,Unconditional Unionist,beard_no_mustache,ChesterDHubbard.jpg
+1866,random,V000066,Q1404201,Peter Van Winkle,sen,WV,Republican,sideburns,Peter G. Van Winkle - Brady-Handy.jpg
+1876,ohio,T000251,Q1850376,Allen Thurman,sen,OH,Democrat,full_beard,Allen G. Thurman - Brady-Handy.jpg
+1876,ohio,R000194,Q4745695,Americus Rice,rep,OH,Democrat,full_beard,AVRice.jpg
+1876,ohio,W000091,Q4770576,Ansel Walling,rep,OH,Democrat,mustache,Ansel T. Walling from findagrave.jpg
+1876,ohio,F000299,Q720584,Charles Foster,rep,OH,Republican,full_beard,Charles Foster%2C Brady-Handy photo portrait%2C ca1865-1880.jpg
+1876,ohio,H001002,Q5487008,Frank Hurd,rep,OH,Democrat,mustache,Frank H. Hurd.jpg
+1876,ohio,B000117,Q168149,Henry Banning,rep,OH,Democrat,full_beard,HBanning.jpg
+1876,ohio,P000151,Q1606477,Henry Payne,rep,OH,Democrat,sideburns,Henry B. Payne - Brady-Handy.jpg
+1876,ohio,C000820,Q13219351,Jacob Cowan,rep,OH,Democrat,full_beard,Jacob Pitzer Cowan 1890.jpg
+1876,ohio,G000063,Q34597,James Garfield,rep,OH,Republican,full_beard,James Abram Garfield%2C photo portrait seated.jpg
+1876,ohio,M000857,Q129348,James Monroe,rep,OH,Republican,beard_no_mustache,James Monroe (congressman).jpeg
+1876,ohio,M000561,Q6217825,John McMahon,rep,OH,Democrat,full_beard,John A. McMahon 1896.jpg
+1876,ohio,S000346,Q445392,John Sherman,sen,OH,Republican,full_beard,John-Sherman.jpg
+1876,ohio,V000016,Q6243722,John Vance,rep,OH,Democrat,full_beard,John L. Vance 005.png
+1876,ohio,W000735,Q6501819,Laurin Woodworth,rep,OH,Republican,not_downloaded,Laurin D. Woodworth-cwpbh.04584 head crop.jpg
+1876,ohio,N000014,Q6504621,Lawrence Neal,rep,OH,Democrat,mustache,Lawrence T Neal.png
+1876,ohio,D000028,Q6680691,Lorenzo Danford,rep,OH,Republican,full_beard,Lorenzo Danford.jpg
+1876,ohio,S000101,Q1697022,Milton Sayler,rep,OH,Democrat,full_beard,Milton Sayler Brady Handy.05035.jpg
+1876,ohio,S000688,Q6861172,Milton Southard,rep,OH,Democrat,mustache,Milton I Southard (3x4a).jpg
+1876,ohio,V000064,Q6990549,Nelson Van Vorhes,rep,OH,Republican,full_beard,NHVanVorhes.jpg
+1876,ohio,L000140,Q10913034,William Lawrence,rep,OH,Republican,goatee_mustache,William Lawrence Ohio - Brady-Handy.jpg
+1876,random,S000723,Q991879,George Spencer,sen,AL,Republican,goatee_mustache,George E. Spencer - Brady-Handy.jpg
+1876,random,H000179,Q1687538,Jeremiah Haralson,rep,AL,Republican,goatee_mustache,Jeremiah Haralson - Brady-Handy.jpg
+1876,random,G000527,Q739034,Thomas Gunter,rep,AR,Democrat,full_beard,ThomasMGunter.jpg
+1876,random,C000271,Q1687727,Jerome Chaffee,sen,CO,Republican,full_beard,Jerome B. Chaffee - Brady-Handy.jpg
+1876,random,S000854,Q549495,Alexander Stephens,rep,GA,Democrat,clean,Alexander Hamilton Stephens.jpg
+1876,random,C000724,Q2086128,Philip Cook,rep,GA,Democrat,full_beard,Hon. Philip Cook of Georgia%2C facing left.jpg
+1876,random,S000025,Q1347318,Ezekiel Sampson,rep,IA,Republican,goatee_mustache,ESSampson.jpg
+1876,random,A000067,Q1873399,Lucien Ainsworth,rep,IA,Democrat,goatee_mustache,LucienLAinsworth.jpg
+1876,random,F000073,Q2345078,Stephen Fenn,rep,ID,Democrat,unusable,Stephensfenn.PNG
+1876,random,F000288,Q5603768,Greenbury Fort,rep,IL,Republican,full_beard,Greenbury Lafayette Fort.jpg
+1876,random,B001070,Q4419897,Horatio Burchard,rep,IL,Republican,full_beard,HoratioCBurchard.jpg
+1876,random,O000048,Q735342,Richard Oglesby,sen,IL,Republican,clean,Richard James Oglesby - Brady-Handy.jpg
+1876,random,H000489,Q7791080,Thomas Henderson,rep,IL,Republican,full_beard,ThomasJHenderson.jpg
+1876,random,H000102,Q129883,Andrew Hamilton,rep,IN,Democrat,mustache,Andrew H. Hamilton Indiana - Brady-Handy.jpg
+1876,random,D000572,Q1935895,Milton Durham,rep,KY,Democrat,clean,Milton Durham cropped.jpg
+1876,random,M000942,Q1443803,Frank Morey,rep,LA,Republican,full_beard,Frank Morey.jpg
+1876,random,T000195,Q1065752,Charles Thompson,rep,MA,Democrat,mustache,CharlesPerkinsThompson.jpg
+1876,random,H000654,Q5539510,George Hoar,rep,MA,Republican,sideburns,George Frisbie Hoar - Brady-Handy.jpg
+1876,random,A000007,Q6869444,Josiah Abbott,rep,MA,Democrat,mustache,Josiah Gardner Abbott - Brady-Handy.jpg
+1876,random,F000394,Q2174799,Rufus Frost,rep,MA,Republican,beard_no_mustache,1872 Rufus Smith Frost senator Massachusetts.png
+1876,random,H000497,Q1862746,Eli Henkle,rep,MD,Democrat,full_beard,Eli Jones Henkle of Maryland - photo portrait seated - circa 1865-1880.jpg
+1876,random,O000017,Q1027364,William O’Brien,rep,MD,Democrat,full_beard,William James O'Brien of Maryland - photo portrait seated.jpg
+1876,random,H000029,Q1373107,Eugene Hale,rep,ME,Republican,full_beard,Eugene Hale - Brady-Handy.jpg
+1876,random,P000374,Q370611,Harris Plaisted,rep,ME,Republican,goatee_mustache,HMPlaisted.jpg
+1876,random,B000519,Q448778,James Blaine,rep,ME,Republican,full_beard,Blaine%2C James G (Cropped).jpg
+1876,random,H000545,Q1123420,Samuel Hersey,rep,ME,Republican,clean,Samuel Freeman Hersey.jpg
+1876,random,H000894,Q1684300,Jay Hubbell,rep,MI,Republican,full_beard,Jay Abel Hubbell - Brady-Handy.jpg
+1876,random,M000944,Q1064811,Charles Morgan,rep,MO,Democrat,goatee_mustache,CharlesHenryMorgan (3x4a).jpg
+1876,random,K000047,Q1291819,Edward Kehr,rep,MO,Democrat,full_beard,ECKehr.jpg
+1876,random,L000533,Q459170,John Lynch,rep,MS,Republican,mustache,John R. Lynch.jpg
+1876,random,V000019,Q2156408,Robert Vance,rep,NC,Democrat,full_beard,RobertBVance.jpg
+1876,random,C000935,Q882844,Lorenzo Crounse,rep,NE,Republican,full_beard,Lorenzo Crounse - Brady-Handy.jpg
+1876,random,C000852,Q302075,Aaron Cragin,sen,NH,Republican,beard_no_mustache,Aaron H. Cragin (US Senator from New Hampshire).jpg
+1876,random,B000524,Q761645,Henry Blair,rep,NH,Republican,full_beard,Henry W. Blair - Brady-Handy.jpg
+1876,random,D000383,Q2217873,Samuel Dobbins,rep,NJ,Republican,beard_no_mustache,SamuelADobbins.jpg
+1876,random,L000092,Q442009,Elbridge Lapham,rep,NY,Republican,clean,Elbridge G. Lapham - Brady-Handy.jpg
+1876,random,W000131,Q983147,Elijah Ward,rep,NY,Democrat,beard_no_mustache,Elijah Ward - Brady-Handy.jpg
+1876,random,N000155,Q6990574,Nelson Norton,rep,NY,Republican,beard_no_mustache,Nelson I. Norton.jpg
+1876,random,W000091,Q4770576,Ansel Walling,rep,OH,Democrat,mustache,Ansel T. Walling from findagrave.jpg
+1876,random,V000016,Q6243722,John Vance,rep,OH,Democrat,full_beard,John L. Vance 005.png
+1876,random,V000064,Q6990549,Nelson Van Vorhes,rep,OH,Republican,full_beard,NHVanVorhes.jpg
+1876,random,M000818,Q5989211,John Mitchell,sen,OR,Republican,clean,Mitchell%2C Senator – 2016690581 (cropped).jpg
+1876,random,W000688,Q4708090,Alan Wood,rep,PA,Republican,mustache,AlanWood1.jpg
+1876,random,C000539,Q3135319,Hiester Clymer,rep,PA,Democrat,full_beard,Hiester Clymer - Brady-Handy.jpg
+1876,random,R000153,Q6129722,James Reilly,rep,PA,Democrat,mustache,James Bernard Reilly - Brady-Handy.jpg
+1876,random,S000313,Q324065,James Sheakley,rep,PA,Democrat,full_beard,McLaurin(1902) pic.109 Governor SHEAKLEY.jpg
+1876,random,R000301,Q6255072,John Robbins,rep,PA,Democrat,sideburns,John Robbins congressman - Brady-Handy.jpg
+1876,random,K000062,Q3568533,William Kelley,rep,PA,Republican,full_beard,William D. Kelley - Brady-Handy (1).jpg
+1876,random,M001125,Q8015977,William Mutchler,rep,PA,Democrat,mustache,WilliamMutchler2.jpg
+1876,random,S000807,Q8012170,William Stanton,rep,PA,Democrat,goatee_mustache,William Henry Stanton 2.jpg
+1876,random,E000005,Q817702,Benjamin Eames,rep,RI,Republican,full_beard,Benjamin T. Eames formerly representative in congress.jpg
+1876,random,B001202,Q1066335,Charles Buttz,rep,SC,Republican,mustache,Charles W. Buttz (South Carolina congressman).jpg
+1876,random,M000024,Q1286971,Edmund Mackey,rep,SC,Ind. Republican,goatee_mustache,Edmund William McGregor Mackey - Brady-Handy.jpg
+1876,random,H000999,Q2339968,Eppa Hunton,rep,VA,Democrat,full_beard,Eppa Hunton%2C photo portrait seated.jpg
+1876,random,H000247,Q1701880,John Harris,rep,VA,Democrat,clean,JohnTHarris.jpg
+1876,random,S000985,Q1168008,William Stowell,rep,VA,Republican,full_beard,WilliamHenryHarrisonStowell.jpg
+1876,random,C000245,Q1634670,Lucien Caswell,rep,WI,Republican,full_beard,Lucien B. Caswell - Brady-Handy.jpg
+1876,random,L000538,Q2580258,William Lynde,rep,WI,Democrat,mustache,William Pitt Lynde (Wisconsin Congressman) (3x4a).jpg
+1876,random,C000130,Q477737,Allen Caperton,sen,WV,Democrat,full_beard,Allen T. Caperton - Brady-Handy.jpg
+1876,random,W000569,Q817744,Benjamin Wilson,rep,WV,Democrat,full_beard,BenjaminWilsonWV.jpg
+1886,ohio,W000151,Q4684523,Adoniram Warner,rep,OH,Democrat,full_beard,Adoniram J. Warner.JPG
+1886,ohio,T000191,Q4709866,Albert Thompson,rep,OH,Republican,mustache,Albert C Thompson.jpg
+1886,ohio,B001200,Q817433,Benjamin Butterworth,rep,OH,Republican,sideburns,Benjamin Butterworth.png
+1886,ohio,L000159,Q4888954,Benjamin Le Fevre,rep,OH,Democrat,mustache,Benjamin Le Fevre.jpg
+1886,ohio,W000474,Q4891800,Beriah Wilkins,rep,OH,Democrat,beard_no_mustache,Beriah Wilkins.jpg
+1886,ohio,A000185,Q5080664,Charles Anderson,rep,OH,Democrat,mustache,Charles Marley Anderson 1900.jpg
+1886,ohio,B000907,Q168168,Charles Brown,rep,OH,Republican,full_beard,General Charles E. Brown.png
+1886,ohio,G000497,Q5078573,Charles Grosvenor,rep,OH,Republican,full_beard,Charles H. Grosvenor 1897.jpg
+1886,ohio,T000073,Q1386067,Ezra Taylor,rep,OH,Republican,full_beard,Ezra Booth Taylor.jpg
+1886,ohio,G000115,Q5545618,George Geddes,rep,OH,Democrat,beard_no_mustache,George W. Geddes (3x4a).png
+1886,ohio,S000241,Q5538786,George Seney,rep,OH,Democrat,mustache,George E. Seney (1902).png
+1886,ohio,P000151,Q1606477,Henry Payne,sen,OH,Democrat,sideburns,Henry B. Payne - Brady-Handy.jpg
+1886,ohio,T000081,Q531196,Isaac Taylor,rep,OH,Republican,clean,Isaac H. Taylor 1900.jpg
+1886,ohio,R000415,Q6119193,Jacob Romeis,rep,OH,Republican,full_beard,Jacob Romeis.jpg
+1886,ohio,C000087,Q881053,James Campbell,rep,OH,Democrat,mustache,James E. Campbell 002.png
+1886,ohio,L000351,Q13219443,John Little,rep,OH,Republican,mustache,John Little (congressman).jpg
+1886,ohio,S000346,Q445392,John Sherman,sen,OH,Republican,full_beard,John-Sherman.jpg
+1886,ohio,O000136,Q6283694,Joseph Outhwaite,rep,OH,Democrat,goatee_mustache,Joseph Hodson Outhwaite.jpg
+1886,ohio,F000254,Q1661951,Martin Foran,rep,OH,Democrat,mustache,Martin Ambrose Foran.jpg
+1886,ohio,C000765,Q8006278,William Cooper,rep,OH,Republican,clean,William C Cooper.jpg
+1886,ohio,H000609,Q8007475,William Hill,rep,OH,Democrat,full_beard,William D. Hill 1897.jpg
+1886,ohio,M000522,Q35041,William McKinley,rep,OH,Republican,clean,William mckinley.jpg
+1886,random,M000188,Q1300575,John Martin,rep,AL,Democrat,full_beard,John Mason Martin.png
+1886,random,P000184,Q2218930,Samuel Peel,rep,AR,Democrat,goatee_mustache,Samuel W Peel 200px.jpg
+1886,random,S000793,Q382109,Leland Stanford,sen,CA,Republican,full_beard,Leland Stanford c1870s.jpg
+1886,random,B000686,Q376332,Thomas Bowen,sen,CO,Republican,clean,ThomasMBowen.jpg
+1886,random,G000170,Q2032960,Oscar Gifford,rep,DK,Republican,goatee_mustache,Oscar Sherman Gifford.jpg
+1886,random,J000214,Q2161618,Charles Jones,sen,FL,Democrat,clean,CharlesWJones.jpg
+1886,random,C000051,Q2576458,Wilkinson Call,sen,FL,Democrat,mustache,Wilkinson Call - Brady-Handy.jpg
+1886,random,C000647,Q262319,Alfred Colquitt,sen,GA,Democrat,clean,Alfred Holt Colquitt.jpg
+1886,random,B000568,Q1680545,James Blount,rep,GA,Democrat,clean,James Henderson Blount - Brady-Handy.jpg
+1886,random,B000936,Q357506,Joseph Brown,sen,GA,Democrat,beard_no_mustache,Joseph Emerson Brown.jpg
+1886,random,H000478,Q461389,David Henderson,rep,IA,Republican,mustache,DavidBremmerHenderson.jpg
+1886,random,C000675,Q462309,Edwin Conger,rep,IA,Republican,full_beard,Edwin Hurd Conger%2C 1843-1907.jpg
+1886,random,W000225,Q462305,James Weaver,rep,IA,National Greenbacker,full_beard,James Weaver - Brady-Handy.jpg
+1886,random,F000259,Q1507350,George Ford,rep,IN,Democrat,mustache,George Ford (Indiana Congressman).jpg
+1886,random,M000968,Q973506,Edmund Morrill,rep,KS,Republican,full_beard,ENMorrill.jpg
+1886,random,W000681,Q1443631,Frank Wolford,rep,KY,Democrat,mustache,Frank Wolford.jpg
+1886,random,B000508,Q881633,Joseph Blackburn,sen,KY,Democrat,mustache,Jblackburn.jpg
+1886,random,G000103,Q504245,Edward Gay,rep,LA,Democrat,full_beard,Edward James Gay.JPG
+1886,random,H000019,Q327388,Michael Hahn,rep,LA,Republican,goatee_mustache,Governor Michael Hahn%2C by John Genin.jpg
+1886,random,D000148,Q1506805,Henry Dawes,sen,MA,Republican,full_beard,HLDawes (1).jpg
+1886,random,C000660,Q1862750,Barnes Compton,rep,MD,Democrat,goatee_mustache,Barnes Compton.jpg
+1886,random,C000615,Q1108094,William Cole,rep,MD,Democrat,mustache,WilliamHinsonCole.jpg
+1886,random,M000837,Q2274724,Seth Moffatt,rep,MI,Republican,full_beard,SethCMoffatt.jpg
+1886,random,S000003,Q1268493,Dwight Sabin,sen,MN,Republican,mustache,Sabin%2C Sen. D.M. (01322) (cropped).jpg
+1886,random,W000026,Q773436,James Wakefield,rep,MN,Republican,full_beard,Wakefield%2C Hon. J.B (cropped).jpg
+1886,random,W000387,Q956192,Milo White,rep,MN,Republican,full_beard,Hon. Milo White (cropped).jpg
+1886,random,H000033,Q957810,John Hale,rep,MO,Democrat,full_beard,John B. Hale (Missouri Congressman).jpg
+1886,random,O000054,Q1310301,James O’Hara,rep,NC,Republican,mustache,James E. O'Hara.jpg
+1886,random,R000062,Q372573,Matt Ransom,sen,NC,Democrat,full_beard,Matt Whitaker Ransom - Brady-Handy.jpg
+1886,random,S000470,Q1725117,Thomas Skinner,rep,NC,Democrat,full_beard,ThomasGregorySkinner.jpg
+1886,random,L000023,Q1680693,James Laird,rep,NE,Republican,mustache,James Laird (Nebraska Congressman).jpg
+1886,random,C000343,Q434240,Person Cheney,sen,NH,Republican,full_beard,Govpersoncheney.jpg
+1886,random,J000048,Q404143,Darwin James,rep,NY,Republican,mustache,James1 md.jpg
+1886,random,W000302,Q5546166,George West,rep,NY,Republican,full_beard,George West.tif
+1886,random,F000027,Q13219102,John Farquhar,rep,NY,Republican,mustache,John M. Farquhar.jpg
+1886,random,S000088,Q6234589,John Sawyer,rep,NY,Republican,sideburns,John Gilbert Sawyer.jpg
+1886,random,S001120,Q6259825,John Swinburne,rep,NY,Republican,full_beard,John Swinburne b1820.jpg
+1886,random,M000068,Q654740,Peter Mahoney,rep,NY,Democrat,not_downloaded,Peter P. Mahoney.jpg
+1886,random,C000103,Q1385159,Timothy Campbell,rep,NY,Democrat,mustache,Timothy J. Campbell.jpg
+1886,random,M000658,Q2119865,Truman Merriman,rep,NY,Ind. Democrat,full_beard,Truman A. Merriman (New York Congressman).jpg
+1886,random,W000151,Q4684523,Adoniram Warner,rep,OH,Democrat,full_beard,Adoniram J. Warner.JPG
+1886,random,G000497,Q5078573,Charles Grosvenor,rep,OH,Republican,full_beard,Charles H. Grosvenor 1897.jpg
+1886,random,C000087,Q881053,James Campbell,rep,OH,Democrat,mustache,James E. Campbell 002.png
+1886,random,B000977,Q5081183,Charles Brumm,rep,PA,Republican,clean,CharlesNBrumm.jpg
+1886,random,B000469,Q5722357,Henry Bingham,rep,PA,Republican,mustache,HenryHBingham.jpg
+1886,random,P000015,Q1064675,Charles Page,rep,RI,Democrat,mustache,CharlesHPage.jpg
+1886,random,H000469,Q473330,John Hemphill,rep,SC,Democrat,mustache,John James Hemphill.jpg
+1886,random,C000028,Q505349,Andrew Caldwell,rep,TN,Democrat,mustache,Andrew Jackson Caldwell (Tennessee Congressman).jpg
+1886,random,J000014,Q654559,Howell Jackson,sen,TN,Democrat,goatee_mustache,Justice Howell Jackson2.jpg
+1886,random,R000222,Q1680243,James Richardson,rep,TN,Democrat,mustache,James D Richardson (1).jpg
+1886,random,W000429,Q1527756,Washington Whitthorne,sen,TN,Democrat,goatee_mustache,Washington C. Whitthorne - Brady-Handy.jpg
+1886,random,C000004,Q1507071,George Cabell,rep,VA,Democrat,mustache,GCCabell.jpg
+1886,random,B000757,Q910248,Edward Bragg,rep,WI,Democrat,full_beard,GenESBragg.jpg
+1886,random,V000058,Q1673458,Isaac Van Schaick,rep,WI,Republican,full_beard,Isaac W. Van Schaick (Wisconsin Congressman).jpg
+1886,random,S000741,Q1542094,John Spooner,sen,WI,Republican,clean,Portrait of John Coit Spooner.jpg
+1886,random,T000180,Q224631,Ormsby Thomas,rep,WI,Republican,not_downloaded,OrmsbyBThomas.jpg
+1886,random,G000516,Q215400,Richard Guenther,rep,WI,Republican,mustache,RWGuenther.jpg
+1886,random,G000160,Q1378698,Eustace Gibson,rep,WV,Democrat,not_downloaded,Eustace Gibson (West Virginia Congressman).jpg
+1886,random,K000099,Q371121,John Kenna,sen,WV,Democrat,clean,John E. Kenna - Brady-Handy.jpg
+1886,random,W000623,Q376232,William Wilson,rep,WV,Democrat,mustache,William Lyne Wilson.jpg
+1896,ohio,M000344,Q24217,Addison McClure,rep,OH,Republican,goatee_mustache,Addison S. McClure (3x4a).png
+1896,ohio,B000818,Q1027729,Calvin Brice,sen,OH,Democrat,full_beard,Calvin Stewart Brice.jpg
+1896,ohio,G000497,Q5078573,Charles Grosvenor,rep,OH,Republican,full_beard,Charles H. Grosvenor 1897.jpg
+1896,ohio,T000007,Q1065770,Charles Taft,rep,OH,Republican,full_beard,CharlesPhelpsTaft.jpg
+1896,ohio,B000262,Q1101356,Clifton Beach,rep,OH,Republican,mustache,Clifton Bailey Beach.png
+1896,ohio,W000200,Q5235808,David Watson,rep,OH,Republican,mustache,David K. Watson.jpg
+1896,ohio,L000152,Q5444618,Fernando Layton,rep,OH,Democrat,mustache,Fernando C. Layton.png
+1896,ohio,H000937,Q5545649,George Hulick,rep,OH,Republican,full_beard,George W. Hulick 1896.jpg
+1896,ohio,W000583,Q5545776,George Wilson,rep,OH,Republican,mustache,George W. Wilson.png
+1896,ohio,V000062,Q5628140,Henry Van Voorhis,rep,OH,Republican,full_beard,H. Clay Van Voorhis 1899.jpg
+1896,ohio,B000866,Q194541,Jacob Bromwell,rep,OH,Republican,goatee_mustache,Jacob H. Bromwell 1899.jpg
+1896,ohio,S000687,Q6135289,James Southard,rep,OH,Republican,clean,James H. Southard 1917.jpg
+1896,ohio,S000346,Q445392,John Sherman,sen,OH,Republican,full_beard,John-Sherman.jpg
+1896,ohio,D000028,Q6680691,Lorenzo Danford,rep,OH,Republican,full_beard,Lorenzo Danford.jpg
+1896,ohio,F000076,Q12057604,Lucien Fenton,rep,OH,Republican,mustache,Lucien J. Fenton 1899.jpg
+1896,ohio,S001014,Q6705605,Luther Strong,rep,OH,Republican,full_beard,Colonel Luther M. Strong.jpg
+1896,ohio,S000679,Q7151515,Paul Sorg,rep,OH,Democrat,mustache,Paul J. Sorg-1896.jpg
+1896,ohio,T000061,Q2159128,Robert Tayler,rep,OH,Republican,clean,Robert Walker Tayler 1899.jpg
+1896,ohio,H000253,Q7610407,Stephen Harris,rep,OH,Republican,full_beard,Stephen Ross Harris 1896.jpg
+1896,ohio,N000144,Q1000841,Stephen Northway,rep,OH,Republican,full_beard,Stephen A. Northway.png
+1896,ohio,B001159,Q252449,Theodore Burton,rep,OH,Republican,clean,TheodoreEBurton.jpg
+1896,ohio,K000145,Q8025014,Winfield Kerr,rep,OH,Republican,mustache,Winfield S. Kerr 1896.jpg
+1896,random,P000561,Q1680689,James Pugh,sen,AL,Democrat,full_beard,James Lawrence Pugh.jpg
+1896,random,M001102,Q889353,Nathan Murphy,rep,AZ,Republican,mustache,N. O. Murphy.jpg
+1896,random,J000134,Q1547785,Grove Johnson,rep,CA,Republican,full_beard,Johnson%2C Hon. G.L. Trim.jpg
+1896,random,M000059,Q1680423,James Maguire,rep,CA,Democrat,mustache,Maguire%2C Hon. J.G Trim Crop.jpg
+1896,random,H000591,Q1278648,Ebenezer Hill,rep,CT,Republican,full_beard,Ebenezer J. Hill.jpg
+1896,random,C000051,Q2576458,Wilkinson Call,sen,FL,Democrat,mustache,Wilkinson Call - Brady-Handy.jpg
+1896,random,R000520,Q817456,Benjamin Russell,rep,GA,Democrat,mustache,BenjaminERussell.jpg
+1896,random,M001027,Q1065230,Charles Moses,rep,GA,Democrat,mustache,CharlesLMoses.jpg
+1896,random,L000368,Q1819437,Leonidas Livingston,rep,GA,Democrat,clean,Leonidas F. Livingston%2C side portrait%2C c. 1894–1901.jpg
+1896,random,L000255,Q1530751,Rufus Lester,rep,GA,Democrat,not_downloaded,RufusELester.jpg
+1896,random,P000233,Q1507183,George Perkins,rep,IA,Republican,clean,Perkins%2C Hon. G.D. – 2016691312 (cropped).jpg
+1896,random,C000452,Q2218601,Samuel Clark,rep,IA,Republican,full_beard,Samuel Mercer Clark (Iowa Congressman).jpg
+1896,random,C000697,Q6128064,James Connolly,rep,IL,Republican,goatee_mustache,James Austin Connolly (1843–1914).png
+1896,random,C000121,Q984248,Joseph Cannon,rep,IL,Republican,beard_no_mustache,JGCannon.jpg
+1896,random,B001136,Q7103058,Orlando Burrell,rep,IL,Republican,full_beard,OrlandoBurrell.jpg
+1896,random,W000203,Q6133417,James Watson,rep,IN,Republican,clean,James Eli Watson (LCCN2016861959) (cropped).jpg
+1896,random,O000144,Q1688181,Jesse Overstreet,rep,IN,Republican,mustache,JesseOverstreet.jpg
+1896,random,C001008,Q271023,Charles Curtis,rep,KS,Republican,mustache,Charles Curtis-portrait.jpg
+1896,random,L000327,Q1566559,William Lindsay,sen,KY,Democrat,clean,William Lindsay - Kentucky Senator.jpg
+1896,random,P000521,Q506774,Andrew Price,rep,LA,Democrat,not_downloaded,AndrewPrice.jpg
+1896,random,B000580,Q1064982,Charles Boatner,rep,LA,Democrat,mustache,CharlesJBoatner.jpg
+1896,random,C000016,Q429174,Donelson Caffery,sen,LA,Democrat,full_beard,Donelson Caffery.jpg
+1896,random,O000044,Q1607382,Henry Ogden,rep,LA,Democrat,full_beard,HenryWarrenOgden.jpg
+1896,random,M001007,Q1329360,Elijah Morse,rep,MA,Republican,full_beard,1876 Elijah Adams Morse Massachusetts House of Representatives.png
+1896,random,G000201,Q450898,Frederick Gillett,rep,MA,Republican,full_beard,FrederickHGillett.jpg
+1896,random,H000654,Q5539510,George Hoar,sen,MA,Republican,sideburns,George Frisbie Hoar - Brady-Handy.jpg
+1896,random,M000883,Q724503,William Moody,rep,MA,Republican,mustache,WHMoody.jpg
+1896,random,B000076,Q759228,William Baker,rep,MD,Republican,mustache,William Benjamin Baker (Maryland Congressman).jpg
+1896,random,H000029,Q1373107,Eugene Hale,sen,ME,Republican,full_beard,Eugene Hale - Brady-Handy.jpg
+1896,random,S000696,Q1508270,George Spalding,rep,MI,Republican,not_downloaded,GeorgeSpalding.jpg
+1896,random,S000629,Q571000,William Smith,rep,MI,Republican,clean,William Alden Smith 3.jpg
+1896,random,K000166,Q214639,Andrew Kiefer,rep,MN,Republican,mustache,Kiefer%2C Hon. A.R. (2016692846) (cropped).jpg
+1896,random,N000040,Q888190,Knute Nelson,sen,MN,Republican,full_beard,NELSON%2C K. SENATOR LCCN2016856187 (cropped).jpg
+1896,random,J000274,Q1064442,Charles Joy,rep,MO,Republican,mustache,CharlesFrederickJoy.jpg
+1896,random,C000949,Q1493094,George Crowther,rep,MO,Republican,not_downloaded,GeorgeCalhounCrowther.jpg
+1896,random,M000854,Q1581508,Hernando Money,rep,MS,Democrat,mustache,Hernando Money - Brady-Handy.jpg
+1896,random,L000391,Q250095,James Lockhart,rep,NC,Democrat,full_beard,JamesALockhart.jpg
+1896,random,S000309,Q1700153,John Shaw,rep,NC,Democrat,mustache,JohnGShaw.jpg
+1896,random,S000253,Q2427264,Thomas Settle,rep,NC,Republican,mustache,ThomasSettle.jpg
+1896,random,W000583,Q5545776,George Wilson,rep,OH,Republican,mustache,George W. Wilson.png
+1896,random,V000062,Q5628140,Henry Van Voorhis,rep,OH,Republican,full_beard,H. Clay Van Voorhis 1899.jpg
+1896,random,B001159,Q252449,Theodore Burton,rep,OH,Republican,clean,TheodoreEBurton.jpg
+1896,random,S000953,Q5083370,Charles Stone,rep,PA,Republican,not_downloaded,CharlesWarrenStone.jpg
+1896,random,E000199,Q1128039,Constantine Erdman,rep,PA,Democrat,full_beard,ConstantineJacobErdman.jpg
+1896,random,W000739,Q5382313,Ephraim Woomer,rep,PA,Republican,mustache,EphraimMiltonWoomer.jpg
+1896,random,H000093,Q5497946,Frederick Halterman,rep,PA,Republican,full_beard,FrederickHalterman.jpg
+1896,random,B001048,Q1919762,Melville Bull,rep,RI,Republican,mustache,Melville Bull (Rhode Island Congressman).jpg
+1896,random,W000612,Q1337534,Stanyarne Wilson,rep,SC,Democrat,mustache,Stanyarne Wilson.jpg
+1896,random,G000032,Q446101,Robert Gamble,rep,SD,Republican,not_downloaded,Robert Gamble.jpg
+1896,random,M000575,Q358665,Benton McMillin,rep,TN,Democrat,sideburns,Benton McMillin 3575401083 6b3c77e538 o (3x4a).jpg
+1896,random,H000243,Q130715,Isham Harris,sen,TN,Democrat,mustache,Isham-harris-by-brady.jpg
+1896,random,R000222,Q1680243,James Richardson,rep,TN,Democrat,mustache,James D Richardson (1).jpg
+1896,random,C000761,Q584787,Samuel Cooper,rep,TX,Democrat,full_beard,Samuel B. Cooper.jpeg
+1896,random,B000902,Q708776,Arthur Brown,sen,UT,Republican,clean,Hon. Arthur Brown - C. M. Bell - retouched.jpg
+1896,random,E000117,Q1373928,Tazewell Ellett,rep,VA,Democrat,clean,TazewellEllett.jpg
+1896,random,J000259,Q2411107,William Jones,rep,VA,Democrat,mustache,William Atkinson Jones (congressional).jpg
+1896,random,G000501,Q2580896,William Grout,rep,VT,Republican,full_beard,William Wallace Grout.jpg
+1896,random,S000898,Q2643104,Alexander Stewart,rep,WI,Republican,full_beard,Alexander Stewart (American politician).jpg
+1896,random,B000004,Q1708153,Joseph Babcock,rep,WI,Republican,not_downloaded,JosephWBabcock.jpg
+1896,random,V000099,Q1325762,William Vilas,sen,WI,Democrat,full_beard,Vilas2.jpg
+1906,ohio,W000233,Q4747940,Amos Webber,rep,OH,Republican,not_downloaded,Amos R. Webber 1921.png
+1906,ohio,D000146,Q4884992,Beman Dawes,rep,OH,Republican,clean,Beman Gates Dawes.png
+1906,ohio,W000249,Q5035254,Capell Weems,rep,OH,Republican,clean,Capell L. Weems 1903.jpg
+1906,ohio,D000302,Q1066346,Charles Dick,sen,OH,Republican,clean,Charles W. F. Dick 1903.jpg
+1906,ohio,G000497,Q5078573,Charles Grosvenor,rep,OH,Republican,full_beard,Charles H. Grosvenor 1897.jpg
+1906,ohio,T000071,Q5344032,Edward Taylor,rep,OH,Republican,clean,Edward L. Taylor%2C Jr..png
+1906,ohio,M001048,Q5596198,Grant Mouser,rep,OH,Republican,clean,Grant E. Mouser 1921.jpg
+1906,ohio,G000044,Q5677086,Harvey Garber,rep,OH,Democrat,clean,Harvey C. Garber.png
+1906,ohio,B000118,Q13218443,Henry Bannon,rep,OH,Republican,mustache,Henry T. Bannon-hec.15106.jpg
+1906,ohio,G000251,Q194745,Herman Goebel,rep,OH,Republican,mustache,Herman P. Goebel.jpg
+1906,ohio,B000317,Q1677405,Jacob Beidler,rep,OH,Republican,mustache,Jacob A. Beidler 002.png
+1906,ohio,K000106,Q591032,James Kennedy,rep,OH,Republican,clean,James Kennedy (congressman).png
+1906,ohio,S000687,Q6135289,James Southard,rep,OH,Republican,clean,James H. Southard 1917.jpg
+1906,ohio,F000253,Q881341,Joseph Foraker,sen,OH,Republican,mustache,Senator Joseph B. Foraker.png
+1906,ohio,K000048,Q465829,Joseph Keifer,rep,OH,Republican,full_beard,J. Warren Keifer - Brady-Handy.jpg
+1906,ohio,S000645,Q919353,Martin Smyser,rep,OH,Republican,mustache,Martin L. Smyser 003.png
+1906,ohio,L000433,Q465874,Nicholas Longworth,rep,OH,Republican,mustache,N. Longworth LCCN2014715692.jpg
+1906,ohio,C000612,Q7287387,Ralph Cole,rep,OH,Republican,clean,Ralph D. Cole.jpg
+1906,ohio,N000057,Q7347167,Robert Nevin,rep,OH,Republican,mustache,Robert M. Nevin - History of Ohio.jpg
+1906,ohio,B001159,Q252449,Theodore Burton,rep,OH,Republican,clean,TheodoreEBurton.jpg
+1906,ohio,S000195,Q7789195,Thomas Scroggy,rep,OH,Republican,mustache,Thomas E. Scroggy.png
+1906,ohio,C000106,Q8020360,William Campbell,rep,OH,Republican,clean,William W. Campbell.png
+1906,ohio,T000186,Q2536632,William Thomas,rep,OH,Republican,clean,W. Aubrey Thomas 1909.jpg
+1906,random,R000227,Q202125,William Richardson,rep,AL,Democrat,clean,William Richardson Alabama.jpg
+1906,random,L000352,Q880633,John Little,rep,AR,Democrat,mustache,AR Little John.jpg
+1906,random,S000614,Q2374065,Sylvester Smith,rep,CA,Republican,mustache,Sylvester Clark Smith%2C California Congressman.jpg
+1906,random,B000878,Q1445208,Franklin Brooks,rep,CO,Republican,mustache,Franklin E. Brooks (Colorado Congressman).jpg
+1906,random,H000578,Q1295034,Edwin Higgins,rep,CT,Republican,clean,EdwinWHiggins.jpg
+1906,random,B001044,Q888580,Morgan Bulkeley,sen,CT,Republican,mustache,Morgan G Bulkeley (3x4a).jpg
+1906,random,G000473,Q1530417,James Griggs,rep,GA,Democrat,clean,James M. Griggs.jpg
+1906,random,O000143,Q1681258,James Overstreet,rep,GA,Democrat,clean,JamesWOverstreet.jpg
+1906,random,L000368,Q1819437,Leonidas Livingston,rep,GA,Democrat,clean,Leonidas F. Livingston%2C side portrait%2C c. 1894–1901.jpg
+1906,random,H000942,Q1648740,John Hull,rep,IA,Republican,full_beard,John A. T. Hull - History of Iowa.jpg
+1906,random,S000541,Q5546026,George Smith,rep,IL,Republican,mustache,George Washington Smith.jpg
+1906,random,K000289,Q7183910,Philip Knopf,rep,IL,Republican,mustache,Philip Knopf.png
+1906,random,L000444,Q503337,William Lorimer,rep,IL,Republican,mustache,William Lorimer%2C Illinois Senator%2C GGB photo.jpg
+1906,random,B000429,Q982853,Albert Beveridge,sen,IN,Republican,clean,Albert J. Beveridge cph.3b04505.jpg
+1906,random,G000176,Q330387,Newton Gilbert,rep,IN,Republican,clean,Newton W. Gilbert (cropped).jpg
+1906,random,M000679,Q365466,Adolph Meyer,rep,LA,Democrat,mustache,AdolphMeyerLA.jpg
+1906,random,G000050,Q770561,Augustus Gardner,rep,MA,Republican,clean,A.P. Gardner LCCN2014701384 (cropped).jpg
+1906,random,K000055,Q1699064,John Keliher,rep,MA,Democrat,clean,John A Keliher Massachusetts Congressman circa 1908.png
+1906,random,W000001,Q1107837,Frank Wachter,rep,MD,Republican,mustache,Frank Charles Wachter.jpg
+1906,random,R000086,Q6080874,Isidor Rayner,sen,MD,Democrat,mustache,Isidor Rayner standing photograph portrait.jpg
+1906,random,F000398,Q458469,William Frye,sen,ME,Republican,mustache,William P. Frye - Brady-Handy.jpg
+1906,random,S000613,Q2218970,Samuel Smith,rep,MI,Republican,mustache,Samuel W. Smith Men of Progress.png
+1906,random,C000437,Q465651,James Clark,rep,MO,Democrat,clean,JBClark.jpg
+1906,random,B000196,Q215576,Richard Bartholdt,rep,MO,Republican,full_beard,Bundesarchiv Bild 137-25348%2C Richard Barthold.jpg
+1906,random,T000451,Q1416107,William Tyndall,rep,MO,Republican,mustache,William T. Tyndall.jpg
+1906,random,B001207,Q350350,Adam Byrd,rep,MS,Democrat,clean,Adam Monroe Byrd.png
+1906,random,D000372,Q732166,Joseph Dixon,rep,MT,Republican,clean,JosephMDixon.jpg
+1906,random,B000507,Q1285746,Edmond Blackburn,rep,NC,Republican,clean,Edmond Spencer Blackburn.jpg
+1906,random,G000491,Q732712,Asle Gronna,rep,ND,Republican,mustache,Gronna%2C Sen. A.J. LOC hec.14631 (3x4a).jpg
+1906,random,M000314,Q1700621,John McCarthy,rep,NE,Republican,mustache,John Jay McCarthy.jpg
+1906,random,G000023,Q5750508,Jacob Gallinger,sen,NH,Republican,mustache,Jacob Harold Gallinger.jpg
+1906,random,V000065,Q1599913,Marshall Van Winkle,rep,NJ,Republican,clean,Marshall Van Winkle (New Jersey Congresman).jpg
+1906,random,W000470,Q1707716,William Wiley,rep,NJ,Republican,mustache,WilliamHWiley.jpg
+1906,random,D000557,Q404727,Charles Dunwell,rep,NY,Republican,mustache,Charles T. Dunwell.jpg
+1906,random,T000324,Q1063591,Charles Towne,rep,NY,Democrat,clean,CharlesTowne.jpg
+1906,random,V000122,Q5341689,Edward Vreeland,rep,NY,Republican,mustache,Ebvreelandcrop.jpg
+1906,random,W000011,Q6145733,James Wadsworth,rep,NY,Republican,mustache,James Wolcott Wadsworth.jpg
+1906,random,L000433,Q465874,Nicholas Longworth,rep,OH,Republican,mustache,N. Longworth LCCN2014715692.jpg
+1906,random,A000019,Q5393043,Ernest Acheson,rep,PA,Republican,mustache,Ernest F Acheson.jpg
+1906,random,M000906,Q6105938,Joseph Moore,rep,PA,Republican,mustache,JHamptonMoore.jpg
+1906,random,K000268,Q6758066,Marcus Kline,rep,PA,Democrat,mustache,Marcus Charles Lawrence Kline.png
+1906,random,O000079,Q6771841,Marlin Olmsted,rep,PA,Republican,mustache,Marlin Edgar Olmsted.jpeg
+1906,random,M000066,Q7708997,Thaddeus Mahon,rep,PA,Republican,mustache,Thaddeus Maclay Mahon.jpg
+1906,random,D000010,Q7790597,Thomas Dale,rep,PA,Republican,mustache,Thomas H. Dale (Pennsylvania Congressman).jpg
+1906,random,S000635,Q8016369,William Smith,rep,PA,Republican,mustache,William Orlando Smith (Pennsylvania Congressman).jpg
+1906,random,T000274,Q736903,Benjamin Tillman,sen,SC,Democrat,clean,Benjamintillman.jpg
+1906,random,F000131,Q1174278,David Finley,rep,SC,Democrat,mustache,DavidEFinley.jpg
+1906,random,P000012,Q1817156,Lemuel Padgett,rep,TN,Democrat,clean,Portrait of Lemuel P. Padgett.jpg
+1906,random,H000035,Q1966664,Nathan Hale,rep,TN,Republican,mustache,NathanWHale.jpg
+1906,random,B001083,Q1507332,George Burgess,rep,TX,Democrat,mustache,George Farmer Burgess.jpg
+1906,random,B000270,Q1679952,James Beall,rep,TX,Democrat,clean,JamesAndrewBeall.jpg
+1906,random,H000382,Q1680539,James Hay,rep,VA,Democrat,mustache,James Hay.jpg
+1906,random,D000035,Q1702045,John Daniel,sen,VA,Democrat,clean,John W. Daniel - Brady-Handy.jpg
+1906,random,H000322,Q1743928,Kittredge Haskins,rep,VT,Republican,mustache,Kittredge Haskins.jpg
+1906,random,H000958,Q1794711,William Humphrey,rep,WA,Republican,full_beard,HUMPHREY%2C W.E. HONORABLE LCCN2016856432 (cropped).jpg
+1906,random,W000259,Q1064707,Charles Weisse,rep,WI,Democrat,clean,CharlesHWeisse.jpg
+1906,random,D000461,Q880730,Blackburn Dovener,rep,WV,Republican,not_downloaded,Blackburn Barrett Dovener (1842-1914).jpg
+1906,random,G000008,Q1707156,Joseph Gaines,rep,WV,Republican,clean,JosephHGaines.jpg
+1906,random,E000110,Q723281,Stephen Elkins,sen,WV,Republican,clean,S.B. Elkins%2C portrait bust.jpg
+1906,random,C000425,Q717353,Clarence Clark,sen,WY,Republican,mustache,CLARK%2C C.D. SENATOR LCCN2016856504 (1).jpg
+1916,random,H000446,Q1681179,James Heflin,rep,AL,Democrat,clean,HEFLIN%2C J. THOMAS. SENATOR LCCN2016861288 (cropped).jpg
+1916,random,A000013,Q1702161,John Abercrombie,rep,AL,Democrat,clean,John Abercrombie (congressman).jpg
+1916,random,E000161,Q1671030,John Elston,rep,CA,Progressive,clean,JohnAElston.jpg
+1916,random,K000127,Q1758991,William Kent,rep,CA,Independent,clean,KENT%2C WILLIAM. HONORABLE LCCN2016858077 Crop (cropped).jpg
+1916,random,S000279,Q882506,John Shafroth,sen,CO,Democrat,mustache,JohnFShafroth.jpg
+1916,random,B000769,Q1442887,Frank Brandegee,sen,CT,Republican,mustache,Frank Bosworth Brandegee.jpg
+1916,random,M000547,Q882935,George McLean,sen,CT,Republican,mustache,McLEAN%2C GEORGE P. HONORABLE LCCN2016857990 (3x4a).jpg
+1916,random,T000279,Q1257692,John Tilson,rep,CT,Republican,clean,John Q Tilson.jpg
+1916,random,R000031,Q1022579,Christian Ramseyer,rep,IA,Republican,clean,CWilliamRamseyer.jpg
+1916,random,H000941,Q1586461,Harry Hull,rep,IA,Republican,clean,HarryEHull.jpg
+1916,random,B000753,Q203167,James Brady,sen,ID,Republican,clean,Jamesbrady.jpg
+1916,random,M000378,Q2158147,Robert McCracken,rep,ID,Republican,clean,McCRACKEN%2C R.M. HONORABLE LCCN2016859248 (cropped).jpg
+1916,random,S000001,Q365407,Adolph Sabath,rep,IL,Democrat,clean,Adolph J. Sabath cph.3c27913.jpg
+1916,random,K000200,Q5343786,Edward King,rep,IL,Republican,clean,EdwardJohnKing.jpg
+1916,random,C000121,Q984248,Joseph Cannon,rep,IL,Republican,beard_no_mustache,JGCannon.jpg
+1916,random,M000521,Q456277,William McKinley,rep,IL,Republican,mustache,McKINLEY%2C WILLIAM B. HONORABLE LCCN2016856705 (1).jpg
+1916,random,W000624,Q2580919,William Wilson,rep,IL,Republican,clean,Portrait of William Warfield Wilson.jpg
+1916,random,L000302,Q214505,Charles Lieb,rep,IN,Democrat,full_beard,CharlesLieb.jpg
+1916,random,K000132,Q454957,John Kern,sen,IN,Democrat,full_beard,JohnWKern.jpg
+1916,random,A000261,Q1162274,Daniel Anthony,rep,KS,Republican,clean,DanielReadAnthony.jpg
+1916,random,C000097,Q2086363,Philip Campbell,rep,KS,Republican,clean,Philip Pitt Campbell in 1919 (cropped).jpg
+1916,random,P000487,Q1026544,Caleb Powers,rep,KY,Republican,clean,Caleb Powers 2.jpg
+1916,random,P000024,Q1027722,Calvin Paige,rep,MA,Republican,mustache,Calvin DeWitt Paige.png
+1916,random,G000430,Q2580458,William Greene,rep,MA,Republican,sideburns,WilliamSGreene.jpg
+1916,random,T000021,Q759150,Joshua Talbott,rep,MD,Democrat,mustache,Joshua Frederick Cockey Talbott%2C Bain photo portrait.jpg
+1916,random,V000034,Q1040876,Carl Van Dyke,rep,MN,Democrat,clean,Carl C. Van Dyke (Minnesota Congressman).jpg
+1916,random,C000414,Q1949146,Moses Clapp,sen,MN,Republican,mustache,CLAPP%2C M.E. SENATOR LCCN2016857659 (cropped).jpg
+1916,random,C000437,Q465651,James Clark,rep,MO,Democrat,clean,JBClark.jpg
+1916,random,B000643,Q1248548,William Borland,rep,MO,Democrat,clean,WilliamPattersonBorland.jpg
+1916,random,S000982,Q2440145,Tom Stout,rep,MT,Democrat,clean,TomStout.JPG
+1916,random,S000280,Q365869,Ashton Shallenberger,rep,NE,Democrat,clean,AshtonShallenberger.jpg
+1916,random,D000505,Q1253002,Dow Drukker,rep,NJ,Republican,clean,Dow H. Drukker.jpg
+1916,random,C000253,Q433897,Thomas Catron,sen,NM,Republican,mustache,CATRON%2C T.B. SENATOR LCCN2016858197 (cropped).jpg
+1916,random,P000372,Q357499,Key Pittman,sen,NV,Democrat,clean,PITTMAN%2C KEY. SENATOR LCCN2016858404 (cropped).jpg
+1916,random,H000104,Q5080626,Charles Hamilton,rep,NY,Republican,clean,Charles Mann Hamilton.jpg
+1916,random,H000564,Q111605,Frederick Hicks,rep,NY,Republican,mustache,Frederick C. Hicks.jpg
+1916,random,F000021,Q2815165,Michael Farley,rep,NY,Democrat,mustache,Michael F. Farley (3x4a).jpg
+1916,random,C000323,Q8004772,William Charles,rep,NY,Republican,mustache,William Barclay Charles.jpg
+1916,random,H000726,Q1174754,David Hollingsworth,rep,OH,Republican,mustache,David Hollingsworth.jpg
+1916,random,F000096,Q304550,Simeon Fess,rep,OH,Republican,unusable,SimeonDFess.jpg
+1916,random,G000317,Q1028990,William Gordon,rep,OH,Democrat,clean,William Gordon (Ohio politician)-hec.17530.jpg
+1916,random,K000052,Q4669034,Abraham Keister,rep,PA,Republican,mustache,Abraham L. Keister (Pennsylvania Congressman).jpg
+1916,random,F000230,Q4888895,Benjamin Focht,rep,PA,Republican,clean,BenjaminKFocht.jpg
+1916,random,S000831,Q5724112,Henry Steele,rep,PA,Democrat,clean,HenryJosephSteele.jpg
+1916,random,H000433,Q13219648,Robert Heaton,rep,PA,Republican,clean,RobertDouglasHeaton.jpg
+1916,random,Q000009,Q1503,Manuel Quezon,rep,PI,,clean,Manuel L. Quezon (November 1942).jpg
+1916,random,K000100,Q459265,Ambrose Kennedy,rep,RI,Republican,clean,Ambrose Kennedy (Rhode Island Congressman).jpg
+1916,random,L000259,Q721456,Asbury Lever,rep,SC,Democrat,unusable,Asbury Francis Lever hec-12496.jpg
+1916,random,D000348,Q1064716,Charles Dillon,rep,SD,Republican,clean,Charles Hall Dillon.jpg
+1916,random,S000872,Q433649,Thomas Sterling,sen,SD,Republican,mustache,Thomas Sterling cph.3b18891.jpg
+1916,random,B001217,Q965009,Joseph Byrns,rep,TN,Democrat,clean,Speaker of the House Joseph Byrns LCCN2016890551 (1).jpg
+1916,random,C000963,Q477807,Charles Culberson,sen,TX,Democrat,clean,Charles Allen Culberson.jpg
+1916,random,G000074,Q298991,John Garner,rep,TX,Democrat,clean,JohnNanceGarner.png
+1916,random,S000636,Q1440371,William Smith,rep,TX,Democrat,clean,William Robert Smith.jpg
+1916,random,P000403,Q1934657,Miles Poindexter,sen,WA,Republican,clean,POINDEXTER%2C MILES. SENATOR LCCN2016857260 (cropped).jpg
+1916,random,B000955,Q1292090,Edward Browne,rep,WI,Republican,clean,EdwardEBrowne.jpg
+1916,random,C000752,Q517222,Henry Cooper,rep,WI,Republican,full_beard,Henry A. Cooper.jpg
+1916,random,S000777,Q2579101,William Stafford,rep,WI,Republican,full_beard,William H. Stafford 1902.jpg
+1916,random,L000358,Q348905,Adam Littlepage,rep,WV,Democrat,clean,Adam Brown Littlepage (West Virginia Congressman).jpg
+1916,random,N000023,Q363974,Matthew Neely,rep,WV,Democrat,clean,Matthewneely.jpg
+1926,random,H000903,Q1507608,George Huddleston,rep,AL,Democrat,clean,George Huddleston 1921.jpg
+1926,random,W000635,Q2037052,Otis Wingo,rep,AR,Democrat,clean,OtisWingo.jpg
+1926,random,C001000,Q1064314,Charles Curry,rep,CA,Republican,clean,Charles F. Curry - Clara Barton Centenary.jpg
+1926,random,H000195,Q1557595,Guy Hardy,rep,CO,Republican,goatee_mustache,GuyHardy.jpg
+1926,random,F000072,Q1273496,Edward Fenn,rep,CT,Republican,mustache,EHartFenn.jpg
+1926,random,G000415,Q984102,Robert Green,rep,FL,Democrat,clean,RobertAGreen.jpg
+1926,random,S000211,Q1612756,William Sears,rep,FL,Democrat,clean,WilliamJSears.jpg
+1926,random,R000549,Q969185,Samuel Rutherford,rep,GA,Democrat,clean,SamuelRutherfordGA.jpg
+1926,random,B000873,Q5587434,Smith Brookhart,sen,IA,Republican,clean,Smith Wildman Brookhart.jpg
+1926,random,K000314,Q1491607,William Kopp,rep,IA,Republican,clean,WilliamFKopp.jpg
+1926,random,D000233,Q735351,Charles Deneen,sen,IL,Republican,clean,Senator-elect Chas. S. Deneen of Ill. at desk%2C (2-3-25) LCCN2016839252 (1).jpg
+1926,random,A000131,Q6226301,John Allen,rep,IL,Republican,clean,JohnClaytonAllen.jpg
+1926,random,Y000011,Q363786,Richard Yates,rep,IL,Republican,clean,Governor Richard Yates Jr.tif
+1926,random,A000300,Q8019755,William Arnold,rep,IL,Democrat,clean,William W. Arnold.jpg
+1926,random,E000127,Q2150262,Richard Elliott,rep,IN,Republican,clean,Richard N. Elliott.jpg
+1926,random,C001008,Q271023,Charles Curtis,sen,KS,Republican,mustache,Charles Curtis-portrait.jpg
+1926,random,L000348,Q1068403,Chauncey Little,rep,KS,Democrat,clean,Chauncey B. Little (Kansas Congressman).jpg
+1926,random,W000374,Q1592008,Hays White,rep,KS,Republican,clean,HaysBWhite.jpg
+1926,random,K000234,Q505443,Andrew Kirk,rep,KY,Republican,clean,Andrew J. Kirk (Kentucky Congressman).jpg
+1926,random,R000466,Q708524,Arthur Rouse,rep,KY,Democrat,clean,Arthur Rouse - Harris Ewing2 cropped.jpg
+1926,random,K000187,Q1174694,David Kincheloe,rep,KY,Democrat,clean,David H. Kincheloe - NPC.jpg
+1926,random,V000106,Q460151,Frederick Vinson,rep,KY,Democrat,clean,Fred m vinson.jpg
+1926,random,B000895,Q5346791,Edwin Broussard,sen,LA,Democrat,clean,BROUSSARD%2C EDWIN S. SENATOR LCCN2016860963 (3x4a).jpg
+1926,random,S000708,Q1681331,James Spearing,rep,LA,Democrat,full_beard,J. Zach. Spearing (Louisiana congressman).jpg
+1926,random,L000153,Q1799973,Ladislas Lazaro,rep,LA,Democrat,clean,Ladislas Lazaro.jpg
+1926,random,G000201,Q450898,Frederick Gillett,sen,MA,Republican,full_beard,FrederickHGillett.jpg
+1926,random,D000459,Q1700571,John Douglass,rep,MA,Democrat,mustache,John Joseph Douglass.png
+1926,random,R000400,Q1700597,John Rogers,rep,MA,Republican,mustache,Portrait of John Jacob Rogers.jpg
+1926,random,L000340,Q1534065,John Linthicum,rep,MD,Democrat,clean,John Charles Linthicum.jpg
+1926,random,B000307,Q670436,Carroll Beedy,rep,ME,Republican,clean,CarrollLBeedy.jpg
+1926,random,S000113,Q1416490,Thomas Schall,sen,MN,Republican,clean,SCHALL%2C THOMAS. SENATOR LCCN2016862339 (cropped).jpg
+1926,random,N000079,Q2545628,Walter Newton,rep,MN,Republican,clean,NEWTON%2C WALTER. HONORABLE LCCN2016860442 (cropped).jpg
+1926,random,W000430,Q1713123,William Whittington,rep,MS,Democrat,clean,William Whittington.jpg
+1926,random,P000474,Q1294003,Edward Pou,rep,NC,Democrat,clean,Edward Pou.jpg
+1926,random,L000543,Q1626026,Homer Lyon,rep,NC,Democrat,clean,HomerLLyon.jpg
+1926,random,S000280,Q365869,Ashton Shallenberger,rep,NE,Democrat,clean,AshtonShallenberger.jpg
+1926,random,H000836,Q1283941,Edgar Howard,rep,NE,Democrat,clean,EdgarHoward.jpg
+1926,random,E000023,Q1063600,Charles Eaton,rep,NJ,Republican,mustache,Charles Aubrey Eaton (March 29%2C 1868 – January 23%2C 1953) circa 1915.jpg
+1926,random,P000237,Q2130719,Randolph Perkins,rep,NJ,Republican,clean,RandolphPerkins.jpg
+1926,random,B000774,Q2216466,Sam Bratton,sen,NM,Democrat,clean,BRATTON%2C SAM. SENATOR LCCN2016862206 (cropped).jpg
+1926,random,P000495,Q2162175,Anning Prall,rep,NY,Democrat,clean,Anning S. Prall.jpg
+1926,random,M000009,Q1095483,Clarence MacGregor,rep,NY,Republican,mustache,Clarence MacGregor.jpg
+1926,random,S000783,Q5518274,Gale Stalker,rep,NY,Republican,clean,GaleHStalker2.jpg
+1926,random,B000505,Q866845,Loring Black,rep,NY,Democrat,clean,Loring M. Black.jpg
+1926,random,M000049,Q7966355,Walter Magee,rep,NY,Republican,clean,WalterWarrenMagee.jpg
+1926,random,B000766,Q5075745,Charles Brand,rep,OH,Republican,clean,Chas. Brand of Ohio.jpg
+1926,random,B001159,Q252449,Theodore Burton,rep,OH,Republican,clean,TheodoreEBurton.jpg
+1926,random,W000776,Q4679453,Adam Wyant,rep,PA,Republican,clean,AdamMartinWyant1.jpg
+1926,random,K000344,Q6118332,Jacob Kurtz,rep,PA,Republican,mustache,Jacob Banks Kurtz.jpg
+1926,random,G000456,Q8019985,William Griest,rep,PA,Republican,clean,WilliamWaltonGriest.jpg
+1926,random,G000518,Q2655565,Pedro Guevara,rep,PI,,clean,Pedro Guevara%2C 1930s.jpg
+1926,random,B001075,Q1095683,Clark Burdick,rep,RI,Republican,clean,ClarkBurdick.jpg
+1926,random,F000417,Q969884,Hampton Fulmer,rep,SC,Democrat,clean,HamptonPFulmer.jpg
+1926,random,M000604,Q1700579,John McSwain,rep,SC,Democrat,clean,McSWAIN%2C J.J. HONORABLE LCCN2016861084 (cropped).jpg
+1926,random,C000384,Q579210,Charles Christopherson,rep,SD,Republican,clean,CharlesAChristopherson.jpg
+1926,random,D000496,Q2057639,Patrick Drewry,rep,VA,Democrat,clean,PatrickHDrewry.jpg
+1926,random,S001067,Q1351262,John Summers,rep,WA,Republican,clean,JohnWSummers.jpg
+1926,random,L000041,Q1429794,Florian Lampert,rep,WI,Republican,clean,FlorianLampert.jpg
+1926,random,L000005,Q377506,Robert La Follette,sen,WI,Republican,clean,LaFOLLETTE%2C ROBERT. SENATOR LCCN2016862097(cropped).jpg
+1926,random,T000082,Q1676260,James Taylor,rep,WV,Democrat,clean,JAlfredTaylor.jpg
+1936,random,S000820,Q763057,Henry Steagall,rep,AL,Democrat,clean,Henry Steagall cph.3b21923.jpg
+1936,random,H000598,Q351873,Joseph Hill,rep,AL,Democrat,clean,HILL%2C LISTER. HONORABLE LCCN2016862398 (cropped).jpg
+1936,random,C000138,Q1027455,Hattie Caraway,sen,AR,Democrat,woman,Hattie Caraway by Harris & Ewing%2C 1914.jpg
+1936,random,M000457,Q1700577,John McGrath,rep,CA,Democrat,clean,John J. McGrath (California Congressman).jpg
+1936,random,H000325,Q1161926,Daniel Hastings,sen,DE,Republican,clean,HastingsDanielO.jpg
+1936,random,C000038,Q882499,Millard Caldwell,rep,FL,Democrat,clean,Millard F. Caldwell.jpg
+1936,random,C000240,Q995149,Bryant Castellow,rep,GA,Democrat,clean,Bryant T. Castellow (Georgia congressman).jpg
+1936,random,V000105,Q1040943,Carl Vinson,rep,GA,Democrat,clean,Congressman Carl Vinson.jpg
+1936,random,O000149,Q1338728,Emmett Owen,rep,GA,Democrat,clean,EmmettMOwen.jpg
+1936,random,G000131,Q352331,Walter George,sen,GA,Democrat,clean,Walter George.PNG
+1936,random,K000214,Q2218966,Samuel King,rep,HI,Republican,clean,Samuel Wilder King (PP-74-9-002).jpg
+1936,random,B000799,Q6774850,Martin Brennan,rep,IL,Democrat,clean,Martin Adlai Brennan.png
+1936,random,L000493,Q3476256,Scott Lucas,rep,IL,Democrat,clean,ScottWikeLucas (3x4a).jpg
+1936,random,V000050,Q1453047,Frederick Van Nuys,sen,IN,Democrat,clean,FVanNuys.jpg
+1936,random,F000019,Q174624,James Farley,rep,IN,Democrat,clean,James Indus Farley 1922.jpg
+1936,random,R000358,Q1700932,John Robsion,rep,KY,Republican,clean,JRobsion.jpg
+1936,random,F000086,Q1690350,Joachim Fernández,rep,LA,Democrat,clean,Joachim O Fernández.jpg
+1936,random,C000740,Q5611792,Marcus Coolidge,sen,MA,Democrat,clean,MarcusACoolidge.jpg
+1936,random,H000741,Q1294590,Pehr Holmes,rep,MA,Republican,clean,Pehr G. Holmes Worcester Mayor.png
+1936,random,R000006,Q5541476,George Radcliffe,sen,MD,Democrat,clean,Georgelpradcliffe.jpg
+1936,random,C000889,Q1452413,Fred Crawford,rep,MI,Republican,clean,Fred L. Crawford cph.3c32254.jpg
+1936,random,D000411,Q1506870,George Dondero,rep,MI,Republican,clean,George A. Dondero (Michigan Congressman).jpg
+1936,random,S000011,Q1507393,George Sadowski,rep,MI,Democrat,clean,GeorgeGSadowski.jpg
+1936,random,D000354,Q1699824,John Dingell,rep,MI,Democrat,mustache,JohnDingellSr.jpg
+1936,random,W000718,Q2170872,Roy Woodruff,rep,MI,Republican,clean,RoyOWoodruff.jpg
+1936,random,C000381,Q889558,Theodore Christianson,rep,MN,Republican,clean,Theodore Christianson 1925 edit.jpg
+1936,random,C000440,Q817847,Joel Clark,sen,MO,Democrat,clean,Bennett Champ Clark (portrait).jpg
+1936,random,W000430,Q1713123,William Whittington,rep,MS,Democrat,clean,William Whittington.jpg
+1936,random,M000848,Q1707768,Joseph Monaghan,rep,MT,Democrat,clean,JosephPMonaghan.jpg
+1936,random,B000139,Q1541885,Graham Barden,rep,NC,Democrat,clean,Graham Arthur Barden.jpg
+1936,random,T000289,Q883265,Charles Tobey,rep,NH,Republican,clean,Charles Tobey.jpg
+1936,random,E000023,Q1063600,Charles Eaton,rep,NJ,Republican,mustache,Charles Aubrey Eaton (March 29%2C 1868 – January 23%2C 1953) circa 1915.jpg
+1936,random,C000338,Q442195,Dennis Chavez,sen,NM,Democrat,clean,Dennis Chavez cph.3b20083.jpg
+1936,random,S000652,Q4895897,Bertrand Snell,rep,NY,Republican,clean,Bertrand Snell cph.3c04408.jpg
+1936,random,O000065,Q2161518,James O’Leary,rep,NY,Democrat,clean,James A. O'Leary.jpg
+1936,random,W000021,Q213721,Robert Wagner,sen,NY,Democrat,clean,Robert F Wagner.jpg
+1936,random,S000452,Q2856357,William Sirovich,rep,NY,Democrat,not_downloaded,William Sirovich.jpg
+1936,random,C000757,Q1700146,John Cooper,rep,OH,Republican,clean,John G. Cooper 1913.jpg
+1936,random,U000012,Q6813033,Mell Underwood,rep,OH,Democrat,clean,Mell G. Underwood-npcc.09863.jpg
+1936,random,D000517,Q7970296,Warren Duffey,rep,OH,Democrat,clean,Warren J. Duffey (1921).png
+1936,random,T000155,Q8017296,William Thom,rep,OH,Democrat,clean,William R. Thom.jpg
+1936,random,C000207,Q2570202,Wilburn Cartwright,rep,OK,Democrat,clean,Wilburn Cartwright.jpg
+1936,random,P000339,Q885596,Walter Pierce,rep,OR,Democrat,clean,Walter M. Pierce%2C Governor of Oregon - The Oregana - 1926 yearbook of the University of Oregon (page 26 crop).jpg
+1936,random,W000108,Q5480815,Francis Walter,rep,PA,Democrat,clean,3909-walter-francis-e.jpg
+1936,random,D000111,Q1680613,James Davis,sen,PA,Republican,clean,DAVIS%2C JAMES. HONORABLE LCCN2016860969.jpg
+1936,random,G000182,Q6135168,James Gildea,rep,PA,Democrat,clean,JamesHGildea.jpg
+1936,random,B001055,Q881922,William Bulow,sen,SD,Democrat,clean,Bulowwilliam.jpg
+1936,random,T000417,Q1095525,Clarence Turner,rep,TN,Democrat,clean,ClarenceWTurner.jpg
+1936,random,T000083,Q947060,James Taylor,rep,TN,Republican,clean,JWillTaylor.jpg
+1936,random,C000755,Q1302851,Jere Cooper,rep,TN,Democrat,clean,Jere Cooper (Tennessee Congressman).jpg
+1936,random,J000159,Q1877826,Luther Johnson,rep,TX,Democrat,clean,Alabama Democrat. Washington%2C D.C.%2C Nov. 7. A new informal picture of Rep. Luther Johnson%2C democrat (...) Alabama LCCN2016876552 (cropped).jpg
+1936,random,S000337,Q1708585,Morris Sheppard,sen,TX,Democrat,clean,SHEPPARD%2C MORRIS. SENATOR LCCN2016862554 (cropped).jpg
+1936,random,C000931,Q1335316,Oliver Cross,rep,TX,Democrat,clean,Oliver H. Cross (Texas congressman) 2.jpg
+1936,random,G000232,Q1045879,Carter Glass,sen,VA,Democrat,clean,Senator Carter Glass of Virginia.jpg
+1936,random,W000720,Q265178,Clifton Woodrum,rep,VA,Democrat,clean,CliftonAWoodrum.jpg
+1936,random,B000545,Q1274587,Schuyler Bland,rep,VA,Democrat,clean,SOtisBland.jpg
+1936,random,S000160,Q1767521,Lewis Schwellenbach,sen,WA,Democrat,clean,Lewis B. Schwellenbach%2C 1940.jpg
+1936,random,S000079,Q1248838,Harry Sauthoff,rep,WI,Progressive,clean,Harry Sauthoff (Wisconsin congressman) 2.jpg
+1936,random,L000005,Q377506,Robert La Follette,sen,WI,Progressive,clean,LaFOLLETTE%2C ROBERT. SENATOR LCCN2016862097(cropped).jpg
+1936,random,R000046,Q1686994,Jennings Randolph,rep,WV,Democrat,clean,Jennings Randolph headshot.jpg

@@ -1,0 +1,797 @@
+group,id,name,birth_state,facial_hair
+union_general,91ece10bd3c4,James M. Shackelford,Kentucky,full_beard
+union_general,29dbb640ca07,James S. Negley,Pennsylvania,sideburns
+union_general,2d8f632412f6,Stephen Gardner Champlin,New York,full_beard
+union_general,0f31cb2c50dc,Louis Blenker,abroad: Germany,mustache
+union_general,423925d2637c,Isaac H. Duval,West Virginia,goatee_mustache
+union_general,0fc834bf5fef,John Alexander McClernand,Indiana,full_beard
+union_general,13a760d2749c,Daniel Tyler,Connecticut,full_beard
+union_general,290a74bcb5b8,John Blair Smith Todd,Kentucky,full_beard
+union_general,cf4361d6729b,Winfield Scott,Virginia,clean
+congress_1861_1869_control,Q1173603,David Atwood,,full_beard
+union_general,0571328005d2,John E. Smith,abroad: Switzerland,full_beard
+union_general,dea153fcdc5f,Isaac P. Rodman,Rhode Island,full_beard
+congress_1861_1869_control,Q1809235,Lawrence Branch,,beard_no_mustache
+union_general,9dc57f88f477,Thomas Welsh,Pennsylvania,full_beard
+union_general,e3e002b87e6b,Don Carlos Buell,Ohio,full_beard
+union_general,04a8196705c7,George Sykes,Delaware,full_beard
+union_general,a24f0af308c4,Thomas Hewson Neill,Pennsylvania,mustache
+congress_1861_1869_control,Q1932568,Miguel Otero,,mustache
+congress_1861_1869_control,Q2114703,Charles Winfield,,beard_no_mustache
+union_general,8af2ffcd91aa,Henry Lawrence Eustis,Massachusetts,sideburns
+union_general,804d549d458b,John E. Wool,New York,clean
+union_general,7ecfef9f080c,John Beatty,Ohio,goatee_mustache
+union_general,d97dea81670d,Halbert E. Paine,Ohio,beard_no_mustache
+union_general,738c01849792,Charles Ewing,Ohio,goatee_mustache
+congress_1861_1869_control,Q2077170,Peter Dox,,clean
+congress_1861_1869_control,Q2424999,Thomas Robertson,,full_beard
+union_general,2fc241c24fa3,George Crockett Strong,Vermont,mustache
+union_general,f3b60485d7d2,James G. Blunt,Maine,mustache
+congress_1861_1869_control,Q1256202,John French,,full_beard
+union_general,8e553b6aae52,Edmund Kirby,,clean
+union_general,02821098ba3e,Abram Duryee,New York,sideburns
+union_general,af3a5fb4f889,Alexander S. Webb,New York,full_beard
+union_general,47e58848279f,John Milton Thayer,Massachusetts,mustache
+union_general,f3a5793178ba,Joseph Gilbert Totten,Connecticut,clean
+union_general,fc52d5adf6fe,Edward Harland,Connecticut,full_beard
+congress_1861_1869_control,Q448778,James Blaine,,full_beard
+congress_1861_1869_control,Q3021641,James McKean,,full_beard
+union_general,e52b536f902a,Ralph P. Buckland,Massachusetts,clean
+congress_1861_1869_control,Q1701638,John Carlile,,clean
+union_general,a34636c1293b,Israel Vogdes,Pennsylvania,full_beard
+union_general,695736d9ceb4,John Cochrane,New York,full_beard
+union_general,ccbf3ccdc2f7,David S. Stanley,Ohio,full_beard
+union_general,8691a9e5f2f7,Christopher Columbus Andrews,New Hampshire,full_beard
+union_general,34fe908e743a,James Deering Fessenden,Maine,mustache
+union_general,88b4bd1715d5,John Converse Starkweather,New York,sideburns
+union_general,f234a5067104,Thomas Ewing Jr.,Ohio,full_beard
+union_general,dadedf23ee15,John A. Logan,Illinois,mustache
+union_general,ce95deff0ff1,George Henry Chapman,Massachusetts,mustache
+congress_1861_1869_control,Q657191,Stephen Kellogg,,full_beard
+congress_1861_1869_control,Q1595543,Arthur Denny,,full_beard
+union_general,0eea097ff88d,Thomas Alfred Smyth,abroad: Ireland,mustache
+union_general,0db86dad9ee8,John Wallace Fuller,abroad: United Kingdom,full_beard
+union_general,6c0ebea749b0,Hugh Thompson Reid,Indiana,full_beard
+union_general,0c80bd8b958a,George Dashiell Bayard,New York,mustache
+union_general,b90779286b6f,Richard James Oglesby,Kentucky,clean
+congress_1861_1869_control,Q5331912,Ebon Ingersoll,,mustache
+union_general,4372fe183e26,Alexander McDowell McCook,Ohio,mustache
+union_general,8381e54993b8,Joseph Holt,Kentucky,clean
+union_general,5b56227a8f74,August Willich,abroad: Poland,full_beard
+congress_1861_1869_control,Q290160,Henry Washburn,,goatee_mustache
+union_general,91a22e45fcaf,Fitz Henry Warren,Massachusetts,full_beard
+congress_1861_1869_control,Q1699628,John Coburn,,full_beard
+union_general,0e96b27973fb,George Foster Shepley,Maine,full_beard
+union_general,93d4ecbe9f57,Willis A. Gorman,Kentucky,mustache
+union_general,839e0fde57cf,Alfred Terry,Connecticut,goatee_mustache
+union_general,f65cc0d489db,William R. Terrill,Virginia,goatee_mustache
+union_general,03c734000370,Hiram Burnham,Maine,full_beard
+union_general,723d8ded31d4,William Harrow,Kentucky,full_beard
+union_general,3221a8b0f305,Isaac F. Shepard,Massachusetts,full_beard
+union_general,f815e1574e37,Romeyn B. Ayres,New York,full_beard
+union_general,aeaec40ec0be,William Birney,Alabama,full_beard
+union_general,59bad2307325,Oliver Edwards,Massachusetts,mustache
+union_general,79c1b96732da,Stephen H. Weed,New York,goatee_mustache
+congress_1861_1869_control,Q1680840,James Ashley,,clean
+congress_1861_1869_control,Q1606811,Henry Grider,,clean
+union_general,1e9b7ad8c863,James Madison Tuttle,Ohio,full_beard
+union_general,d3f41379494e,Ivan Turchaninov,abroad: Don Republic,full_beard
+congress_1861_1869_control,Q1532014,Lawrence Trimble,,goatee_mustache
+congress_1861_1869_control,Q15466,William Hamilton,,goatee_mustache
+union_general,f0ed293515e0,John Pope Cook,Illinois,goatee_mustache
+congress_1861_1869_control,Q1679892,James Cravens,,clean
+congress_1861_1869_control,Q5244178,De Littlejohn,,full_beard
+congress_1861_1869_control,Q1027517,Charles Phelps,,mustache
+union_general,4eccf7d531f6,Henry A. Barnum,New York,mustache
+congress_1861_1869_control,Q587033,David Kilgore,,clean
+union_general,26610a54a926,Charles Cleveland Dodge,New Jersey,clean
+union_general,b3d549501210,Hector Tyndale,Pennsylvania,full_beard
+union_general,396ff4a24e7d,William Hays,Virginia,mustache
+union_general,5b6ac9dcac24,John McArthur,abroad: United Kingdom,full_beard
+union_general,a4d34b11ebc3,Eugene Asa Carr,New York,full_beard
+union_general,f9917c332377,Thomas J. Wood,Kentucky,goatee_mustache
+union_general,0a7a26bf3a5b,Gustavus A. Smith,,full_beard
+union_general,dce3ff86425e,Charles L. Matthies,abroad: Poland,full_beard
+union_general,c8e44428bf23,Carl Schurz,abroad: Germany,full_beard
+union_general,40635c326a8e,James Henry Van Alen,New York,mustache
+union_general,524016c2c422,William Franklin Draper,Massachusetts,mustache
+congress_1861_1869_control,Q5539510,George Hoar,,beard_no_mustache
+congress_1861_1869_control,Q167795,James Mason,,clean
+congress_1861_1869_control,Q4773581,Anthony Thornton,,beard_no_mustache
+union_general,7f945aff8cf5,John Schofield,New York,full_beard
+union_general,79f27d7e80fd,Julius Stahel,abroad: Austria–Hungary,mustache
+union_general,215a322381a7,George Gordon Meade,abroad: Spain,full_beard
+union_general,165b6e05f4e5,John Reese Kenly,Maryland,full_beard
+congress_1861_1869_control,Q712059,William Barksdale,,unusable
+congress_1861_1869_control,Q6814836,William Cutler,,clean
+union_general,ae44b9d339ee,Charles Jackson Paine,Massachusetts,mustache
+union_general,a4b8958811f6,Thomas C. H. Smith,Massachusetts,full_beard
+congress_1861_1869_control,Q212349,James Buffinton,,beard_no_mustache
+union_general,d0092811bf39,Lovell Rousseau,Kentucky,sideburns
+union_general,e105f68440fa,Jesse L. Reno,West Virginia,full_beard
+union_general,575111be95d7,Joseph Dana Webster,New Hampshire,full_beard
+congress_1861_1869_control,Q445392,John Sherman,,full_beard
+union_general,26d461515619,John W. Sprague,New York,full_beard
+union_general,bcf87f76d1ba,Alonzo J. Edgerton,New York,beard_no_mustache
+union_general,3b4247dfba8c,Samuel S. Carroll,Maryland,sideburns
+union_general,a672ca3d5302,George Henry Gordon,Massachusetts,full_beard
+union_general,c23363a2fa86,Alfred Thomas Archimedes Torbert,Delaware,sideburns
+congress_1861_1869_control,Q224500,John Hutchins,,full_beard
+union_general,2c9a29fc26b2,Samuel W. Crawford,Pennsylvania,full_beard
+union_general,cd81bc366cea,Edward Ferrero,abroad: Spain,goatee_mustache
+union_general,f0f3f6cb18b1,Edward H. Hobson,Kentucky,beard_no_mustache
+union_general,380a4668e697,Zealous Bates Tower,Massachusetts,full_beard
+union_general,4c946d3149eb,Henry Jackson Hunt,Michigan,full_beard
+union_general,00264b046d76,James Isham Gilbert,Kentucky,full_beard
+congress_1861_1869_control,Q359294,John McRae,,clean
+congress_1861_1869_control,Q13218859,Thompson McNeely,,full_beard
+union_general,97accd34d6dc,James Wolfe Ripley,Connecticut,clean
+union_general,357d12aecdcf,Eliakim P. Scammon,Maine,beard_no_mustache
+union_general,a5a44b5c8ac5,William Thomas Clark,Connecticut,full_beard
+union_general,7c750f95f251,Ambrose Burnside,Indiana,sideburns
+congress_1861_1869_control,Q1870207,Lorenzo Sweat,,full_beard
+union_general,d04a9aa0af49,James S. Jackson,Kentucky,mustache
+union_general,290b92d798e2,Joshua Chamberlain,Maine,mustache
+congress_1861_1869_control,Q650795,William Smith,,clean
+congress_1861_1869_control,Q451162,Theodore Pomeroy,,goatee_mustache
+congress_1861_1869_control,Q188263,Henry Blow,,mustache
+union_general,0396350df908,Alvin P. Hovey,Indiana,goatee_mustache
+congress_1861_1869_control,Q1066368,Charles Walton,,full_beard
+union_general,559b9246b4fb,Samuel P. Heintzelman,Pennsylvania,full_beard
+union_general,d7dbd60ca1c9,Edward Canby,Kentucky,clean
+union_general,0cd004580b11,John Parker Hawkins,Indiana,full_beard
+union_general,196ce0ece9b4,James Alexander Williamson,Kentucky,full_beard
+union_general,3229309c0f5b,Jasper A. Maltby,Ohio,full_beard
+union_general,64b675c50470,Herman Haupt,Pennsylvania,full_beard
+union_general,2d47acf88a47,Thomas E. G. Ransom,Vermont,clean
+congress_1861_1869_control,Q7300432,Reader Clarke,,beard_no_mustache
+union_general,e07af7936bf7,Henry Shaw Briggs,Massachusetts,full_beard
+union_general,1531732ba420,Frank Wheaton,Rhode Island,goatee_mustache
+union_general,474f909d49d5,Francis L. Vinton,,mustache
+union_general,93e70b043db8,Robert Latimer McCook,Ohio,clean
+union_general,369f084d9d7f,Joseph Abel Haskin,New York,beard_no_mustache
+union_general,959e2224836f,Edward Winslow Hinks,Maine,mustache
+union_general,c4e4a9da5c44,Henry W. Wessells,Connecticut,full_beard
+union_general,45bc4abc77d3,Mortimer Dormer Leggett,New York,full_beard
+union_general,3ad69757e5da,William Grose,Ohio,beard_no_mustache
+union_general,0468987179f0,Lysander Cutler,Massachusetts,full_beard
+union_general,3f5a503e117d,Alexander Hays,Pennsylvania,full_beard
+congress_1861_1869_control,Q8010946,William Dimmick,,clean
+union_general,7ecd4378cf43,Robert Anderson,Kentucky,clean
+union_general,5b248997c614,Joshua B. Howell,New Jersey,beard_no_mustache
+union_general,ba5728454b30,George Francis McGinnis,Massachusetts,full_beard
+congress_1861_1869_control,Q505315,Andrew Rogers,,mustache
+union_general,af709d20de55,Henry Warner Slocum,New York,mustache
+union_general,c1e796b5bb94,David Hunter,New York,mustache
+union_general,4d2884eb3f97,Darius Nash Couch,New York,full_beard
+congress_1861_1869_control,Q1480513,Thomas Haughey,,beard_no_mustache
+union_general,ded646cfc3d4,John McNeil,abroad: Canada,full_beard
+union_general,53a17a686689,Davis Tillson,,goatee_mustache
+union_general,5bc704acc7df,Thomas L. Kane,Pennsylvania,full_beard
+union_general,c8e3f074f285,Robert Alexander Cameron,New York,full_beard
+union_general,f68954742b6b,Robert Allen,Ohio,sideburns
+union_general,c9924efda26b,Byron Root Pierce,,full_beard
+union_general,58a9d4a47dfb,Speed S. Fry,Kentucky,full_beard
+union_general,0ac7e85fdf68,Jacob Dolson Cox,abroad: Canada,full_beard
+union_general,5df8f94cef49,Thomas H. Ruger,New York,full_beard
+union_general,98414f59ebfc,Gustavus De Russy,New York,sideburns
+union_general,c1e559b5e81a,William Thomas Ward,Virginia,full_beard
+congress_1861_1869_control,Q953756,James Leach,,full_beard
+union_general,6dc9f8cdf394,John Franklin Miller,Indiana,sideburns
+union_general,cdba0d5daf7e,William 'Bull' Nelson,Kentucky,beard_no_mustache
+union_general,e75db388ff6e,George L. Hartsuff,New York,full_beard
+union_general,b4573e0cc4ad,Edward N. Kirk,Ohio,full_beard
+union_general,b381aa679811,Alexander Shaler,Connecticut,mustache
+union_general,5b5c6cd38b06,Stephen Thomas,Vermont,full_beard
+union_general,ffaa35dccd18,Thomas W. Sherman,Rhode Island,clean
+congress_1861_1869_control,Q6260635,John Wilson,,sideburns
+congress_1861_1869_control,Q127606,Samuel Arnold,,full_beard
+union_general,6d069eafe7bb,Arthur H. Dutton,Connecticut,clean
+union_general,9d8fe2e84fec,William R. Montgomery,,clean
+union_general,27c00e3192a0,Joseph Bailey,Ohio,full_beard
+union_general,6abb1c1b8f7e,John Pope,Kentucky,full_beard
+congress_1861_1869_control,Q773414,David Clopton,,beard_no_mustache
+congress_1861_1869_control,Q954410,John Logan,,mustache
+union_general,364824c51bdc,Joshua Thomas Owen,abroad: United Kingdom,mustache
+union_general,8b215ec7fd9a,Thomas Ogden Osborn,Ohio,full_beard
+congress_1861_1869_control,Q590202,Muscoe Garnett,,clean
+congress_1861_1869_control,Q1027513,James Harris,,clean
+union_general,3c41a3456867,Eleazar A. Paine,Ohio,beard_no_mustache
+congress_1861_1869_control,Q735654,Sydenham Moore,,clean
+union_general,4f5a57f2c970,John Newton,Virginia,full_beard
+union_general,7a5ba345440d,John T. Croxton,Kentucky,full_beard
+union_general,9772f41801d8,Robert Sanford Foster,Indiana,goatee_mustache
+congress_1861_1869_control,Q1726890,Clarkson Potter,,sideburns
+union_general,fc1aa65cd4cb,Egbert B. Brown,New York,beard_no_mustache
+congress_1861_1869_control,Q1355895,Robert Hunter,,clean
+union_general,d6e41174412e,George D. Ramsay,Virginia,full_beard
+union_general,cf5f0fe1f744,James St. Clair Morton,Pennsylvania,full_beard
+union_general,07858cd70bab,Samuel D. Sturgis,Pennsylvania,goatee_mustache
+union_general,c500d612691a,Fitz John Porter,New Hampshire,full_beard
+union_general,df6f08333d65,John S. Phelps,Connecticut,full_beard
+union_general,57dc706a6229,James C. Veatch,Indiana,goatee_mustache
+union_general,9f0ef7f9447e,James A. Ekin,Pennsylvania,full_beard
+union_general,d4a8a0a487f6,James Nagle,Pennsylvania,full_beard
+union_general,2197b137af77,James H. Lane,Indiana,clean
+union_general,da4bc4fcaf61,Conrad Feger Jackson,Pennsylvania,full_beard
+union_general,9e580f8bb0fc,Thomas W. Egan,New York,mustache
+union_general,d4200c129354,Israel B. Richardson,Vermont,mustache
+union_general,0478ecead01b,George B. McClellan,Pennsylvania,goatee_mustache
+congress_1861_1869_control,Q1778562,Frederick Stone,,clean
+congress_1861_1869_control,Q247390,William Robinson,,beard_no_mustache
+union_general,22568a26626b,Franklin Stillman Nickerson,Maine,full_beard
+union_general,b625cd8a7489,Andrew Porter,Pennsylvania,full_beard
+union_general,0c3d1d7f72d4,Neal Dow,Maine,clean
+congress_1861_1869_control,Q1664205,Orestes Cleveland,,clean
+union_general,ca53e710f833,John M. Palmer,Kentucky,beard_no_mustache
+congress_1861_1869_control,Q2158618,Robert Ridgway,,clean
+union_general,51a56541dfb7,Daniel D. Bidwell,New York,sideburns
+congress_1861_1869_control,Q1161671,Daniel Marcy,,clean
+union_general,b40e26168d77,John G. Foster,New Hampshire,sideburns
+congress_1861_1869_control,Q1805559,Lansing Stout,,full_beard
+union_general,2695ed113c60,Nathaniel P. Banks,Massachusetts,mustache
+union_general,333f23f60cd8,Joseph A. Mower,Vermont,full_beard
+union_general,ebbc92f24bdb,James G. Spears,Tennessee,clean
+union_general,08a7dc52fe4e,William P. Sanders,Kentucky,full_beard
+union_general,2e6748ff99d3,John G. Barnard,Massachusetts,full_beard
+union_general,83308a7f9cac,John Aaron Rawlins,Illinois,full_beard
+congress_1861_1869_control,Q5561722,Giles Hotchkiss,,beard_no_mustache
+union_general,67182f63bcbf,August Kautz,abroad: Germany,goatee_mustache
+congress_1861_1869_control,Q1492758,Galusha Grow,,full_beard
+congress_1861_1869_control,Q7981622,Wells Hutchins,,clean
+congress_1861_1869_control,Q219432,Demas Barnes,,beard_no_mustache
+union_general,e8937609535e,Egbert Ludovicus Viele,New York,full_beard
+union_general,d846d06c8881,Richard Arnold,Rhode Island,mustache
+union_general,17e1bc287b16,Morgan Henry Chrysler,New York,mustache
+congress_1861_1869_control,Q94025,Sidney Perham,,beard_no_mustache
+union_general,38098efe1a4f,Henry Hastings Sibley,Michigan,mustache
+union_general,ace705d42222,Philip Sheridan,New York,mustache
+congress_1861_1869_control,Q6221266,John Beatty,,goatee_mustache
+union_general,2ebe441bd54e,Charles Doolittle,Vermont,full_beard
+union_general,d60e2932ddd5,Daniel Ullmann,,beard_no_mustache
+union_general,b850b5c52e74,George Armstrong Custer,Ohio,mustache
+congress_1861_1869_control,Q5075305,Charles Hoard,,beard_no_mustache
+congress_1861_1869_control,Q7794539,Thomas Davis,,beard_no_mustache
+union_general,7dedd0e683d7,Orris S. Ferry,Connecticut,full_beard
+union_general,7eebb25a919b,James S. Wadsworth,New York,clean
+union_general,f28bff40b9f1,Mahlon Dickerson Manson,Ohio,full_beard
+union_general,f5845a145c4b,Aaron S. Daggett,Maine,full_beard
+union_general,70617733db1d,Irvin McDowell,Ohio,goatee_mustache
+union_general,17cca3649ee1,James D. Morgan,Massachusetts,beard_no_mustache
+congress_1861_1869_control,Q1063648,Charles Mitchel,,clean
+union_general,b6dae93d31ec,Marcellus M. Crocker,Indiana,full_beard
+union_general,537c11cde9db,Edwin Vose Sumner,Massachusetts,full_beard
+union_general,a84aa36cbbda,James B. McPherson,Ohio,full_beard
+union_general,1cf4dd7fb3be,John Wesley Turner,New York,clean
+congress_1861_1869_control,Q6799712,William Morrison,,full_beard
+union_general,a4f683ab0e2e,James H. Ledlie,New York,mustache
+union_general,1db9c7c28426,John Dunlap Stevenson,Virginia,mustache
+union_general,273f88944575,Henry Hayes Lockwood,Delaware,sideburns
+congress_1861_1869_control,Q6246978,John Broomall,,full_beard
+union_general,35c2df618d72,William High Keim,Pennsylvania,goatee_mustache
+union_general,2e9173738304,Lew Wallace,Indiana,goatee_mustache
+union_general,21967dcb5ccf,William Wells,Vermont,full_beard
+union_general,a76eba0988e8,Charles J. Stolbrand,,full_beard
+congress_1861_1869_control,Q1506805,Henry Dawes,,full_beard
+union_general,d7e213a7f2de,Alpheus S. Williams,Connecticut,full_beard
+union_general,2ed00f29dbd4,John C. Caldwell,Pennsylvania,full_beard
+union_general,35f8636cd9ea,Francis Preston Blair Jr.,Kentucky,full_beard
+union_general,211faeed5fb2,Edward D. Baker,abroad: United Kingdom,clean
+union_general,95bdb60ef1bf,Nathaniel McLean,Ohio,full_beard
+union_general,d840ca7a1c71,John M. Corse,Pennsylvania,full_beard
+congress_1861_1869_control,Q747533,Jacob Kunkel,,beard_no_mustache
+union_general,e55fb6e0a9d2,John B. Sanborn,New Hampshire,goatee_mustache
+union_general,14b743bf5b23,Jacob Ammen,Virginia,goatee_mustache
+union_general,e9cfa62e3202,William Henry Powell,abroad: United Kingdom,full_beard
+union_general,5c31ecfd14e3,John Haskell King,New York,sideburns
+union_general,c4c99a051857,Jeremiah C. Sullivan,Indiana,goatee_mustache
+union_general,f1bb16a4f023,Stewart Van Vliet,Vermont,full_beard
+union_general,e1e614d1c44f,George Stoneman,New York,full_beard
+union_general,9ae484d8bf30,Daniel Sickles,New York,mustache
+union_general,78b755597fe7,Benjamin Prentiss,Virginia,beard_no_mustache
+union_general,3860beb26600,Elias Smith Dennis,New York,full_beard
+union_general,a234c109f35d,William Plummer Benton,Maryland,full_beard
+union_general,3f87a1375c18,Robert C. Buchanan,Maryland,full_beard
+union_general,a5405fded42a,Jefferson C. Davis,Indiana,full_beard
+union_general,e9627dc1a341,Joseph Hayes,,mustache
+union_general,c3407abe5d40,Godfrey Weitzel,abroad: Germany,full_beard
+union_general,e92d28cb5f50,John J. Peck,New York,full_beard
+union_general,fa99c61d9e46,Sullivan Amory Meredith,Pennsylvania,full_beard
+union_general,c92ad1a2cf81,Melancthon S. Wade,Ohio,full_beard
+congress_1861_1869_control,Q734742,Lazarus Powell,,beard_no_mustache
+union_general,2b99b119655e,John Sedgwick,Connecticut,full_beard
+union_general,65a59f87bad7,Benjamin Grierson,Pennsylvania,full_beard
+congress_1861_1869_control,Q2576646,Willard Saulsbury,,sideburns
+union_general,eb2a31ade45a,Andrew Johnson,North Carolina,clean
+union_general,c082244be8cb,Robert Byington Mitchell,Ohio,full_beard
+union_general,323d3ad72000,Frederick Salomon,abroad: Germany,mustache
+union_general,7e56123c2eae,Charles Mynn Thruston,Kentucky,sideburns
+union_general,d21437712dd3,William H. French,Maryland,mustache
+congress_1861_1869_control,Q7609223,Stephen Wilson,,beard_no_mustache
+union_general,8e2c7e2ea537,William W. Belknap,New York,full_beard
+union_general,74340af92789,Gillman Marston,New Hampshire,clean
+union_general,0fcbc186fae0,Stephen Miller,,clean
+congress_1861_1869_control,Q2578797,William Prosser,,full_beard
+union_general,5ca1b7ab1827,Luther Prentice Bradley,Connecticut,goatee_mustache
+union_general,44f1e4ddac96,Daniel H. Rucker,New Jersey,full_beard
+union_general,7da3cc290b8a,Charles Van Wyck,New York,clean
+congress_1861_1869_control,Q1741355,Alexander McDonald,,mustache
+union_general,a285fa59018b,Henry Morris Naglee,Pennsylvania,sideburns
+union_general,1240df2c8c16,George Deitzler,Pennsylvania,full_beard
+congress_1861_1869_control,Q5076826,Charles Denison,,clean
+union_general,dccaa0e98bce,George W. Morgan,Pennsylvania,beard_no_mustache
+union_general,042831628a0f,Leonard Fulton Ross,Illinois,clean
+union_general,402b1db35af4,William Babcock Hazen,Vermont,goatee_mustache
+union_general,44c909562f27,James R. Slack,Pennsylvania,clean
+congress_1861_1869_control,Q1441609,Francis Kernan,,beard_no_mustache
+union_general,2bd8d546857f,Grenville M. Dodge,Massachusetts,full_beard
+union_general,19bf9f2db0af,William Tecumseh Sherman,Ohio,full_beard
+union_general,f9dcb3f657f9,Ulysses S. Grant,Ohio,full_beard
+congress_1861_1869_control,Q1680166,James McGrew,,full_beard
+union_general,49a6379de4e3,Alfred W. Ellet,Pennsylvania,full_beard
+union_general,de9bb65f342e,William H. Seward Jr.,New York,mustache
+union_general,a5e75e6b5cbc,Lewis A. Grant,Vermont,full_beard
+congress_1861_1869_control,Q6053012,Samuel Pomeroy,,full_beard
+union_general,becfa5d65657,Charles Garrison Harker,New Jersey,mustache
+union_general,880c743a4806,Abram S. Piatt,Ohio,full_beard
+union_general,e5236ee8f80e,John C. Robinson,New York,full_beard
+union_general,9bd851f4b64b,Quincy Adams Gillmore,Ohio,full_beard
+union_general,ca87462ca51a,Isham N. Haynie,Tennessee,beard_no_mustache
+congress_1861_1869_control,Q1406612,Fernando Beaman,,beard_no_mustache
+union_general,a5ffe86a3a85,Nathaniel Lyon,Connecticut,full_beard
+union_general,83d530c4b8fe,Charles Pomeroy Stone,Massachusetts,goatee_mustache
+union_general,ca96345e0b85,Cuvier Grover,Maine,full_beard
+union_general,21e05ee803cf,George P. Estey,New Hampshire,mustache
+union_general,edd013f78bfe,James W. McMillan,Kentucky,beard_no_mustache
+union_general,5f541961c647,Philip St. George Cooke,Virginia,full_beard
+congress_1861_1869_control,Q1699336,John Bingham,,sideburns
+union_general,2047c22b5049,Rufus King,New York,full_beard
+union_general,6b01b642a9b1,Henry Prince,Maine,full_beard
+union_general,c49cfc4efa05,John Baillie McIntosh,Florida,full_beard
+congress_1861_1869_control,Q1508542,George Julian,,full_beard
+union_general,1f85d28add88,Peter J. Osterhaus,abroad: Germany,mustache
+union_general,f7a69d2912b8,Charles Ferguson Smith,Pennsylvania,mustache
+union_general,6f42618f35ad,Lawrence P. Graham,,mustache
+union_general,f90ef886302b,Americus V. Rice,Ohio,beard_no_mustache
+union_general,129c700310f4,Montgomery C. Meigs,Georgia,full_beard
+union_general,ea2bbb63386c,John H. Ketcham,New York,mustache
+congress_1861_1869_control,Q881016,William Richardson,,clean
+congress_1861_1869_control,Q1903714,Martin Conway,,beard_no_mustache
+union_general,a8e216b72e1d,Robert Cowdin,Vermont,full_beard
+union_general,589d60d2b9b6,Green Clay Smith,Kentucky,full_beard
+congress_1861_1869_control,Q2581010,William Boyce,,beard_no_mustache
+union_general,280428ac86db,Amiel Weeks Whipple,Massachusetts,goatee_mustache
+congress_1861_1869_control,Q1679923,James Stallworth,,full_beard
+union_general,ee602fcd7391,George S. Greene,Rhode Island,full_beard
+union_general,62292e884272,Henry B. Carrington,Connecticut,full_beard
+congress_1861_1869_control,Q2578977,William Goode,,clean
+union_general,1bb55a91c7bf,Joseph Farmer Knipe,Pennsylvania,full_beard
+union_general,03fe1f27214e,Isaac Stevens,Massachusetts,full_beard
+congress_1861_1869_control,Q1250738,John McQueen,,clean
+congress_1861_1869_control,Q2579769,William Loughridge,,clean
+union_general,f1f94994df73,William Haines Lytle,Ohio,full_beard
+union_general,e460fdfbf354,John W. Geary,Pennsylvania,full_beard
+union_general,bedb3b568017,Joel Dewey,Vermont,mustache
+union_general,0a5203f9ec24,John Parke,Pennsylvania,sideburns
+union_general,6c0b122d6efb,Richard Delafield,New York,beard_no_mustache
+union_general,e42e7517e301,William B. Franklin,Pennsylvania,full_beard
+union_general,51174416812c,Powell Clayton,Pennsylvania,goatee_mustache
+union_general,60112bbc7983,Francis Trowbridge Sherman,Connecticut,full_beard
+congress_1861_1869_control,Q7378082,Rufus Spalding,,clean
+congress_1861_1869_control,Q1707306,Joseph Gravely,,goatee_mustache
+union_general,21cee7611908,William Francis Bartlett,Massachusetts,clean
+congress_1861_1869_control,Q4027103,Stephen Sanford,,mustache
+union_general,9fce53b53174,Albert Lindley Lee,New York,full_beard
+union_general,75753ba1d26f,William Dwight,Massachusetts,mustache
+congress_1861_1869_control,Q1065830,Charles Buckalew,,beard_no_mustache
+union_general,04f918fc8238,George Leonard Andrews,Massachusetts,mustache
+union_general,51d48179df4a,Christopher C. Augur,New York,sideburns
+union_general,769e6cef9eb8,David B. Birney,Alabama,full_beard
+union_general,d835dab018c0,Clinton B. Fisk,New York,full_beard
+union_general,f482724ac10b,Martin Davis Hardin,Illinois,mustache
+union_general,b519b636eea0,William Ward Orme,,mustache
+union_general,491e42b15f8f,Edmund J. Davis,Florida,full_beard
+congress_1861_1869_control,Q2157422,Robert Hatton,,beard_no_mustache
+union_general,140cb4198583,J. H. Hobart Ward,New York,mustache
+union_general,32b289fad0d8,Washington Lafayette Elliott,Pennsylvania,full_beard
+congress_1861_1869_control,Q1287127,Robert Heflin,,clean
+union_general,f16f87b74f70,Henry Eugene Davies,New York,mustache
+union_general,53cd2b346349,Joseph H. Potter,New Hampshire,full_beard
+union_general,5ec5e473856a,Charles Hale Morgan,New York,goatee_mustache
+union_general,98dff1c10757,Benjamin S. Roberts,Vermont,sideburns
+union_general,02075a849f6f,Thomas Leonidas Crittenden,Kentucky,goatee_mustache
+union_general,c183cee42913,Joshua W. Sill,Ohio,beard_no_mustache
+union_general,09847982cd86,Wager Swayne,Ohio,goatee_mustache
+union_general,3c74e21671a7,Samuel Powhatan Carter,Tennessee,full_beard
+union_general,68127a2077bd,Silas Casey,Rhode Island,clean
+union_general,4dd14d76a489,Charles Davis Jameson,Maine,mustache
+union_general,4efa0de5d859,James Craig,Pennsylvania,full_beard
+union_general,2624a82dd313,Hugh Boyle Ewing,Ohio,full_beard
+congress_1861_1869_control,Q1586109,John Baldwin,,clean
+union_general,3a71b93575be,Calvin E. Pratt,,full_beard
+union_general,199dc425066a,Sylvanus Thayer,Massachusetts,clean
+union_general,1011d7b1299f,Henry Goddard Thomas,Maine,full_beard
+congress_1861_1869_control,Q7659772,Sydenham Ancona,,beard_no_mustache
+union_general,8dd922055d53,Robert C. Schenck,Ohio,full_beard
+union_general,22ba56b73d3f,Richard Henry Jackson,,full_beard
+union_general,a7823e64ae9d,Alfred Sully,Pennsylvania,full_beard
+congress_1861_1869_control,Q1386061,Ezra French,,clean
+union_general,154541825078,Francis M. Drake,Illinois,mustache
+union_general,4d5ce0e3ecad,Gordon Granger,New York,full_beard
+congress_1861_1869_control,Q1189356,Dennis McCarthy,,beard_no_mustache
+union_general,3d5d156c0b4d,Nelson Taylor,Connecticut,full_beard
+union_general,0dbbc61c710d,Ormsby M. Mitchel,Kentucky,clean
+union_general,b45bd33393e0,Marsena R. Patrick,New York,full_beard
+union_general,76034ec81dbc,Stephen G. Burbridge,Kentucky,goatee_mustache
+union_general,b6ddf3e5a9d8,Robert Francis Catterson,Indiana,goatee_mustache
+congress_1861_1869_control,Q1606562,Henry Deming,,mustache
+congress_1861_1869_control,Q1568746,Samuel Burdett,,beard_no_mustache
+union_general,c03d1ed14495,Cyrus Bussey,Ohio,full_beard
+union_general,6aa4b724bbe3,Samuel Ryan Curtis,New York,sideburns
+union_general,8ba50387c84e,Francis Jay Herron,Pennsylvania,sideburns
+union_general,24bc6cc9498d,Joseph K. Mansfield,Connecticut,full_beard
+congress_1861_1869_control,Q1710336,William Radford,,full_beard
+union_general,d9588e95da6a,Green Berry Raum,Illinois,full_beard
+union_general,bb421fa9b893,Galusha Pennypacker,Pennsylvania,mustache
+congress_1861_1869_control,Q1822163,Lewis Tillman,,beard_no_mustache
+congress_1861_1869_control,Q7412606,Samuel Shellabarger,,beard_no_mustache
+congress_1861_1869_control,Q1707770,Joseph Newsham,,goatee_mustache
+union_general,bffb7c31015c,Edwin H. Stoughton,Vermont,mustache
+union_general,37125a61e133,John R. Brooke,Pennsylvania,mustache
+congress_1861_1869_control,Q4668747,Abraham Barker,,beard_no_mustache
+union_general,a40b53e801aa,Frederick Tracy Dent,Missouri,goatee_mustache
+congress_1861_1869_control,Q1063905,Charles Case,,clean
+congress_1861_1869_control,Q359526,John Stevenson,,clean
+union_general,570d5a977cdd,William T. H. Brooks,Ohio,full_beard
+union_general,faadda2da3dc,Joseph Alexander Cooper,Kentucky,sideburns
+union_general,577fa3e96100,James W. Forsyth,Ohio,mustache
+union_general,d036bf3c5214,Innis N. Palmer,New York,goatee_mustache
+union_general,53f06d6b6d3f,Thomas William Sweeny,abroad: Ireland,full_beard
+union_general,f061954f40a7,Andrew J. Hamilton,,beard_no_mustache
+union_general,4e8d88676c9c,Hugh Judson Kilpatrick,New Jersey,clean
+union_general,1adedeb7ebf1,John C. Frémont,Georgia,full_beard
+union_general,fe76e9d6f4e9,Isaac Ferdinand Quinby,New Jersey,full_beard
+union_general,1e5a1d2cff17,Alexander Chambers,New York,full_beard
+union_general,b23cc9efd0f5,Charles Champion Gilbert,Ohio,full_beard
+union_general,7d32250c153c,Michael Corcoran,abroad: Ireland,goatee_mustache
+union_general,1e7796f027e4,Joseph J. Reynolds,Kentucky,beard_no_mustache
+union_general,e38dc44b0f29,George W. Morell,New York,full_beard
+union_general,b88c99dc2124,William Alexander Hammond,Maryland,full_beard
+union_general,2f385202f734,James W. Reilly,Ohio,sideburns
+union_general,92bfed6f8d09,Seth Williams,Maine,clean
+union_general,81f2530806f9,William Kerley Strong,,sideburns
+union_general,57969f631d9c,Gershom Mott,New Jersey,full_beard
+union_general,579e8d1fb1ba,Strong Vincent,Pennsylvania,beard_no_mustache
+union_general,813bec4ea36a,Solomon Meredith,North Carolina,beard_no_mustache
+congress_1861_1869_control,Q446929,John Bernhisel,,clean
+union_general,544170eadc56,George Lafayette Beal,Maine,mustache
+union_general,64f2260078dc,John P. Slough,Ohio,full_beard
+congress_1861_1869_control,Q1436876,William Williams,,beard_no_mustache
+congress_1861_1869_control,Q1693546,William Dunn,,sideburns
+union_general,9c69459b2da4,William B. Tibbits,,mustache
+union_general,d3da23335667,William W. Averell,New York,goatee_mustache
+union_general,7eaadba0aecb,William M. Dunn,Indiana,sideburns
+union_general,57951a2247da,Robert H. Milroy,Indiana,full_beard
+union_general,08b1f774bc79,Joseph Warren Revere,Massachusetts,full_beard
+union_general,ea583c38fa63,Orlando B. Willcox,Michigan,full_beard
+union_general,ee65f8bb68af,William Carlin,Illinois,goatee_mustache
+congress_1861_1869_control,Q456208,John Hemphill,,clean
+union_general,5e906dc3f33e,George A. McCall,Pennsylvania,clean
+union_general,b48c5d4c0ef5,Abner Doubleday,New York,mustache
+union_general,887d818ae199,Thomas G. Stevenson,Massachusetts,sideburns
+union_general,6ae395099abd,Joseph Pannell Taylor,Kentucky,full_beard
+union_general,a160e957abf3,Gouverneur K. Warren,New York,mustache
+union_general,8ef115b3ff49,Oliver Otis Howard,Maine,full_beard
+union_general,100a2fd38740,Augustus Louis Chetlain,Missouri,sideburns
+union_general,b209d9e15768,Frederick Steele,New York,full_beard
+union_general,0620ef32ea4b,Benjamin F. Potts,Ohio,full_beard
+union_general,150561376d91,William S. Rosecrans,Ohio,full_beard
+congress_1861_1869_control,Q4411229,John Stuart,,clean
+union_general,b22e0e81d442,Joseph T. Copeland,Maine,full_beard
+union_general,c850250bcf85,James Cooper,Maryland,mustache
+congress_1861_1869_control,Q5934173,James Lane,,clean
+union_general,3cf29f3738a4,Ethan A. Hitchcock,Vermont,clean
+congress_1861_1869_control,Q1176063,David Dyer,,clean
+union_general,00d00a77ec2e,Emerson Opdycke,Ohio,goatee_mustache
+union_general,ca18e313e237,Thomas Devin,New York,mustache
+union_general,d946d7d5810c,John Wynn Davidson,Virginia,goatee_mustache
+congress_1861_1869_control,Q5868980,William Gwin,,clean
+union_general,d8e66078c5fc,David H. Williams,,full_beard
+congress_1861_1869_control,Q1766722,Alfred Nicholson,,beard_no_mustache
+union_general,767eed51b95c,Andrew Jackson Smith,Pennsylvania,full_beard
+union_general,52a919afc0c0,Rufus R. Dawes,Ohio,full_beard
+union_general,9bd1d05111f1,Charles Adam Heckman,Pennsylvania,goatee_mustache
+congress_1861_1869_control,Q7323566,Richard Harrison,,full_beard
+congress_1861_1869_control,Q2577903,William Hall,,full_beard
+union_general,22320d1aebe0,James A. Garfield,Ohio,full_beard
+congress_1861_1869_control,Q3568533,William Kelley,,full_beard
+union_general,1ee1b7cdeccc,Nathaniel J. Jackson,Massachusetts,full_beard
+union_general,f50ad336a03a,Edward S. Bragg,New York,full_beard
+union_general,4835f2487063,Henry Warner Birge,Connecticut,full_beard
+congress_1861_1869_control,Q886083,Charles Wickliffe,,clean
+congress_1861_1869_control,Q886868,William Temple,,full_beard
+union_general,73065825f78a,Kenner Garrard,Kentucky,full_beard
+congress_1861_1869_control,Q283156,George Booker,,full_beard
+union_general,ef227bb9c74e,Alfred Gibbs,New York,goatee_mustache
+union_general,791623a3ca16,John Milton Brannan,,full_beard
+congress_1861_1869_control,Q817704,Benjamin Biggs,,mustache
+union_general,fffe0765bbc0,John Edwards,,mustache
+union_general,aefa5913783c,James McCleery,Ohio,clean
+congress_1861_1869_control,Q1747155,Thomas Jenckes,,full_beard
+union_general,971562248744,Adam J. Slemmer,Pennsylvania,full_beard
+union_general,478afd4f440b,Friend Smith Rutherford,New York,full_beard
+union_general,873364cbdcc2,John Morrison Oliver,New York,clean
+union_general,a9430ce552b5,William S. Harney,Tennessee,full_beard
+union_general,063e0ae35fb3,William H. Morris,New York,goatee_mustache
+congress_1861_1869_control,Q983147,Elijah Ward,,sideburns
+union_general,eb3ddd32558c,Edward M. McCook,Ohio,mustache
+union_general,a24d2b6cb404,Andrew A. Humphreys,Pennsylvania,mustache
+union_general,5c6ae78a4432,Alfred N. Duffié,abroad: France,goatee_mustache
+congress_1861_1869_control,Q6005619,James Nesmith,,sideburns
+congress_1861_1869_control,Q5719508,Henry Longnecker,,full_beard
+union_general,2141120f8bf2,Giles Alexander Smith,New York,full_beard
+union_general,ed24b041ef62,Samuel Allen Rice,,full_beard
+union_general,59fca3569ece,George Wright,Vermont,clean
+congress_1861_1869_control,Q1549250,Lucius Lamar,,goatee_mustache
+congress_1861_1869_control,Q7182594,Philadelph Van Trump,,clean
+union_general,ab09c6242811,James M. Warner,Vermont,mustache
+union_general,5a4dadc92c19,David Allen Russell,New York,full_beard
+union_general,852d53715914,William Gamble,abroad: United Kingdom,sideburns
+union_general,a62e56da6ca2,Joseph Roswell Hawley,North Carolina,goatee_mustache
+union_general,5d42765efd4a,John Gibbon,Pennsylvania,full_beard
+union_general,9bdb639d8a35,Joseph Eldridge Hamblin,Massachusetts,goatee_mustache
+union_general,3fe7370a4f5d,Rufus Saxton,Massachusetts,unusable
+union_general,bf056a584507,Charles Smith Hamilton,New York,full_beard
+union_general,335c58874e9d,Cyrus Hamlin,Maine,sideburns
+union_general,0233e362037a,Randolph B. Marcy,Massachusetts,sideburns
+union_general,b7c492e7127c,Horatio Phillips Van Cleve,New Jersey,full_beard
+union_general,ae8ddc4f0ce4,Frederick W. Lander,Massachusetts,full_beard
+congress_1861_1869_control,Q1798939,Legrand Perce,,goatee_mustache
+union_general,e64494d9d2dd,James Bowen,,mustache
+congress_1861_1869_control,Q2088365,Phineas Hitchcock,,full_beard
+union_general,8df87998a339,William Scott Ketchum,Connecticut,full_beard
+congress_1861_1869_control,Q7411348,Samuel Miller,,full_beard
+union_general,510892ab3850,James Barnet Fry,Illinois,mustache
+union_general,20e65b4b8464,Thomas J. McKean,Pennsylvania,full_beard
+congress_1861_1869_control,Q1948752,Morton Wilkinson,,clean
+congress_1861_1869_control,Q569962,Anson Burlingame,,full_beard
+union_general,006c0ed0e51f,Edward Ord,,mustache
+congress_1861_1869_control,Q2424524,Thomas Hardeman,,beard_no_mustache
+union_general,9bf2649b7873,Edwin D. Morgan,Massachusetts,sideburns
+congress_1861_1869_control,Q443870,Reuben Fenton,,beard_no_mustache
+congress_1861_1869_control,Q2149261,Richard McCormick,,mustache
+union_general,39b7528b3ef8,Ebenezer Dumont,Indiana,full_beard
+union_general,75e0b976c683,John W. Phelps,Vermont,full_beard
+union_general,c1ace58a44f0,George Cadwalader,Pennsylvania,full_beard
+union_general,1c6f270f87b1,Alvan Cullem Gillem,Tennessee,full_beard
+congress_1861_1869_control,Q1970615,Robert Toombs,,clean
+congress_1861_1869_control,Q1348975,Simon Cameron,,clean
+union_general,c1f1751c6066,Francis Barretto Spinola,New York,full_beard
+union_general,2df5ba1f725a,Robert Brown Potter,New York,sideburns
+union_general,ae703f439e87,Charles Edward Hovey,Vermont,full_beard
+congress_1861_1869_control,Q1506784,George Halsey,,sideburns
+union_general,fefb89301327,Richard W. Johnson,Kentucky,beard_no_mustache
+union_general,8e7d8e2d931a,Benjamin Butler,New Hampshire,mustache
+union_general,3fe8273af317,René Edward De Russy,abroad: France,sideburns
+union_general,cf3b1d2fbc11,Francis E. Patterson,Pennsylvania,goatee_mustache
+union_general,229cb1296bd2,Albert G. Lawrence,New York,goatee_mustache
+union_general,bf7be581a0e4,Alfred Pleasonton,,full_beard
+union_general,c0c76e2090ce,Simon Goodell Griffin,New Hampshire,full_beard
+union_general,0c5736069a04,Ranald S. Mackenzie,New York,sideburns
+union_general,1ebad3dd8468,Thomas Alfred Davies,New York,mustache
+congress_1861_1869_control,Q35686,Rutherford Hayes,,full_beard
+congress_1861_1869_control,Q1594897,Morton Hunter,,full_beard
+union_general,7a799e433882,Nathan Kimball,Indiana,full_beard
+union_general,f0ca517b62aa,Lucius Fairchild,Ohio,full_beard
+congress_1861_1869_control,Q6234816,John Ganson,,clean
+union_general,c04fdc8dff91,George W. Taylor,New Jersey,mustache
+union_general,b84e58e955e7,Lewis Cass Hunt,,full_beard
+union_general,d5463829f9d6,Philip Kearny,New York,goatee_mustache
+congress_1861_1869_control,Q442044,William English,,full_beard
+union_general,9231e8e7a9cc,Henry Washington Benham,Connecticut,sideburns
+union_general,e27770ef1424,George W. Getty,,full_beard
+union_general,b943725f5982,Daniel Butterfield,New York,mustache
+union_general,2eefc5a421d3,Theophilus T. Garrard,Kentucky,full_beard
+union_general,b2d4a86d2504,Walter C. Whitaker,Kentucky,full_beard
+congress_1861_1869_control,Q2129647,Ralph Hill,,beard_no_mustache
+union_general,b50456612e09,Mason Brayman,New York,full_beard
+congress_1861_1869_control,Q313302,Henry Wilson,,clean
+congress_1861_1869_control,Q1384732,Francisco Perea,,full_beard
+union_general,943950ad289e,Wesley Merritt,New York,mustache
+union_general,cdd79318d976,Cassius Marcellus Clay,Kentucky,clean
+congress_1861_1869_control,Q2578915,William Steele,,clean
+congress_1861_1869_control,Q13219181,Francis Spinner,,mustache
+union_general,322033dae884,Charles Russell Lowell,Massachusetts,mustache
+union_general,d4efc5def622,Orlando Poe,Ohio,goatee_mustache
+union_general,d502b8b0481b,Charles Cruft,Indiana,full_beard
+union_general,dc2f44d45e8c,Régis de Trobriand,abroad: France,goatee_mustache
+union_general,e216938d5727,John Adams Dix,New Hampshire,clean
+union_general,99a60a33f30b,Isaac J. Wistar,Pennsylvania,sideburns
+congress_1861_1869_control,Q6118251,Jacob Ambler,,beard_no_mustache
+union_general,bb41aeadf7c3,Charles Devens,Massachusetts,full_beard
+union_general,0746b330be02,James Clay Rice,Massachusetts,full_beard
+union_general,5c1b6e0addaa,Benjamin Alvord,Vermont,mustache
+union_general,64a169e76948,Thomas John Lucas,,full_beard
+union_general,4466654b4c99,Adin Ballou Underwood,Massachusetts,full_beard
+union_general,02c737dd51f3,John T. Deweese,Arkansas,clean
+union_general,008202358308,Francis Washburn,Massachusetts,mustache
+union_general,f0071e719351,Lewis Baldwin Parsons,,sideburns
+union_general,ef50a4666ce1,Cadwallader C. Washburn,Maine,beard_no_mustache
+union_general,228d1fcb82b9,Napoleon Jackson Tecumseh Dana,Maine,full_beard
+union_general,dc6cbf790aea,William Sooy Smith,Ohio,full_beard
+union_general,45869992064a,William Farquhar Barry,New York,mustache
+congress_1861_1869_control,Q2115303,John Steele,,full_beard
+congress_1861_1869_control,Q2543402,Walter Burleigh,,beard_no_mustache
+union_general,4286e6cf51b9,Justus McKinstry,New York,mustache
+union_general,f73bb567845e,Jacob G. Lauman,Maryland,full_beard
+union_general,08f2143ac030,George Crook,Ohio,full_beard
+union_general,caa8b48fd522,Louis D. Watkins,,mustache
+union_general,7d2a16aaf2e7,Jeremiah Boyle,Kentucky,full_beard
+congress_1861_1869_control,Q7910930,Valentine Horton,,clean
+union_general,eca0b367b6fd,James B. Ricketts,New York,full_beard
+congress_1861_1869_control,Q6264603,John Wallace,,sideburns
+congress_1861_1869_control,Q5981597,James McDougall,,beard_no_mustache
+union_general,44502812e31e,Robert S. Granger,Ohio,mustache
+union_general,80a7796a534c,Erastus Tyler,New York,full_beard
+union_general,86c5602bacbf,William Vandever,Maryland,full_beard
+union_general,ccac5aa6001c,Patrick Henry Jones,abroad: Ireland,mustache
+union_general,6d93a99b4e11,Charles Thomas Campbell,Pennsylvania,full_beard
+congress_1861_1869_control,Q4419889,Jesse Norton,,sideburns
+congress_1861_1869_control,Q111608,Henry Reeves,,clean
+union_general,54a5baf33765,Albin F. Schoepf,abroad: Poland,full_beard
+congress_1861_1869_control,Q1673441,Isaac Hawkins,,beard_no_mustache
+union_general,b07833236e75,James B. Steedman,Pennsylvania,sideburns
+congress_1861_1869_control,Q1268342,John Hogan,,beard_no_mustache
+congress_1861_1869_control,Q2791108,Oliver Dockery,,mustache
+union_general,c3eae4ce8e50,Thomas Gamble Pitcher,Indiana,full_beard
+union_general,976c3860def0,Abner Clark Harding,Connecticut,mustache
+congress_1861_1869_control,Q5346766,Edwin Reynolds,,clean
+union_general,bea61ec23d33,Joseph Hooker,Massachusetts,sideburns
+union_general,336e36e5e1c5,Charles K. Graham,New York,full_beard
+union_general,72e1fa50d12f,William B. Campbell,Tennessee,clean
+union_general,68876fa1a887,Robert Kingston Scott,Pennsylvania,mustache
+union_general,2f5a892f7f07,Stephen A. Hurlbut,South Carolina,clean
+union_general,bfc8ca9e3cd8,Joseph Barnes,Pennsylvania,full_beard
+congress_1861_1869_control,Q5546053,George Woodward,,clean
+union_general,16b10c75cbc7,Amos Beebe Eaton,New York,full_beard
+union_general,a8120aecabe2,Erasmus D. Keyes,Massachusetts,full_beard
+union_general,87bcd564b598,William Denison Whipple,New York,full_beard
+union_general,cf4478d2401d,Max Weber,abroad: Germany,goatee_mustache
+union_general,d88269590b38,David McMurtrie Gregg,Pennsylvania,full_beard
+union_general,a64abcd22dda,George Washington Cullum,New York,full_beard
+union_general,dcb9dacc9dd9,Henry M. Judah,Maryland,mustache
+union_general,b65b4af6d03b,John Joseph Abercrombie,Maryland,full_beard
+congress_1861_1869_control,Q2578945,William Brown,,clean
+union_general,3c01446f3b8c,Samuel Beatty,Pennsylvania,full_beard
+union_general,df93450de68a,Samuel K. Zook,Pennsylvania,full_beard
+congress_1861_1869_control,Q1086536,Christopher Bowen,,goatee_mustache
+congress_1861_1869_control,Q5546992,William Allen,,clean
+union_general,c6ad78c9c007,Joseph J. Bartlett,New York,mustache
+congress_1861_1869_control,Q983149,Thomas Stewart,,full_beard
+congress_1861_1869_control,Q8013129,William Allen,,goatee_mustache
+union_general,ff3ad60c25c2,William Burnham Woods,Ohio,full_beard
+union_general,24e4ead92dc6,Winfield Scott Hancock,Pennsylvania,goatee_mustache
+union_general,fe49624a8269,William H. Emory,Maryland,mustache
+union_general,29339c5caadb,Daniel McCook Jr.,Ohio,goatee_mustache
+congress_1861_1869_control,Q1453576,Freeman Morse,,clean
+congress_1861_1869_control,Q1066281,Charles Upson,,beard_no_mustache
+union_general,e3dc4374e4e3,Manning Force,,full_beard
+union_general,7784ab4e58aa,George J. Stannard,Vermont,full_beard
+union_general,f749b69cb946,John F. Hartranft,Pennsylvania,mustache
+union_general,581c0ee14b97,Nelson A. Miles,Massachusetts,mustache
+union_general,97fcc21101f4,Schuyler Hamilton,New York,clean
+congress_1861_1869_control,Q1699512,John Ten Eyck,,sideburns
+union_general,a5351310cffd,Adelbert Ames,Maine,goatee_mustache
+congress_1861_1869_control,Q2435192,Timothy Phelps,,clean
+union_general,155ae11e689e,John H. Martindale,New York,mustache
+union_general,96f3972ac98a,John Buford,Kentucky,mustache
+congress_1861_1869_control,Q6142676,James Negley,,mustache
+union_general,3cf82b6f754f,Edward A. Wild,Massachusetts,full_beard
+union_general,f437dd7eaacc,Henry D. Terry,,mustache
+union_general,ab4e5919f015,Joseph B. Plummer,Massachusetts,full_beard
+congress_1861_1869_control,Q817469,Benjamin Rice,,full_beard
+union_general,8487a6a50811,Albion P. Howe,Maine,mustache
+union_general,f46e27962349,Charles C. Walcutt,Ohio,full_beard
+congress_1861_1869_control,Q1778582,Benjamin Harris,,full_beard
+congress_1861_1869_control,Q1245845,Samuel Fessenden,,beard_no_mustache
+union_general,350992deca93,John F. Reynolds,Pennsylvania,full_beard
+union_general,ffb59aa2f730,James Henry Carleton,Maine,sideburns
+congress_1861_1869_control,Q64790,Henry Edmundson,,beard_no_mustache
+union_general,c6d1cd1e5f42,Rutherford B. Hayes,Ohio,full_beard
+union_general,383e6989ec4e,Adolph von Steinwehr,abroad: Germany,sideburns
+congress_1861_1869_control,Q4722918,Alfred Iverson,,clean
+union_general,a78d4cefe553,Joseph R. West,Louisiana,full_beard
+union_general,00cc356352ff,James Sanks Brisbin,Pennsylvania,mustache
+union_general,95e3fac5c582,Lewis Golding Arnold,New Jersey,full_beard
+union_general,9a40c0131e02,Robert Patterson,abroad: United Kingdom,clean
+congress_1861_1869_control,Q885957,James English,,sideburns
+union_general,eb935dd8270f,W. H. L. Wallace,Ohio,clean
+union_general,a5f4e179efbe,Henry Wager Halleck,New York,clean
+union_general,bf3a75386e1f,Walter Q. Gresham,Indiana,full_beard
+union_general,66427265a0b4,Eli Long,Kentucky,mustache
+union_general,9fd6e028b4f6,Alexander Asboth,abroad: Hungary,full_beard
+union_general,32e3814b92fc,James Barnes,Massachusetts,sideburns
+union_general,18037e70e36b,Milo Smith Hascall,New York,mustache
+union_general,f07f5f60a2b1,Emory Upton,New York,goatee_mustache
+congress_1861_1869_control,Q2023061,Omar Conger,,full_beard
+union_general,75dad249d5f9,Julius White,New York,clean
+union_general,9c86cc7a9d91,Wladimir Krzyzanowski,,mustache
+union_general,c5b7b634a0f5,Edward Hatch,Maine,full_beard
+congress_1861_1869_control,Q2580591,William Smyth,,full_beard
+union_general,0c6e79a6edc4,James Shields,abroad: United Kingdom,mustache
+union_general,5241f6589a35,Edward E. Potter,New York,mustache
+union_general,795200c693e0,David Stuart,New York,full_beard
+congress_1861_1869_control,Q4120843,Norman Judd,,full_beard
+union_general,dc25de3b1da1,Seldon Connor,Maine,goatee_mustache
+union_general,ff2dca26ead7,Patrick Edward Connor,abroad: Ireland,sideburns
+congress_1861_1869_control,Q598880,Garnett Adrain,,sideburns
+union_general,09845d1831cd,Absalom Baird,Pennsylvania,full_beard
+union_general,ee0aa4bdbbfc,Franz Sigel,abroad: Germany,full_beard
+union_general,e690372d85a9,Thomas Francis Meagher,abroad: Ireland,mustache
+union_general,b792273294fe,Lorenzo Thomas,Delaware,sideburns
+congress_1861_1869_control,Q1404201,Peter Van Winkle,,beard_no_mustache
+union_general,3ffeecc60e22,James W. Denver,Virginia,clean
+union_general,a2a166782d62,Francis Fessenden,Maine,mustache
+union_general,4901b04a718c,Thomas Kilby Smith,Massachusetts,full_beard
+union_general,fd9db81eafff,Rufus Ingalls,Maine,full_beard
+union_general,179726c42881,Thomas Turpin Crittenden,Alabama,full_beard
+union_general,d4d577e8fb9d,Michael Kelly Lawler,abroad: Ireland,full_beard
+union_general,d401ffb56028,James Hughes Stokes,,full_beard
+union_general,c7175bdb5002,Joseph Andrew Jackson Lightburn,Pennsylvania,full_beard
+congress_1861_1869_control,Q2757766,Charles Goodyear,,beard_no_mustache
+union_general,3f882edab96b,George Henry Thomas,Virginia,full_beard
+union_general,a4865f330e3a,Thomas Maley Harris,West Virginia,full_beard
+union_general,6355dcbda710,Hiram Gregory Berry,Maine,full_beard
+union_general,e37da78c0230,Joseph Bradford Carr,New York,mustache
+union_general,3204b22bd936,James L. Kiernan,,mustache
+congress_1861_1869_control,Q1421481,Hiram Bennet,,full_beard
+union_general,937947cde0c6,Charles R. Woods,Ohio,full_beard
+congress_1861_1869_control,Q1032998,Samuel Cox,,full_beard
+union_general,27ce39ba67f6,James H. Wilson,Illinois,goatee_mustache
+union_general,4653eeb40600,Thomas Williams,New York,full_beard
+congress_1861_1869_control,Q5750034,Hezekiah Bundy,,full_beard
+union_general,7bb478e19eb9,William Farrar Smith,Vermont,goatee_mustache
+union_general,3d1e0b34e815,Daniel Phineas Woodbury,New Hampshire,full_beard
+congress_1861_1869_control,Q3239,James Gibson,,sideburns
+union_general,e4fbf20a6fba,Ferdinand Van Derveer,Ohio,beard_no_mustache
+union_general,f627034e02e8,Truman Seymour,Vermont,full_beard
+union_general,c1b6aa02e926,Newton Martin Curtis,New York,full_beard
+union_general,195f6c5b4e67,Catharinus P. Buckingham,Ohio,full_beard
+union_general,034321d67206,Gabriel René Paul,Missouri,full_beard
+union_general,7a01c5a54bcb,Pleasant A. Hackleman,Indiana,mustache
+union_general,35acd7eb604e,Robert O. Tyler,New York,sideburns
+congress_1861_1869_control,Q1389749,John Jones,,beard_no_mustache
+congress_1861_1869_control,Q1383714,Horace Clark,,beard_no_mustache
+union_general,d24bd13feb0d,Morgan Lewis Smith,New York,full_beard
+union_general,3b8c3aef67b1,William Wallace Burns,Ohio,full_beard
+union_general,0e23b4a9f232,Henry Baxter,New York,full_beard
+union_general,2a70ab15904c,James S. Robinson,Ohio,full_beard
+union_general,357aba8bdd79,George Day Wagner,Ohio,goatee_mustache
+union_general,590f9d8ee8c2,Henry Bohlen,abroad: Germany,mustache
+congress_1861_1869_control,Q2114715,George Greene,,clean
+union_general,613795c79b57,William A. Pile,Indiana,full_beard
+union_general,cd6f2a2bc1b0,Richard Busteed,abroad: Ireland,full_beard
+union_general,bcde9b387d69,Charles Griffin,Ohio,mustache
+union_general,7ddcdcbb1dee,William Henry Penrose,New York,mustache
+union_general,ef7af9a0306b,Gustave Paul Cluseret,abroad: France,mustache
+congress_1861_1869_control,Q8012070,William Koontz,,full_beard
+congress_1861_1869_control,Q211810,James Humphrey,,full_beard
+union_general,3e1b434ee17e,Napoleon Bonaparte Buford,Kentucky,full_beard
+congress_1861_1869_control,Q181727,William Brownlow,,clean
+union_general,057c8169d6e5,Griffin Alexander Stedman,Connecticut,mustache
+union_general,91717e4d408c,Alexander Schimmelfennig,abroad: Poland,full_beard
+congress_1861_1869_control,Q2642579,Alexander Long,,beard_no_mustache
+union_general,474b9352f633,Benjamin Franklin Kelley,New Hampshire,beard_no_mustache
+union_general,e6706e649e7b,Alexander Brydie Dyer,Virginia,full_beard
+union_general,81f5161754f1,Francis C. Barlow,New York,clean
+union_general,aaa1db421a1d,Benjamin Harrison,Ohio,full_beard
+union_general,34c8eddb39a2,Elon J. Farnsworth,Michigan,mustache
+congress_1861_1869_control,Q2114836,William Kenyon,,clean
+union_general,f180a6eb93e8,Alexander S. Diven,New York,full_beard
+congress_1861_1869_control,Q1394758,Joseph Defrees,,sideburns
+union_general,c755651f3570,John Porter Hatch,New York,goatee_mustache
+union_general,7b6b7626d771,Horatio Wright,Connecticut,full_beard
+union_general,d4bd84b7e52c,Elliott Warren Rice,Pennsylvania,mustache
+union_general,0d0e64fc45a9,Thomas Algeo Rowley,Pennsylvania,beard_no_mustache
+union_general,8de52c67faa2,John G. Mitchell,Ohio,full_beard
+congress_1861_1869_control,Q1700023,John Starr,,full_beard

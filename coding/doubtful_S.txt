@@ -1,0 +1,53 @@
+000-13 S sideburns to mid-cheek, borderline
+000-16 S side whiskers to jaw, borderline C
+000-19 S borderline
+001-9 S sideburns to mid-cheek, borderline C
+001-19 B faint neck beard under jaw, could be S
+002-14 C face small (full-length painting)
+002-22 C very poor image quality
+002-20 S sideburns to jaw, borderline
+003-23 S sideburns to lower cheek, borderline C
+003-16 C face small
+004-9 C equestrian print, face tiny; could be X
+004-11 B upper lip looks shaved, could be F
+004-21 C face downcast, partly visible
+005-1 C very faded photo, possible faint side whiskers
+006-4 C possible sideburns to jaw on one side, unclear
+006-21 C partial engraving crop
+007-23 B cheek whiskers meeting under chin, chin front shaved; could be S
+008-6 C face small
+009-2 B face small; shaved lip appears
+009-6 C face small
+009-11 B neck beard under chin, could be S
+009-19 S sideburns to mid-cheek, borderline C
+009-21 C sideburns borderline
+010-4 S profile engraving, sideburn to mid-cheek, borderline
+010-16 S sideburns to mid-cheek, borderline C
+010-5 M thin mustache, possible chin hair
+011-23 G profile; long chin beard with mustache, cheek looks shaved; could be F
+012-3 C face small, candid
+012-18 C second person partly in crop; coded main face
+013-1 M possible small mustache, side view, unsure vs C
+013-9 C sketch; possible side whiskers
+013-10 C campaign button profile
+013-13 X statue full-length, face tiny
+014-8 C crop cut top of face; lower face visible
+015-2 C crude engraving, dark shading under nose may be mustache
+016-11 C small; man with child in frame, coded adult
+017-1 C very grainy image
+017-6 F dark painting, profile with hat
+018-9 C face small
+018-14 C face small
+019-3 X engraved scene of brawl, no single face
+019-15 C possible very thin mustache
+019-6 C face smallish, arms raised
+019-22 C sideburns borderline
+020-21 S sideburns to jaw, borderline C
+020-19 C stubble
+021-12 S profile silhouette-style, sideburn toward jaw, borderline C
+021-14 C sideburns borderline
+021-22 C face small
+022-5 B faded photo; upper lip looks shaved, could be F
+023-0 S long sideburns to lower cheek, borderline C
+023-22 S line drawing; mustache + side whiskers, chin center looks bare; could be F
+024-13 C face small

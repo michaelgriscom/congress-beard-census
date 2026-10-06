@@ -1,0 +1,46 @@
+number,name,birth_year,birth_state,home_state,took_office,left_office,party,facial_hair,union_general,notes
+1,George Washington,1732,VA,VA,1789,1797,None,clean,,
+2,John Adams,1735,MA,MA,1797,1801,Federalist,clean,,
+3,Thomas Jefferson,1743,VA,VA,1801,1809,Democratic-Republican,clean,,
+4,James Madison,1751,VA,VA,1809,1817,Democratic-Republican,clean,,
+5,James Monroe,1758,VA,VA,1817,1825,Democratic-Republican,clean,,
+6,John Quincy Adams,1767,MA,MA,1825,1829,Democratic-Republican,sideburns,,
+7,Andrew Jackson,1767,SC,TN,1829,1837,Democratic,clean,,Birthplace on the disputed NC/SC border; Jackson claimed SC
+8,Martin Van Buren,1782,NY,NY,1837,1841,Democratic,sideburns,,
+9,William Henry Harrison,1773,VA,OH,1841,1841,Whig,clean,,Ohio political base but Virginia-born
+10,John Tyler,1790,VA,VA,1841,1845,Whig,clean,,
+11,James K. Polk,1795,NC,TN,1845,1849,Democratic,clean,,
+12,Zachary Taylor,1784,VA,LA,1849,1850,Whig,sideburns,,
+13,Millard Fillmore,1800,NY,NY,1850,1853,Whig,clean,,
+14,Franklin Pierce,1804,NH,NH,1853,1857,Democratic,clean,,
+15,James Buchanan,1791,PA,PA,1857,1861,Democratic,clean,,
+16,Abraham Lincoln,1809,KY,IL,1861,1865,Republican,chin_beard,no,Chin curtain with no mustache; grew it after the Nov 1860 election
+17,Andrew Johnson,1808,NC,TN,1865,1869,National Union,clean,no,Held brigadier-general rank as military governor of Tennessee (political appointment)
+18,Ulysses S. Grant,1822,OH,IL,1869,1877,Republican,full_beard,yes,General of the Army
+19,Rutherford B. Hayes,1822,OH,OH,1877,1881,Republican,full_beard,yes,Brevet major general
+20,James A. Garfield,1831,OH,OH,1881,1881,Republican,full_beard,yes,Major general of volunteers
+21,Chester A. Arthur,1829,VT,NY,1881,1885,Republican,mustache_sideburns,no,Quartermaster general of the New York militia (not a Union Army general)
+22,Grover Cleveland,1837,NJ,NY,1885,1897,Democratic,mustache,no,Two non-consecutive terms (1885-1889 and 1893-1897)
+23,Benjamin Harrison,1833,OH,IN,1889,1893,Republican,full_beard,yes,Brevet brigadier general
+25,William McKinley,1843,OH,OH,1897,1901,Republican,clean,no,Brevet major (not a general)
+26,Theodore Roosevelt,1858,NY,NY,1901,1909,Republican,mustache,,
+27,William Howard Taft,1857,OH,OH,1909,1913,Republican,mustache,,
+28,Woodrow Wilson,1856,VA,NJ,1913,1921,Democratic,clean,,
+29,Warren G. Harding,1865,OH,OH,1921,1923,Republican,clean,,
+30,Calvin Coolidge,1872,VT,MA,1923,1929,Republican,clean,,
+31,Herbert Hoover,1874,IA,CA,1929,1933,Republican,clean,,
+32,Franklin D. Roosevelt,1882,NY,NY,1933,1945,Democratic,clean,,
+33,Harry S. Truman,1884,MO,MO,1945,1953,Democratic,clean,,Briefly grew a beard on a 1948 vacation
+34,Dwight D. Eisenhower,1890,TX,KS,1953,1961,Republican,clean,,
+35,John F. Kennedy,1917,MA,MA,1961,1963,Democratic,clean,,
+36,Lyndon B. Johnson,1908,TX,TX,1963,1969,Democratic,clean,,
+37,Richard Nixon,1913,CA,CA,1969,1974,Republican,clean,,
+38,Gerald Ford,1913,NE,MI,1974,1977,Republican,clean,,
+39,Jimmy Carter,1924,GA,GA,1977,1981,Democratic,clean,,
+40,Ronald Reagan,1911,IL,CA,1981,1989,Republican,clean,,
+41,George H. W. Bush,1924,MA,TX,1989,1993,Republican,clean,,
+42,Bill Clinton,1946,AR,AR,1993,2001,Democratic,clean,,
+43,George W. Bush,1946,CT,TX,2001,2009,Republican,clean,,
+44,Barack Obama,1961,HI,IL,2009,2017,Democratic,clean,,
+45,Donald Trump,1946,NY,NY,2017,,Republican,clean,,Also 47th president (2025-)
+46,Joe Biden,1942,PA,DE,2021,2025,Democratic,clean,,

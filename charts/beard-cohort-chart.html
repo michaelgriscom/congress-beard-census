@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beards by Birth Year</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --surface: #fcfcfb; --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #7a7974;
+  --grid: #e6e5e1; --rule: #c9c8c3;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --surface: #1a1a19; --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #94938b;
+    --grid: #2e2e2c; --rule: #4a4a46;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface: #1a1a19; --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #94938b;
+  --grid: #2e2e2c; --rule: #4a4a46;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--surface); color: var(--text-primary);
+  font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 900px; margin: 0 auto; padding: 24px 16px 40px; }
+h1 { font-size: 20px; margin: 0 0 4px; }
+p.sub { margin: 0 0 16px; color: var(--text-secondary); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 0 0 8px; font-size: 13px; color: var(--text-secondary); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+.chart { position: relative; width: 100%; }
+svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text { fill: var(--text-muted); font-size: 12px; }
+.axis path, .axis line { stroke: var(--rule); }
+.grid line { stroke: var(--grid); }
+.label { font-size: 12px; font-weight: 600; fill: #fff; paint-order: stroke; stroke: rgba(0,0,0,.35); stroke-width: 2px; pointer-events: none; }
+.pres text { fill: var(--text-secondary); font-size: 12px; }
+.pres line { stroke: var(--text-muted); stroke-dasharray: 2 3; }
+.tip { position: absolute; pointer-events: none; background: var(--surface); color: var(--text-primary);
+  border: 1px solid var(--rule); border-radius: 8px; padding: 8px 10px; font-size: 12px; box-shadow: 0 4px 14px rgba(0,0,0,.15);
+  min-width: 170px; opacity: 0; transition: opacity .1s; }
+.tip b { display: block; margin-bottom: 4px; }
+.tip div { display: flex; justify-content: space-between; gap: 12px; }
+.tip i { width: 9px; height: 9px; border-radius: 2px; display: inline-block; margin-right: 6px; }
+.note { font-size: 12px; color: var(--text-muted); margin-top: 10px; }
+details { margin-top: 16px; font-size: 13px; color: var(--text-secondary); }
+table { border-collapse: collapse; margin-top: 8px; width: 100%; font-variant-numeric: tabular-nums; }
+th, td { padding: 3px 6px; text-align: right; border-bottom: 1px solid var(--grid); }
+th:first-child, td:first-child { text-align: left; }
+.tablewrap { overflow-x: auto; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Men kept the facial hair of their generation</h1>
+  <p class="sub">Facial hair of every man who served in Congress, by birth year (5-year groups, share of men with a usable portrait)</p>
+  <div class="legend" id="legend"></div>
+  <div class="chart" id="chart"><div class="tip" id="tip"></div></div>
+  <p class="note">Dots mark presidents' birth years. Filled: wore a full beard in office. Hollow: did not. Source: Wikimedia Commons portraits of 10,241 men in Congress, coded blind.</p>
+  <details><summary>Show the data as a table</summary><div class="tablewrap"><table id="tbl"></table></div></details>
+</main>
+<script>
+const data = [{"birth": 1772.5, "n": 74, "full_beard": 0.0, "goatee_mustache": 0.0, "beard_no_mustache": 0.0135, "sideburns": 0.1216, "mustache": 0.0, "clean": 0.8649}, {"birth": 1777.5, "n": 84, "full_beard": 0.0119, "goatee_mustache": 0.0, "beard_no_mustache": 0.0119, "sideburns": 0.1429, "mustache": 0.0119, "clean": 0.8214}, {"birth": 1782.5, "n": 109, "full_beard": 0.0, "goatee_mustache": 0.0, "beard_no_mustache": 0.0275, "sideburns": 0.1193, "mustache": 0.0, "clean": 0.8532}, {"birth": 1787.5, "n": 124, "full_beard": 0.0, "goatee_mustache": 0.0, "beard_no_mustache": 0.0242, "sideburns": 0.121, "mustache": 0.0, "clean": 0.8548}, {"birth": 1792.5, "n": 141, "full_beard": 0.0284, "goatee_mustache": 0.0, "beard_no_mustache": 0.1206, "sideburns": 0.0709, "mustache": 0.0071, "clean": 0.773}, {"birth": 1797.5, "n": 154, "full_beard": 0.039, "goatee_mustache": 0.0, "beard_no_mustache": 0.0714, "sideburns": 0.1494, "mustache": 0.0, "clean": 0.7403}, {"birth": 1802.5, "n": 203, "full_beard": 0.0591, "goatee_mustache": 0.0, "beard_no_mustache": 0.1823, "sideburns": 0.064, "mustache": 0.0148, "clean": 0.6798}, {"birth": 1807.5, "n": 236, "full_beard": 0.1398, "goatee_mustache": 0.0042, "beard_no_mustache": 0.2161, "sideburns": 0.089, "mustache": 0.0339, "clean": 0.5169}, {"birth": 1812.5, "n": 315, "full_beard": 0.1968, "goatee_mustache": 0.0127, "beard_no_mustache": 0.2476, "sideburns": 0.1143, "mustache": 0.0413, "clean": 0.3873}, {"birth": 1817.5, "n": 335, "full_beard": 0.2925, "goatee_mustache": 0.0209, "beard_no_mustache": 0.2776, "sideburns": 0.0597, "mustache": 0.0836, "clean": 0.2657}, {"birth": 1822.5, "n": 356, "full_beard": 0.3876, "goatee_mustache": 0.0478, "beard_no_mustache": 0.2219, "sideburns": 0.0618, "mustache": 0.0927, "clean": 0.1882}, {"birth": 1827.5, "n": 385, "full_beard": 0.5221, "goatee_mustache": 0.0442, "beard_no_mustache": 0.1532, "sideburns": 0.0623, "mustache": 0.1169, "clean": 0.1013}, {"birth": 1832.5, "n": 339, "full_beard": 0.4041, "goatee_mustache": 0.0885, "beard_no_mustache": 0.1091, "sideburns": 0.0501, "mustache": 0.2802, "clean": 0.0678}, {"birth": 1837.5, "n": 386, "full_beard": 0.3886, "goatee_mustache": 0.1036, "beard_no_mustache": 0.0518, "sideburns": 0.0233, "mustache": 0.3161, "clean": 0.1166}, {"birth": 1842.5, "n": 395, "full_beard": 0.2759, "goatee_mustache": 0.0987, "beard_no_mustache": 0.0228, "sideburns": 0.0228, "mustache": 0.4658, "clean": 0.1139}, {"birth": 1847.5, "n": 313, "full_beard": 0.1789, "goatee_mustache": 0.0639, "beard_no_mustache": 0.0064, "sideburns": 0.016, "mustache": 0.5974, "clean": 0.1374}, {"birth": 1852.5, "n": 348, "full_beard": 0.1121, "goatee_mustache": 0.0316, "beard_no_mustache": 0.0029, "sideburns": 0.0029, "mustache": 0.6178, "clean": 0.2328}, {"birth": 1857.5, "n": 320, "full_beard": 0.0563, "goatee_mustache": 0.0156, "beard_no_mustache": 0.0, "sideburns": 0.0, "mustache": 0.5219, "clean": 0.4062}, {"birth": 1862.5, "n": 360, "full_beard": 0.0583, "goatee_mustache": 0.0083, "beard_no_mustache": 0.0, "sideburns": 0.0, "mustache": 0.4278, "clean": 0.5056}, {"birth": 1867.5, "n": 336, "full_beard": 0.0089, "goatee_mustache": 0.006, "beard_no_mustache": 0.0, "sideburns": 0.0, "mustache": 0.2411, "clean": 0.744}, {"birth": 1872.5, "n": 361, "full_beard": 0.0083, "goatee_mustache": 0.0055, "beard_no_mustache": 0.0028, "sideburns": 0.0, "mustache": 0.1274, "clean": 0.856}, {"birth": 1877.5, "n": 319, "full_beard": 0.0031, "goatee_mustache": 0.0, "beard_no_mustache": 0.0, "sideburns": 0.0, "mustache": 0.0282, "clean": 0.9687}, {"birth": 1882.5, "n": 244, "full_beard": 0.0, "goatee_mustache": 0.0, "beard_no_mustache": 0.0, "sideburns": 0.0, "mustache": 0.0533, "clean": 0.9467}];
+const SERIES = [
+  { key: "full_beard", label: "Full beard", color: "--s1" },
+  { key: "goatee_mustache", label: "Goatee", color: "--s2" },
+  { key: "beard_no_mustache", label: "Chin beard, no mustache", color: "--s3" },
+  { key: "sideburns", label: "Sideburns", color: "--s4" },
+  { key: "mustache", label: "Mustache only", color: "--s5" },
+  { key: "clean", label: "Clean-shaven", color: "--s6" },
+];
+const PRES = [
+  { name: "A. Johnson", y: 1808, full: false, row: 0, side: "end" },
+  { name: "Lincoln", y: 1809, full: false, row: 1, side: "start" },
+  { name: "Grant, Hayes", y: 1822, full: true, row: 2, side: "end" },
+  { name: "Arthur", y: 1829, full: false, row: 3, side: "end" },
+  { name: "Garfield", y: 1831, full: true, row: 0, side: "start" },
+  { name: "Harrison", y: 1833, full: true, row: 1, side: "start" },
+  { name: "Cleveland", y: 1837, full: false, row: 2, side: "start" },
+];
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const fmt = d3.format(".0%");
+
+const legend = d3.select("#legend");
+SERIES.forEach(s => {
+  const el = legend.append("span");
+  el.append("i").style("background", `var(${s.color})`);
+  el.append("span").text(s.label);
+});
+
+const W = 860, H = 470, m = { top: 96, right: 12, bottom: 34, left: 40 };
+const svg = d3.select("#chart").append("svg").attr("viewBox", `0 0 ${W} ${H}`);
+const x = d3.scaleLinear().domain([1772.5, 1882.5]).range([m.left, W - m.right]);
+const y = d3.scaleLinear().domain([0, 1]).range([H - m.bottom, m.top]);
+const stack = d3.stack().keys(SERIES.map(s => s.key))(data);
+
+svg.append("g").attr("class", "grid").selectAll("line").data([0.25, 0.5, 0.75, 1]).join("line")
+  .attr("x1", m.left).attr("x2", W - m.right).attr("y1", d => y(d)).attr("y2", d => y(d));
+
+const area = d3.area().x(d => x(d.data.birth)).y0(d => y(d[0])).y1(d => y(d[1])).curve(d3.curveMonotoneX);
+svg.append("g").selectAll("path").data(stack).join("path")
+  .attr("d", area).attr("fill", (d, i) => `var(${SERIES[i].color})`)
+  .attr("stroke", "var(--surface)").attr("stroke-width", 2);
+
+// direct labels at each series' widest point
+stack.forEach((layer, i) => {
+  let best = null;
+  layer.forEach(d => { const h = d[1] - d[0]; if (!best || h > best.h) best = { h, d }; });
+  if (best.h < 0.1) return;
+  const lx = Math.min(Math.max(x(best.d.data.birth), m.left + 60), W - m.right - 60);
+  svg.append("text").attr("class", "label").attr("text-anchor", "middle")
+    .attr("x", lx).attr("y", y((best.d[0] + best.d[1]) / 2) + 4).text(SERIES[i].label);
+});
+
+svg.append("g").attr("class", "axis").attr("transform", `translate(0,${H - m.bottom})`)
+  .call(d3.axisBottom(x).tickValues(d3.range(1780, 1881, 20)).tickFormat(d3.format("d")).tickSizeOuter(0));
+svg.append("g").attr("class", "axis").attr("transform", `translate(${m.left},0)`)
+  .call(d3.axisLeft(y).tickValues([0, 0.25, 0.5, 0.75, 1]).tickFormat(fmt).tickSizeOuter(0))
+  .call(g => g.select(".domain").remove());
+
+// president markers above the plot
+const pg = svg.append("g").attr("class", "pres");
+PRES.forEach(p => {
+  const px = x(p.y), py = m.top - 84 + p.row * 20;
+  pg.append("line").attr("x1", px).attr("x2", px).attr("y1", py + 5).attr("y2", y(0));
+  pg.append("circle").attr("cx", px).attr("cy", py).attr("r", 5)
+    .attr("fill", p.full ? "var(--text-primary)" : "var(--surface)")
+    .attr("stroke", "var(--text-primary)").attr("stroke-width", 2);
+  pg.append("text").attr("x", p.side === "end" ? px - 9 : px + 9).attr("y", py + 4)
+    .attr("text-anchor", p.side).text(p.name);
+});
+
+// crosshair tooltip
+const tip = d3.select("#tip");
+const cross = svg.append("line").attr("stroke", "var(--text-secondary)").attr("y1", m.top).attr("y2", H - m.bottom).style("opacity", 0);
+svg.append("rect").attr("x", m.left).attr("y", m.top).attr("width", W - m.left - m.right).attr("height", H - m.top - m.bottom)
+  .attr("fill", "transparent")
+  .on("pointermove", ev => {
+    const [mx] = d3.pointer(ev);
+    const d = data.reduce((a, b) => Math.abs(x(b.birth) - mx) < Math.abs(x(a.birth) - mx) ? b : a);
+    cross.attr("x1", x(d.birth)).attr("x2", x(d.birth)).style("opacity", 1);
+    const lo = d.birth - 2.5;
+    tip.html(`<b>Born ${lo}–${lo + 4} · ${d.n} men</b>` + SERIES.slice().reverse().map(s =>
+      `<div><span><i style="background:var(${s.color})"></i>${s.label}</span><span>${fmt(d[s.key])}</span></div>`).join(""));
+    const box = document.getElementById("chart").getBoundingClientRect();
+    const sx = x(d.birth) / W * box.width;
+    tip.style("left", (sx > box.width / 2 ? sx - 190 : sx + 12) + "px").style("top", "70px").style("opacity", 1);
+  })
+  .on("pointerleave", () => { tip.style("opacity", 0); cross.style("opacity", 0); });
+
+// table view
+const tbl = d3.select("#tbl");
+tbl.append("tr").selectAll("th").data(["Born", "Men", ...SERIES.map(s => s.label)]).join("th").text(d => d);
+data.forEach(d => {
+  const lo = d.birth - 2.5;
+  tbl.append("tr").selectAll("td").data([`${lo}–${lo + 4}`, d.n, ...SERIES.map(s => fmt(d[s.key]))]).join("td").text(v => v);
+});
+</script>
+</body>
+</html>

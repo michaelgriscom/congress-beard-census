@@ -1,0 +1,57 @@
+000-3 S whiskers to jaw, moderate
+000-13 S side whiskers to jaw, faded photo
+001-1 S side whiskers to jaw, small engraving
+001-6 C profile relief, sideburn unclear
+002-2 S side whiskers to jaw, small engraving
+002-9 X crop missed, body only no face
+002-14 C face tiny
+002-18 M thin mustache, smiling
+002-19 G long chin beard + mustache, cheeks look shaved; could be F
+003-7 F profile view, beard along jaw
+004-15 C small candid profile, grizzled stubble; could be short F
+004-21 S whiskers down cheek nearly to jaw, borderline C
+005-23 B engraving, beard along jaw, upper lip appears shaved
+005-20 C possible faint white mustache, judged none
+006-12 X tiny scene/group engraving, crop missed
+006-21 B white beard, upper lip appears shaved
+007-12 G small image, chin beard + mustache, cheeks seem shaved; could be F
+007-14 S heavy side whiskers to jaw, chin shaved
+008-5 M thin pencil mustache, faint
+008-18 M small image
+008-23 S profile, long whiskers down cheek
+009-5 S small engraving, whiskers down cheek; could be C
+009-7 F white beard, mustache unclear; could be B
+010-5 F very short grey beard + mustache; could be stubble
+010-22 F short trimmed beard + mustache, halftone; could be M
+011-10 C face tiny
+012-1 C crop too tight (ear/glasses/cheek), mouth cut off, halftone; mustache unknown
+013-3 C silhouette profile, smooth chin outline; mustache unknowable (maybe X)
+013-21 C face tiny
+014-5 C face small, at desk
+014-9 S profile engraving, sideburn below ear toward jaw; borderline C
+014-13 S whiskers to jaw, chin shaved
+014-17 S profile engraving, sideburn below ear; borderline C
+015-8 X crop too tight, only eye/ear/hair fragment, no mouth or chin
+015-23 S thin sideburns down to jaw line; borderline C
+016-18 B possible thin white fringe under jaw, upper lip shaved; could be C
+016-22 F short grey beard + mustache
+017-11 S profile, long sideburn down cheek
+017-4 F profile, beard + mustache
+019-5 G mustache + small chin beard (circle beard); could be M
+019-9 G short grey goatee + mustache
+019-18 C dark, low-contrast image
+020-1 B profile, light fringe under jaw/chin, lip shaved; could be C
+020-9 S white side whiskers to jaw, chin shaved; could be B if joined under chin
+020-23 C face small
+021-7 S sideburns to mid-cheek/mouth level; borderline C
+021-22 S profile, sideburn down to jaw level; borderline C
+021-19 C heavy stubble
+022-3 C face tiny (profile engraving with caption)
+022-13 X crop missed, dark fragment, no face
+022-20 C profile, thick sideburn to about earlobe; borderline S
+022-23 C faint profile engraving
+023-1 B neck beard under chin, lip shaved
+023-14 G Van Dyke, cheeks look shaved; could be F
+023-18 B jaw whiskers appear to meet under chin, lip shaved; could be S
+024-6 M short grey mustache, faint
+024-11 C small face, profile in dark candid

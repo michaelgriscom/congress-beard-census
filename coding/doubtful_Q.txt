@@ -1,0 +1,37 @@
+000-11 C possible faint mustache
+001-14 B faint photo, possible neck fringe under jaw
+001-20 C sideburns near ear, possibly lower (S?)
+002-17 S small profile, cheek whiskers; could be B if they meet under chin
+003-16 C small athlete action shot, face in profile
+003-17 C possible faint mustache
+005-05 S sideburns to about mouth level, borderline C
+005-10 C tiny engraving
+005-20 C sideburns near ear lobe, borderline S
+007-00 C full-body shot, face small
+007-08 S dark side whiskers to jaw, dark painting
+007-17 C scene with others in background; main subject reading
+008-05 C dark painting, top hat, face dim
+009-04 C full-body standing shot, face small
+009-12 C faded photo, low contrast
+010-08 S faint profile silhouette, whisker down cheek toward jaw
+012-10 F full-length shot, face small
+012-15 C sideburns to ear lobe, borderline S
+013-07 C engraving, cheek shading could be side whiskers
+013-17 C tiny image
+013-22 M small faded photo, possible gray mustache
+013-05 C blurry
+014-05 M faded photo, light gray mustache likely
+015-01 C profile engraving, faint cheek shading could be sideburn (S?)
+016-03 S sideburns to about jaw, borderline C
+016-05 B long white beard, upper lip appears shaved; F if mustache
+016-17 S miniature painting, reddish cheek whiskers, faint
+017-01 C full-body wheelchair shot, face small in profile
+017-19 C small image
+020-00 F tiny image, beard and mustache visible
+021-20 C faint pencil sketch of seated figure with cap
+021-11 B chin curtain with shaved lip; chin front light
+021-09 C profile silhouette engraving
+022-18 B small image, chin curtain with shaved upper lip
+022-17 C campaign button portrait
+023-13 C small image
+024-04 C bad crop: partial face only (eye/cheek), chin not visible; recheck uncropped

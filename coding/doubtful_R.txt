@@ -1,0 +1,54 @@
+000-4 C painting, sideburns possibly to upper cheek, borderline S
+001-20 S engraving, sideburns to lower cheek
+002-2 M possible small soul patch
+002-8 G cheeks look shaved, short white goatee; could be F
+002-12 M large mustache, chin unclear (possible G)
+002-13 S painted sideburns to mid-cheek
+003-14 S dark engraving, side whiskers to mid-cheek, borderline C
+003-23 C sideburns to earlobe level, borderline S
+004-22 X crop missed, only ear/cap visible
+004-15 C face small
+005-21 C painting, sideburns just below ear, borderline S
+006-0 C crowd photo, main face used
+006-3 C long hair at sides, possible sideburns
+007-13 C profile, faint shading on cheek/jaw, possible whiskers
+008-5 S profile silhouette engraving, sideburn to lower cheek
+008-4 C sideburns just below ear
+009-0 B white neck/chin beard, shaved lip, small image
+009-2 S painting, sideburns to mid-cheek, borderline C
+009-3 X gravestone, no face
+009-23 C small faded image, possible throat whiskers
+010-20 C face tiny
+011-7 F white beard on blurry photo, mustache unclear (possible B)
+011-22 C small photo, possible faint mustache
+011-23 S painting, sideburns to lower cheek
+012-14 F short beard and mustache, could be G
+012-17 C statue, face tiny
+012-20 C engraving, bushy side hair, possible S
+013-6 M large mustache, possible small chin tuft (G?)
+013-9 C dark painting, side hair may be sideburns to jaw (S?)
+014-13 S drawing, whiskers along jaw, may join under chin (B?)
+014-7 M small photo
+015-7 C blurry enlarged face
+015-17 B white neck beard under jaw, shaved lip and chin front
+015-21 C face tiny
+017-5 G mustache and chin beard, cheeks look shaved; could be F
+018-10 X blank texture, crop missed
+018-20 C engraving, whiskers just below ear, borderline S
+019-0 B chin/jaw beard, upper lip looks shaved (F?)
+019-17 S painting, hair/sideburns to jaw level, borderline C
+019-11 C small candid photo
+019-12 C candid profile
+020-9 C face tiny
+020-21 S painting, sideburns to lower cheek, borderline C
+020-18 F short stubble-length beard, could be heavy stubble (C?)
+021-2 C face tiny, elderly man, appears clean-shaven
+021-22 X TV studio scene with three people, crop missed
+021-21 C painting, sideburns to about earlobe, borderline S
+022-3 B engraving, white beard along jaw and chin, upper lip appears shaved (F?)
+022-8 S engraving, whiskers to jaw line, not joined across chin
+023-8 C small engraving, sideburns possibly to mid-cheek, borderline S
+023-10 C engraving, sideburns to about earlobe, borderline S
+024-0 G light short chin beard and mustache, cheeks look stubbly only (F or C?)
+024-9 C man at desk, face small and looking down
+024-22 C dark engraving, possible sideburn shading toward jaw, borderline S

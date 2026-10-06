@@ -1,0 +1,18 @@
+000-5 S engraving, long side whiskers to jaw line, could be C
+001-12 C engraving, sideburns to about mid-cheek, could be S
+002-4 F line drawing, mustache with hatched chin/jaw; could be M with stubble
+002-14 C profile engraving, sideburn possibly to jaw; could be S
+003-13 C very faint mustache/stubble shadow; could be M
+003-20 C heavy stubble
+005-22 S mustache plus side whiskers down to jaw; could be M
+006-12 F full beard; upper lip faint, could be B if no mustache
+007-14 S painting, sideburns to about mouth level; borderline C
+007-18 S profile engraving, stippled whiskers from ear to jaw; borderline C
+007-19 S painting, sideburns down to jaw angle; borderline C
+008-18 B white whiskers along jaw continuing under chin, shaved lip; could be S if not joined
+009-7 X crop missed, shows back of head/collar only
+009-15 B engraving, upper lip looks shaved with jaw/chin beard; could be F
+009-18 S engraving, sideburns to about mouth level; borderline C
+010-4 C tiny image of magazine cover photo; possible faint mustache
+010-14 S engraving, sideburns extend down cheek toward jaw; borderline C
+011-1 F engraving, mustache + beard; cheeks largely shaved, beard along lower jaw; could be G
