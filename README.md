@@ -59,7 +59,7 @@ for the Ohio presidents.
   major-party nominees with facial hair, birth state and Union-general status.
 - **`state_population_1790_1920.csv`**: total and white population by state.
 - **`robinson_facial_hair_1842_1972.csv`**: British men's facial hair by year,
-  digitized from Robinson (1975). Traced from a chart, so about ±3 points.
+  digitized by this project from Robinson (1975). Traced from a chart, so about ±3 points.
 - **`wikidata_people.json`**: birth year, birth state(s), military branch and
   Civil War service from Wikidata for every coded person and Union general,
   keyed by Wikidata ID (used by `analysis/followups/`).
@@ -124,8 +124,9 @@ download scripts.
 
 ## Sources and licenses
 
-The code in this repository is MIT licensed (see [LICENSE](LICENSE)). The data
-sources below keep their own terms.
+The code in this repository and the datasets it produces (the CSVs under
+`data/` and the coding files under `coding/`) are MIT licensed (see
+[LICENSE](LICENSE)). The upstream sources below keep their own terms.
 
 - Member and term data: unitedstates/congress-legislators (public domain).
 - Wikidata (CC0). Portraits are on Wikimedia Commons under their individual
