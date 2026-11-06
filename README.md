@@ -124,9 +124,8 @@ download scripts.
 
 ## Sources and licenses
 
-The code in this repository and the datasets it produces (the CSVs under
-`data/` and the coding files under `coding/`) are MIT licensed (see
-[LICENSE](LICENSE)). The upstream sources below keep their own terms.
+Code and the datasets in `data/` and `coding/` are MIT licensed. Upstream
+sources keep their own terms.
 
 - Member and term data: unitedstates/congress-legislators (public domain).
 - Wikidata (CC0). Portraits are on Wikimedia Commons under their individual
